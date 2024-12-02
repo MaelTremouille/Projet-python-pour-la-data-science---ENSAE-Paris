@@ -2,10 +2,10 @@
     {
         "barcode": "3073781055016",
         "Nom": "Fagotin tradition",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages",
+        "Catégorie": "en:dairies",
         "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "c",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 47,
         "Taux de protéine": 20,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 332
@@ -13,10 +13,10 @@
     {
         "barcode": "3564707128117",
         "Nom": "Ricotta bio 8% Mat. Gr.",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages italiens, Ricotta",
+        "Catégorie": "en:dairies",
         "Nutriscore": "c",
-        "Novascore": 4,
-        "Ecoscore": "b",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 60,
         "Taux de protéine": 8,
         "Taux de sucre": 3,
         "Énergie (Kcal)": "N/A"
@@ -24,10 +24,10 @@
     {
         "barcode": "3564700583135",
         "Nom": "Fromage Le Carre Au Lait Pasterise",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de vache, Fromages pasteurisés",
+        "Catégorie": "en:dairies",
         "Nutriscore": "d",
-        "Novascore": 3,
-        "Ecoscore": "d",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 44,
         "Taux de protéine": 18,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 319
@@ -35,10 +35,10 @@
     {
         "barcode": "3596710495979",
         "Nom": "Gouda tranchettes",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de vache, Fromages à pâte pressée non cuite, Goudas",
+        "Catégorie": "en:dairies",
         "Nutriscore": "d",
-        "Novascore": 3,
-        "Ecoscore": "d",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 38,
         "Taux de protéine": 24,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 350
@@ -46,10 +46,10 @@
     {
         "barcode": "3564707090162",
         "Nom": "Mozzarella x 1",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de vache, Fromages italiens, Fromages à pâte filée, Mozzarella, Fromages pasteurisés",
+        "Catégorie": "en:dairies",
         "Nutriscore": "c",
-        "Novascore": 3,
-        "Ecoscore": "b",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 65,
         "Taux de protéine": 18,
         "Taux de sucre": 1,
         "Énergie (Kcal)": 247
@@ -57,10 +57,10 @@
     {
         "barcode": "3330410005980",
         "Nom": "Edam tranches 200g",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages",
+        "Catégorie": "en:dairies",
         "Nutriscore": "d",
-        "Novascore": "N/A",
-        "Ecoscore": "d",
+        "Novascore": "unknown",
+        "Ecoscore": 35,
         "Taux de protéine": 25,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 316
@@ -68,10 +68,10 @@
     {
         "barcode": "5010578008044",
         "Nom": "Cottage Cheese With Pineapple",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages à pâte fraîche, Cottage cheeses",
+        "Catégorie": "en:dairies",
         "Nutriscore": "c",
-        "Novascore": "N/A",
-        "Ecoscore": "d",
+        "Novascore": "unknown",
+        "Ecoscore": 35,
         "Taux de protéine": 9.5,
         "Taux de sucre": 5.1,
         "Énergie (Kcal)": 109
@@ -79,10 +79,10 @@
     {
         "barcode": "3250391819256",
         "Nom": "Le Sainte-Maure - Fromage de chèvre",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de chèvre, Fromages pasteurisés",
+        "Catégorie": "en:dairies",
         "Nutriscore": "d",
-        "Novascore": 3,
-        "Ecoscore": "e",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 22,
         "Taux de protéine": 19,
         "Taux de sucre": 0.8,
         "Énergie (Kcal)": 256
@@ -90,10 +90,10 @@
     {
         "barcode": "3257986760191",
         "Nom": "Mozarella cossettes cora",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages italiens, Fromages à pâte filée, Mozzarella",
+        "Catégorie": "en:dairies",
         "Nutriscore": "d",
-        "Novascore": 3,
-        "Ecoscore": "d",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 40,
         "Taux de protéine": 26,
         "Taux de sucre": 0.6,
         "Énergie (Kcal)": 312
@@ -101,10 +101,10 @@
     {
         "barcode": "3222472116851",
         "Nom": "La Raclette en tranches",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de vache, Frais, Fromages à pâte pressée non cuite, Fromages pasteurisés, Raclettes, Fromages en tranches, Fromages industriels",
+        "Catégorie": "en:dairies",
         "Nutriscore": "d",
-        "Novascore": 3,
-        "Ecoscore": "c",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 45,
         "Taux de protéine": 23,
         "Taux de sucre": 0,
         "Énergie (Kcal)": 328
@@ -112,10 +112,10 @@
     {
         "barcode": "3258561429281",
         "Nom": "Mimolette",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de vache, Fromages de France, Fromages à pâte pressée non cuite, Mimolettes, Fromages-du-nord-pas-de-calais",
+        "Catégorie": "fr:fromages-du-nord-pas-de-calais",
         "Nutriscore": "d",
-        "Novascore": "N/A",
-        "Ecoscore": "d",
+        "Novascore": "unknown",
+        "Ecoscore": 31,
         "Taux de protéine": 26.2,
         "Taux de sucre": 0,
         "Énergie (Kcal)": 313
@@ -123,10 +123,10 @@
     {
         "barcode": "3258561430140",
         "Nom": "Camembert",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de vache, Fromages à pâte molle à croûte fleurie, Camemberts",
+        "Catégorie": "en:dairies",
         "Nutriscore": "d",
-        "Novascore": 3,
-        "Ecoscore": "c",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 58,
         "Taux de protéine": 20,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 280
@@ -134,10 +134,10 @@
     {
         "barcode": "3258561430447",
         "Nom": "Emmental râpé francais (29% MG)",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de vache, en:cooked-pressed-cheeses, Emmentals, Fromages de France, Emmentals français, Fromages râpés, Emmentals râpés",
+        "Catégorie": "en:dairies",
         "Nutriscore": "d",
-        "Novascore": 3,
-        "Ecoscore": "d",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 42,
         "Taux de protéine": 27,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 369
@@ -145,10 +145,10 @@
     {
         "barcode": "3250391651467",
         "Nom": "Cancoillotte de Franche Comte a l'ail, le pot de",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de France, Fromages à pâte fondue, Cancoillottes",
+        "Catégorie": "en:dairies",
         "Nutriscore": "c",
-        "Novascore": 3,
-        "Ecoscore": "d",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 36,
         "Taux de protéine": 14.2,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 136
@@ -156,10 +156,10 @@
     {
         "barcode": "8006207000166",
         "Nom": "Grated Chreese",
-        "Catégorie": "Dairies, Fermented foods, Fermented milk products, Cheeses, Grated cheese",
+        "Catégorie": "en:dairies",
         "Nutriscore": "e",
-        "Novascore": 3,
-        "Ecoscore": "d",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 35,
         "Taux de protéine": 39.2,
         "Taux de sucre": 2,
         "Énergie (Kcal)": 450
@@ -167,10 +167,10 @@
     {
         "barcode": "3228021170039",
         "Nom": "PRESIDENT CAMEMBERT 250g",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de vache, Fromages à pâte molle à croûte fleurie, Camemberts, Camemberts au lait de vache, Fromages de France, Fromages pasteurisés, Camemberts au lait pasteurisé de vache",
+        "Catégorie": "en:dairies",
         "Nutriscore": "d",
-        "Novascore": 3,
-        "Ecoscore": "c",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 48,
         "Taux de protéine": 20,
         "Taux de sucre": 0,
         "Énergie (Kcal)": 269
@@ -178,10 +178,10 @@
     {
         "barcode": "3412290028942",
         "Nom": "L'Emmental Français",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de vache, en:cooked-pressed-cheeses, Emmentals, Fromages de France, Emmentals français",
+        "Catégorie": "en:dairies",
         "Nutriscore": "d",
-        "Novascore": "N/A",
-        "Ecoscore": "d",
+        "Novascore": "unknown",
+        "Ecoscore": 37,
         "Taux de protéine": 27,
         "Taux de sucre": 2,
         "Énergie (Kcal)": 377
@@ -189,10 +189,10 @@
     {
         "barcode": "3199241024924",
         "Nom": "Billes de Chevrot frais Eclats d'abricot",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de chèvre, Fromage de chèvre frais",
+        "Catégorie": "en:dairies",
         "Nutriscore": "c",
-        "Novascore": "N/A",
-        "Ecoscore": "f",
+        "Novascore": "unknown",
+        "Ecoscore": 14,
         "Taux de protéine": 12,
         "Taux de sucre": 7.3,
         "Énergie (Kcal)": 250
@@ -200,10 +200,10 @@
     {
         "barcode": "3417881210706",
         "Nom": "Crottin frais",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de chèvre",
+        "Catégorie": "en:dairies",
         "Nutriscore": "d",
-        "Novascore": 3,
-        "Ecoscore": "f",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 8,
         "Taux de protéine": 15,
         "Taux de sucre": 2.7,
         "Énergie (Kcal)": 282
@@ -211,10 +211,10 @@
     {
         "barcode": "3053004000009",
         "Nom": "Crottin frais aromatisé",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de chèvre, Fromage de chèvre frais",
+        "Catégorie": "en:dairies",
         "Nutriscore": "unknown",
-        "Novascore": 3,
-        "Ecoscore": "f",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 14,
         "Taux de protéine": "N/A",
         "Taux de sucre": "N/A",
         "Énergie (Kcal)": "N/A"
@@ -222,10 +222,10 @@
     {
         "barcode": "3344001130043",
         "Nom": "Le Frais Crottin",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de chèvre, Fromage de chèvre frais",
+        "Catégorie": "en:dairies",
         "Nutriscore": "c",
-        "Novascore": 3,
-        "Ecoscore": "f",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 14,
         "Taux de protéine": 10,
         "Taux de sucre": 2.2,
         "Énergie (Kcal)": 149
@@ -233,10 +233,10 @@
     {
         "barcode": "3417881240529",
         "Nom": "Crottin chèvre frais",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de chèvre, Crottin de chèvre",
+        "Catégorie": "en:dairies",
         "Nutriscore": "d",
-        "Novascore": 3,
-        "Ecoscore": "f",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 7,
         "Taux de protéine": 15,
         "Taux de sucre": 2.7,
         "Énergie (Kcal)": 282
@@ -244,10 +244,10 @@
     {
         "barcode": "3417880721210",
         "Nom": "Crottin frais",
-        "Catégorie": "Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de chèvre, Crottin de chèvre",
+        "Catégorie": "en:dairies",
         "Nutriscore": "d",
-        "Novascore": 3,
-        "Ecoscore": "f",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 7,
         "Taux de protéine": 15,
         "Taux de sucre": 2.7,
         "Énergie (Kcal)": 282
@@ -255,10 +255,10 @@
     {
         "barcode": "5411188118121",
         "Nom": "Alpro Fermentiertes Sojaprodukt, Ungesüßt 500g",
-        "Catégorie": "Plant-based foods and beverages,Fermented foods,Dairy substitutes,Desserts,Non-dairy desserts,Non-dairy fermented foods,Non-dairy yogurts,Soy milk yogurts",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "a",
-        "Novascore": 4,
-        "Ecoscore": "a",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 81,
         "Taux de protéine": 4,
         "Taux de sucre": 0,
         "Énergie (Kcal)": 42
@@ -266,10 +266,10 @@
     {
         "barcode": "8019428006169",
         "Nom": "Creme d’Avoine",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Crèmes végétales, Crèmes végétales pour cuisiner, Crèmes végétales à base d'avoine pour cuisiner",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "b",
-        "Novascore": "N/A",
-        "Ecoscore": "unknown",
+        "Novascore": "unknown",
+        "Ecoscore": "N/A",
         "Taux de protéine": 0.5,
         "Taux de sucre": 0.8,
         "Énergie (Kcal)": 98
@@ -277,10 +277,10 @@
     {
         "barcode": "8019428006190",
         "Nom": "Bio drink rice coconut",
-        "Catégorie": "Aliments et boissons à base de végétaux, Boissons, Substituts de produits laitiers, Substituts du lait, Boissons à base de végétaux, Boissons végétales, Boissons multivégétaux",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "b",
-        "Novascore": "N/A",
-        "Ecoscore": "unknown",
+        "Novascore": "unknown",
+        "Ecoscore": "N/A",
         "Taux de protéine": 0.5,
         "Taux de sucre": 4.6,
         "Énergie (Kcal)": 70
@@ -288,10 +288,10 @@
     {
         "barcode": "7613312347447",
         "Nom": "Pâte à la vanille",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Condiments, Epices, Vanille",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "not-applicable",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 0.5,
         "Taux de sucre": 55,
         "Énergie (Kcal)": 227
@@ -299,10 +299,10 @@
     {
         "barcode": "3265477983004",
         "Nom": "Huile Isio 4 Olive",
-        "Catégorie": "Plant-based foods and beverages,Plant-based foods,Fats,Vegetable fats,Mixed vegetable oils",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "c",
-        "Novascore": 2,
-        "Ecoscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 47,
         "Taux de protéine": 0,
         "Taux de sucre": 0,
         "Énergie (Kcal)": 900
@@ -310,10 +310,10 @@
     {
         "barcode": "5413110532760",
         "Nom": "Bulgur Pilaf",
-        "Catégorie": "Plats préparés, Plats à base de boulgour",
+        "Catégorie": "en:meals",
         "Nutriscore": "a",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 3.8,
         "Taux de sucre": 9,
         "Énergie (Kcal)": 150
@@ -321,10 +321,10 @@
     {
         "barcode": "5601165004640",
         "Nom": "Ice tea pêssego",
-        "Catégorie": "Plant-based foods and beverages,Beverages,Hot beverages,Plant-based beverages,Teas,Tea-based beverages,Iced teas,Peach flavored iced teas",
-        "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "a-plus",
+        "Catégorie": "en:beverages-and-beverages-preparations",
+        "Nutriscore": "not-applicable",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 94,
         "Taux de protéine": 0.5,
         "Taux de sucre": 4.5,
         "Énergie (Kcal)": 19
@@ -332,10 +332,10 @@
     {
         "barcode": "3301594002263",
         "Nom": "Compote pommes",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Aliments à base de fruits et de légumes, Desserts, Fruits et produits dérivés, Compotes, Compotes de pomme, Compotes pommes nature",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "a",
-        "Novascore": 3,
-        "Ecoscore": "a",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 76,
         "Taux de protéine": 0,
         "Taux de sucre": 14,
         "Énergie (Kcal)": 70
@@ -343,10 +343,10 @@
     {
         "barcode": "4770107252805",
         "Nom": "SUN YAN",
-        "Catégorie": "Plant-based foods and beverages, Plant-based foods, Snacks, Dried products, Pastas, Dried products to be rehydrated, Noodles, Instant noodles",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "unknown",
-        "Novascore": 4,
-        "Ecoscore": "c",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 52,
         "Taux de protéine": 1.9,
         "Taux de sucre": 1,
         "Énergie (Kcal)": 93
@@ -354,10 +354,10 @@
     {
         "barcode": "3700195639104",
         "Nom": "Poudre de noisette",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Fruits à coques et dérivés, Fruits à coques, Noisettes, Noisettes en poudre",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "c",
-        "Novascore": "N/A",
-        "Ecoscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 16,
         "Taux de protéine": 16,
         "Taux de sucre": 6.5,
         "Énergie (Kcal)": 633
@@ -365,10 +365,10 @@
     {
         "barcode": "3520831330802",
         "Nom": "POUDRE DE NOISette",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Fruits à coques et dérivés, Fruits à coques, Noisettes, Noisettes en poudre",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "unknown",
-        "Novascore": "N/A",
-        "Ecoscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 16,
         "Taux de protéine": "N/A",
         "Taux de sucre": "N/A",
         "Énergie (Kcal)": "N/A"
@@ -376,10 +376,10 @@
     {
         "barcode": "4260654786132",
         "Nom": "Haselnüsse gemahlen",
-        "Catégorie": "Plant-based foods and beverages,Plant-based foods,Nuts and their products,Nuts,Hazelnuts,Hazelnuts-powder",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "a",
-        "Novascore": "N/A",
-        "Ecoscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 16,
         "Taux de protéine": 12,
         "Taux de sucre": 1,
         "Énergie (Kcal)": 667
@@ -387,10 +387,10 @@
     {
         "barcode": "3460422349854",
         "Nom": "Poudre noisette bio",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Fruits à coques et dérivés, Fruits à coques, Noisettes, Noisettes en poudre",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "c",
-        "Novascore": "N/A",
-        "Ecoscore": "d",
+        "Novascore": "unknown",
+        "Ecoscore": 36,
         "Taux de protéine": 12.8,
         "Taux de sucre": 5,
         "Énergie (Kcal)": 674
@@ -398,10 +398,10 @@
     {
         "barcode": "8002352211266",
         "Nom": "Poudre De Noisettes Grillées",
-        "Catégorie": "Plant-based foods and beverages,Plant-based foods,Nuts and their products,Nuts,Hazelnuts,Hazelnuts-powder",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "c",
-        "Novascore": 1,
-        "Ecoscore": "d",
+        "Novascore": "en:1-unprocessed-or-minimally-processed-foods",
+        "Ecoscore": 41,
         "Taux de protéine": 11.699999809265,
         "Taux de sucre": 2.7000000476837,
         "Énergie (Kcal)": 704
@@ -409,10 +409,10 @@
     {
         "barcode": "3162050018613",
         "Nom": "NOISETTES DE MEDITERRANEEEN POUDRE",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Fruits à coques et dérivés, Fruits à coques, Noisettes, Noisettes en poudre",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "a",
-        "Novascore": 1,
-        "Ecoscore": "e",
+        "Novascore": "en:1-unprocessed-or-minimally-processed-foods",
+        "Ecoscore": 21,
         "Taux de protéine": 17,
         "Taux de sucre": 4.9,
         "Énergie (Kcal)": 632
@@ -420,10 +420,10 @@
     {
         "barcode": "5400247032911",
         "Nom": "Noisettes En Poudre",
-        "Catégorie": "Plant-based foods and beverages,Plant-based foods,Nuts and their products,Nuts,Hazelnuts,Hazelnuts-powder",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "b",
-        "Novascore": "N/A",
-        "Ecoscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 16,
         "Taux de protéine": 19,
         "Taux de sucre": 6.1,
         "Énergie (Kcal)": 617
@@ -431,10 +431,10 @@
     {
         "barcode": "3252920048281",
         "Nom": "Velouté de Tomates",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Aliments à base de fruits et de légumes, Légumes et dérivés, Plats préparés, Soupes, Tomates et dérivés, Veloutés, Soupes de légumes, Veloutés de légumes, Veloutés de tomates",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "b",
-        "Novascore": 3,
-        "Ecoscore": "a-plus",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 112,
         "Taux de protéine": 0.5,
         "Taux de sucre": 3,
         "Énergie (Kcal)": 35
@@ -442,10 +442,10 @@
     {
         "barcode": "3229820787343",
         "Nom": "Boulgour, Quinoa et Sésame",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Céréales et pommes de terre, Céréales et dérivés, Plats préparés, Gruau, Plats préparés à réchauffer au micro-ondes, Plats préparés d'origine végétale, Gruau de blé, Boulghours",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "a",
-        "Novascore": "N/A",
-        "Ecoscore": "a-plus",
+        "Novascore": "unknown",
+        "Ecoscore": 95,
         "Taux de protéine": 6.1,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 180
@@ -453,10 +453,10 @@
     {
         "barcode": "3560002430016",
         "Nom": "Confiture abricots",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Petit-déjeuners, Produits à tartiner, Surgelés, Pâtes à tartiner végétales, Produits à tartiner sucrés, Confitures et marmelades, Confitures, Confitures d'abricot",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "a-plus",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 90,
         "Taux de protéine": 0.1,
         "Taux de sucre": 55.3,
         "Énergie (Kcal)": 242.8
@@ -464,10 +464,10 @@
     {
         "barcode": "3451790016288",
         "Nom": "Le Fouetté de Beurre Demi-Sel",
-        "Catégorie": "Aliments et boissons à base de végétaux, Produits laitiers, Aliments d'origine végétale, Matières grasses, Produits à tartiner, Pâtes à tartiner végétales, Produits à tartiner salés, Matières grasses à tartiner, Matières grasses végétales, Matières grasses animales, Matière grasse laitière, en:dairy-spread, Margarines, Beurres, Matière grasse mélangée végétale et laitière à 50-63% MG demi-sel, Beurres demi-sel, Beurre à tartiner",
+        "Catégorie": "fr:beurre-a-tartiner",
         "Nutriscore": "e",
-        "Novascore": 2,
-        "Ecoscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 51,
         "Taux de protéine": 1.1,
         "Taux de sucre": 2.1,
         "Énergie (Kcal)": 580
@@ -475,10 +475,10 @@
     {
         "barcode": "3250392784669",
         "Nom": "flocons d'avoine complète",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Petit-déjeuners, Céréales et pommes de terre, Céréales et dérivés, Céréales pour petit-déjeuner, Flocons, Flocons de céréales, Flocons laminés, en:oat-flakes, Flocons d'avoine complète",
+        "Catégorie": "fr:flocons-d-avoine-complete",
         "Nutriscore": "a",
-        "Novascore": 1,
-        "Ecoscore": "b",
+        "Novascore": "en:1-unprocessed-or-minimally-processed-foods",
+        "Ecoscore": 62,
         "Taux de protéine": 13,
         "Taux de sucre": 0.9,
         "Énergie (Kcal)": 376
@@ -486,10 +486,10 @@
     {
         "barcode": "3229820188744",
         "Nom": "Quinoa lentilles",
-        "Catégorie": "Aliments et boissons à base de végétaux,Aliments d'origine végétale,Plats préparés,Céréales préparées",
+        "Catégorie": "fr:cereales-preparees",
         "Nutriscore": "a",
-        "Novascore": 3,
-        "Ecoscore": "unknown",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": "N/A",
         "Taux de protéine": 5.5,
         "Taux de sucre": 0.6,
         "Énergie (Kcal)": 139
@@ -497,10 +497,10 @@
     {
         "barcode": "3229820795485",
         "Nom": "Quinoa champignons potiron",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Plats préparés, Plats préparés d'origine végétale, Plats à base de quinoa",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "a",
-        "Novascore": 3,
-        "Ecoscore": "unknown",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": "N/A",
         "Taux de protéine": 4.1,
         "Taux de sucre": 2,
         "Énergie (Kcal)": 116
@@ -508,10 +508,10 @@
     {
         "barcode": "8019428006169",
         "Nom": "Creme d’Avoine",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Crèmes végétales, Crèmes végétales pour cuisiner, Crèmes végétales à base d'avoine pour cuisiner",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "b",
-        "Novascore": "N/A",
-        "Ecoscore": "unknown",
+        "Novascore": "unknown",
+        "Ecoscore": "N/A",
         "Taux de protéine": 0.5,
         "Taux de sucre": 0.8,
         "Énergie (Kcal)": 98
@@ -519,10 +519,10 @@
     {
         "barcode": "7613312347447",
         "Nom": "Pâte à la vanille",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Condiments, Epices, Vanille",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "not-applicable",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 0.5,
         "Taux de sucre": 55,
         "Énergie (Kcal)": 227
@@ -530,10 +530,10 @@
     {
         "barcode": "3265477983004",
         "Nom": "Huile Isio 4 Olive",
-        "Catégorie": "Plant-based foods and beverages,Plant-based foods,Fats,Vegetable fats,Mixed vegetable oils",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "c",
-        "Novascore": 2,
-        "Ecoscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 47,
         "Taux de protéine": 0,
         "Taux de sucre": 0,
         "Énergie (Kcal)": 900
@@ -541,10 +541,10 @@
     {
         "barcode": "5413110532760",
         "Nom": "Bulgur Pilaf",
-        "Catégorie": "Plats préparés, Plats à base de boulgour",
+        "Catégorie": "en:meals",
         "Nutriscore": "a",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 3.8,
         "Taux de sucre": 9,
         "Énergie (Kcal)": 150
@@ -552,10 +552,10 @@
     {
         "barcode": "3301594002263",
         "Nom": "Compote pommes",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Aliments à base de fruits et de légumes, Desserts, Fruits et produits dérivés, Compotes, Compotes de pomme, Compotes pommes nature",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "a",
-        "Novascore": 3,
-        "Ecoscore": "a",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 76,
         "Taux de protéine": 0,
         "Taux de sucre": 14,
         "Énergie (Kcal)": 70
@@ -563,10 +563,10 @@
     {
         "barcode": "4770107252805",
         "Nom": "SUN YAN",
-        "Catégorie": "Plant-based foods and beverages, Plant-based foods, Snacks, Dried products, Pastas, Dried products to be rehydrated, Noodles, Instant noodles",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "unknown",
-        "Novascore": 4,
-        "Ecoscore": "c",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 52,
         "Taux de protéine": 1.9,
         "Taux de sucre": 1,
         "Énergie (Kcal)": 93
@@ -574,10 +574,10 @@
     {
         "barcode": "3700195639104",
         "Nom": "Poudre de noisette",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Fruits à coques et dérivés, Fruits à coques, Noisettes, Noisettes en poudre",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "c",
-        "Novascore": "N/A",
-        "Ecoscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 16,
         "Taux de protéine": 16,
         "Taux de sucre": 6.5,
         "Énergie (Kcal)": 633
@@ -585,10 +585,10 @@
     {
         "barcode": "3520831330802",
         "Nom": "POUDRE DE NOISette",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Fruits à coques et dérivés, Fruits à coques, Noisettes, Noisettes en poudre",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "unknown",
-        "Novascore": "N/A",
-        "Ecoscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 16,
         "Taux de protéine": "N/A",
         "Taux de sucre": "N/A",
         "Énergie (Kcal)": "N/A"
@@ -596,10 +596,10 @@
     {
         "barcode": "4260654786132",
         "Nom": "Haselnüsse gemahlen",
-        "Catégorie": "Plant-based foods and beverages,Plant-based foods,Nuts and their products,Nuts,Hazelnuts,Hazelnuts-powder",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "a",
-        "Novascore": "N/A",
-        "Ecoscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 16,
         "Taux de protéine": 12,
         "Taux de sucre": 1,
         "Énergie (Kcal)": 667
@@ -607,10 +607,10 @@
     {
         "barcode": "3460422349854",
         "Nom": "Poudre noisette bio",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Fruits à coques et dérivés, Fruits à coques, Noisettes, Noisettes en poudre",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "c",
-        "Novascore": "N/A",
-        "Ecoscore": "d",
+        "Novascore": "unknown",
+        "Ecoscore": 36,
         "Taux de protéine": 12.8,
         "Taux de sucre": 5,
         "Énergie (Kcal)": 674
@@ -618,10 +618,10 @@
     {
         "barcode": "8002352211266",
         "Nom": "Poudre De Noisettes Grillées",
-        "Catégorie": "Plant-based foods and beverages,Plant-based foods,Nuts and their products,Nuts,Hazelnuts,Hazelnuts-powder",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "c",
-        "Novascore": 1,
-        "Ecoscore": "d",
+        "Novascore": "en:1-unprocessed-or-minimally-processed-foods",
+        "Ecoscore": 41,
         "Taux de protéine": 11.699999809265,
         "Taux de sucre": 2.7000000476837,
         "Énergie (Kcal)": 704
@@ -629,10 +629,10 @@
     {
         "barcode": "3162050018613",
         "Nom": "NOISETTES DE MEDITERRANEEEN POUDRE",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Fruits à coques et dérivés, Fruits à coques, Noisettes, Noisettes en poudre",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "a",
-        "Novascore": 1,
-        "Ecoscore": "e",
+        "Novascore": "en:1-unprocessed-or-minimally-processed-foods",
+        "Ecoscore": 21,
         "Taux de protéine": 17,
         "Taux de sucre": 4.9,
         "Énergie (Kcal)": 632
@@ -640,10 +640,10 @@
     {
         "barcode": "5400247032911",
         "Nom": "Noisettes En Poudre",
-        "Catégorie": "Plant-based foods and beverages,Plant-based foods,Nuts and their products,Nuts,Hazelnuts,Hazelnuts-powder",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "b",
-        "Novascore": "N/A",
-        "Ecoscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 16,
         "Taux de protéine": 19,
         "Taux de sucre": 6.1,
         "Énergie (Kcal)": 617
@@ -651,10 +651,10 @@
     {
         "barcode": "3252920048281",
         "Nom": "Velouté de Tomates",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Aliments à base de fruits et de légumes, Légumes et dérivés, Plats préparés, Soupes, Tomates et dérivés, Veloutés, Soupes de légumes, Veloutés de légumes, Veloutés de tomates",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "b",
-        "Novascore": 3,
-        "Ecoscore": "a-plus",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 112,
         "Taux de protéine": 0.5,
         "Taux de sucre": 3,
         "Énergie (Kcal)": 35
@@ -662,10 +662,10 @@
     {
         "barcode": "3229820787343",
         "Nom": "Boulgour, Quinoa et Sésame",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Céréales et pommes de terre, Céréales et dérivés, Plats préparés, Gruau, Plats préparés à réchauffer au micro-ondes, Plats préparés d'origine végétale, Gruau de blé, Boulghours",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "a",
-        "Novascore": "N/A",
-        "Ecoscore": "a-plus",
+        "Novascore": "unknown",
+        "Ecoscore": 95,
         "Taux de protéine": 6.1,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 180
@@ -673,10 +673,10 @@
     {
         "barcode": "3560002430016",
         "Nom": "Confiture abricots",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Petit-déjeuners, Produits à tartiner, Surgelés, Pâtes à tartiner végétales, Produits à tartiner sucrés, Confitures et marmelades, Confitures, Confitures d'abricot",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "a-plus",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 90,
         "Taux de protéine": 0.1,
         "Taux de sucre": 55.3,
         "Énergie (Kcal)": 242.8
@@ -684,10 +684,10 @@
     {
         "barcode": "3451790016288",
         "Nom": "Le Fouetté de Beurre Demi-Sel",
-        "Catégorie": "Aliments et boissons à base de végétaux, Produits laitiers, Aliments d'origine végétale, Matières grasses, Produits à tartiner, Pâtes à tartiner végétales, Produits à tartiner salés, Matières grasses à tartiner, Matières grasses végétales, Matières grasses animales, Matière grasse laitière, en:dairy-spread, Margarines, Beurres, Matière grasse mélangée végétale et laitière à 50-63% MG demi-sel, Beurres demi-sel, Beurre à tartiner",
+        "Catégorie": "fr:beurre-a-tartiner",
         "Nutriscore": "e",
-        "Novascore": 2,
-        "Ecoscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 51,
         "Taux de protéine": 1.1,
         "Taux de sucre": 2.1,
         "Énergie (Kcal)": 580
@@ -695,10 +695,10 @@
     {
         "barcode": "3250392784669",
         "Nom": "flocons d'avoine complète",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Petit-déjeuners, Céréales et pommes de terre, Céréales et dérivés, Céréales pour petit-déjeuner, Flocons, Flocons de céréales, Flocons laminés, en:oat-flakes, Flocons d'avoine complète",
+        "Catégorie": "fr:flocons-d-avoine-complete",
         "Nutriscore": "a",
-        "Novascore": 1,
-        "Ecoscore": "b",
+        "Novascore": "en:1-unprocessed-or-minimally-processed-foods",
+        "Ecoscore": 62,
         "Taux de protéine": 13,
         "Taux de sucre": 0.9,
         "Énergie (Kcal)": 376
@@ -706,10 +706,10 @@
     {
         "barcode": "3229820188744",
         "Nom": "Quinoa lentilles",
-        "Catégorie": "Aliments et boissons à base de végétaux,Aliments d'origine végétale,Plats préparés,Céréales préparées",
+        "Catégorie": "fr:cereales-preparees",
         "Nutriscore": "a",
-        "Novascore": 3,
-        "Ecoscore": "unknown",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": "N/A",
         "Taux de protéine": 5.5,
         "Taux de sucre": 0.6,
         "Énergie (Kcal)": 139
@@ -717,10 +717,10 @@
     {
         "barcode": "3229820795485",
         "Nom": "Quinoa champignons potiron",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Plats préparés, Plats préparés d'origine végétale, Plats à base de quinoa",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "a",
-        "Novascore": 3,
-        "Ecoscore": "unknown",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": "N/A",
         "Taux de protéine": 4.1,
         "Taux de sucre": 2,
         "Énergie (Kcal)": 116
@@ -728,10 +728,10 @@
     {
         "barcode": "3229820787985",
         "Nom": "Crème de coco légère",
-        "Catégorie": "Plant-based foods and beverages,Plant-based foods,Dairy substitutes,Plant-based creams,Plant-based creams for cooking,Coconut-based creams for cooking,Coconut milks and creams",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "c",
-        "Novascore": 4,
-        "Ecoscore": "a-plus",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 111,
         "Taux de protéine": 1.2,
         "Taux de sucre": 1.6,
         "Énergie (Kcal)": 174
@@ -739,10 +739,10 @@
     {
         "barcode": "3273120030944",
         "Nom": "Purée cacahuète crunchy",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Légumineuses et dérivés, Produits à tartiner, Fruits à coques et dérivés, Pâtes à tartiner végétales, Purées d'oléagineux, Beurres de légumineuses, Beurres de fruits à coques, Beurres de cacahuètes",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "d",
-        "Novascore": "N/A",
-        "Ecoscore": "c",
+        "Novascore": "unknown",
+        "Ecoscore": 50,
         "Taux de protéine": 27,
         "Taux de sucre": 4.4,
         "Énergie (Kcal)": 640
@@ -750,10 +750,10 @@
     {
         "barcode": "3425471120311",
         "Nom": "Corsica’Tapas",
-        "Catégorie": "Snacks, Snacks salés, Produits à tartiner, Produits à tartiner salés, Tapenades, Tapenades noires, Tapas",
+        "Catégorie": "en:snacks",
         "Nutriscore": "d",
-        "Novascore": 3,
-        "Ecoscore": "b",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 68,
         "Taux de protéine": 2.1,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 324
@@ -761,10 +761,10 @@
     {
         "barcode": "0014200183319",
         "Nom": "Charms fluffy stuff north pole cotton candy",
-        "Catégorie": "Snacks, en:Barbes à papa, en:Confiseries, en:Snacks sucrés",
+        "Catégorie": "en:snacks",
         "Nutriscore": "unknown",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 0,
         "Taux de sucre": 100,
         "Énergie (Kcal)": "N/A"
@@ -772,10 +772,10 @@
     {
         "barcode": "3370077586156",
         "Nom": "La belle équitable - 100% Cacao noir",
-        "Catégorie": "Snacks, Snacks sucrés, Cacao et dérivés, Chocolats",
+        "Catégorie": "en:snacks",
         "Nutriscore": "d",
-        "Novascore": 3,
-        "Ecoscore": "unknown",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": "N/A",
         "Taux de protéine": 12.1,
         "Taux de sucre": 0.3,
         "Énergie (Kcal)": 587
@@ -783,10 +783,10 @@
     {
         "barcode": "3770009530002",
         "Nom": "bean to bar",
-        "Catégorie": "Snacks, Snacks sucrés, Cacao et dérivés, Chocolats, Chocolats noirs",
+        "Catégorie": "en:snacks",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "d",
+        "Novascore": "unknown",
+        "Ecoscore": 35,
         "Taux de protéine": 8,
         "Taux de sucre": 31,
         "Énergie (Kcal)": 532
@@ -794,10 +794,10 @@
     {
         "barcode": "8410076481597",
         "Nom": "Tortilla Nachips Original",
-        "Catégorie": "Lanches comida,Petiscos salgados,Aperitivos,en:Chips and fries,en:Crisps,en:Corn chips",
+        "Catégorie": "en:snacks",
         "Nutriscore": "b",
-        "Novascore": 3,
-        "Ecoscore": "b",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 72,
         "Taux de protéine": 7.8,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 492
@@ -805,10 +805,10 @@
     {
         "barcode": "8410525208959",
         "Nom": "Klet's hierbabuena",
-        "Catégorie": "Snacks, Snacks sucrés, Confiseries, Bonbons",
+        "Catégorie": "en:snacks",
         "Nutriscore": "b",
-        "Novascore": "N/A",
-        "Ecoscore": "d",
+        "Novascore": "unknown",
+        "Ecoscore": 42,
         "Taux de protéine": 0,
         "Taux de sucre": 0,
         "Énergie (Kcal)": 161
@@ -816,10 +816,10 @@
     {
         "barcode": "7622210089908",
         "Nom": "Cerealyo",
-        "Catégorie": "Snack, Snack dolci, Biscotti e torte, Biscotti",
+        "Catégorie": "en:snacks",
         "Nutriscore": "c",
-        "Novascore": "N/A",
-        "Ecoscore": "c",
+        "Novascore": "unknown",
+        "Ecoscore": 50,
         "Taux de protéine": 7.1,
         "Taux de sucre": 25,
         "Énergie (Kcal)": 450
@@ -827,10 +827,10 @@
     {
         "barcode": "4770107252805",
         "Nom": "SUN YAN",
-        "Catégorie": "Plant-based foods and beverages, Plant-based foods, Snacks, Dried products, Pastas, Dried products to be rehydrated, Noodles, Instant noodles",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "unknown",
-        "Novascore": 4,
-        "Ecoscore": "c",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 52,
         "Taux de protéine": 1.9,
         "Taux de sucre": 1,
         "Énergie (Kcal)": 93
@@ -838,10 +838,10 @@
     {
         "barcode": "3547561000089",
         "Nom": "Brownies",
-        "Catégorie": "Snacks, Snacks sucrés, Biscuits et gâteaux, Gâteaux, Gâteaux au chocolat, Brownies",
+        "Catégorie": "en:snacks",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 24,
         "Taux de protéine": 6.1,
         "Taux de sucre": 33,
         "Énergie (Kcal)": "N/A"
@@ -849,10 +849,10 @@
     {
         "barcode": "3395328474389",
         "Nom": "Chocolat",
-        "Catégorie": "Snacks, Snacks sucrés, Cacao et dérivés, Chocolats, Chocolats noirs, Chocolats noirs à l'orange",
+        "Catégorie": "en:snacks",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "c",
+        "Novascore": "unknown",
+        "Ecoscore": 56,
         "Taux de protéine": 6.7,
         "Taux de sucre": 39,
         "Énergie (Kcal)": 533
@@ -860,10 +860,10 @@
     {
         "barcode": "8003170042803",
         "Nom": "Cracker con riso soffiato",
-        "Catégorie": "Snack, Snacks salati, Antipasti, Crackers",
+        "Catégorie": "en:snacks",
         "Nutriscore": "c",
-        "Novascore": "N/A",
-        "Ecoscore": "b",
+        "Novascore": "unknown",
+        "Ecoscore": 67,
         "Taux de protéine": 10,
         "Taux de sucre": 2.2,
         "Énergie (Kcal)": 423
@@ -871,10 +871,10 @@
     {
         "barcode": "8000500359884",
         "Nom": "Ferrero rocher nocciola white",
-        "Catégorie": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, White chocolates, Chocolates with hazelnuts, White chocolates with hazelnuts",
+        "Catégorie": "en:snacks",
         "Nutriscore": "e",
-        "Novascore": 4,
-        "Ecoscore": "f",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 10,
         "Taux de protéine": 9.2,
         "Taux de sucre": 44.7,
         "Énergie (Kcal)": 610
@@ -882,10 +882,10 @@
     {
         "barcode": "3279130104217",
         "Nom": "Gâteau de Noël Stollen à la pâte d'amande",
-        "Catégorie": "Snacks, Snacks sucrés, Aliments festifs, Biscuits et gâteaux, Aliments et boissons de Noël, Gâteaux, Stollen",
+        "Catégorie": "en:snacks",
         "Nutriscore": "e",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 4.2,
         "Taux de sucre": 39,
         "Énergie (Kcal)": 402
@@ -893,10 +893,10 @@
     {
         "barcode": "3564709196343",
         "Nom": "Chips de sarrasin bretonnes",
-        "Catégorie": "Snacks, Snacks salés, Amuse-gueules, Chips et frites, Chips",
+        "Catégorie": "en:snacks",
         "Nutriscore": "c",
-        "Novascore": 3,
-        "Ecoscore": "unknown",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": "N/A",
         "Taux de protéine": 11,
         "Taux de sucre": 0.7,
         "Énergie (Kcal)": 505
@@ -904,10 +904,10 @@
     {
         "barcode": "3229820789118",
         "Nom": "Lunettes fraise",
-        "Catégorie": "Snacks, Snacks sucrés, Biscuits et gâteaux, Biscuits, Biscuits fourrés, Biscuits secs, Biscuits à la fraise, Lunettes à la fraise",
+        "Catégorie": "fr:lunettes-a-la-fraise",
         "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "a",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 83,
         "Taux de protéine": 6,
         "Taux de sucre": 33,
         "Énergie (Kcal)": 436
@@ -915,10 +915,10 @@
     {
         "barcode": "3700214612125",
         "Nom": "Noir quinoa soufflé",
-        "Catégorie": "Snacks, Snacks sucrés, Cacao et dérivés, Confiseries, Chocolats, Chocolats noirs, Chocolats noirs au quinoa",
+        "Catégorie": "fr:chocolats-noirs-au-quinoa",
         "Nutriscore": "e",
-        "Novascore": 3,
-        "Ecoscore": "c",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 53,
         "Taux de protéine": 5.4,
         "Taux de sucre": 37,
         "Énergie (Kcal)": 558
@@ -926,10 +926,10 @@
     {
         "barcode": "3595894795011",
         "Nom": "Bonbon Arc-en-ciel Sans Sucre",
-        "Catégorie": "Snacks, Snacks sucrés, Confiseries, Bonbons",
+        "Catégorie": "en:snacks",
         "Nutriscore": "b",
-        "Novascore": 4,
-        "Ecoscore": "c",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 47,
         "Taux de protéine": 0,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 234
@@ -937,10 +937,10 @@
     {
         "barcode": "8901063203198",
         "Nom": "Britannia 50 Piece Little Hearts",
-        "Catégorie": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits",
+        "Catégorie": "en:snacks",
         "Nutriscore": "c",
-        "Novascore": "N/A",
-        "Ecoscore": "c",
+        "Novascore": "unknown",
+        "Ecoscore": 50,
         "Taux de protéine": 2,
         "Taux de sucre": 8,
         "Énergie (Kcal)": 165
@@ -948,10 +948,10 @@
     {
         "barcode": "3256229807112",
         "Nom": "P'tit fourré chocolat",
-        "Catégorie": "Snacks, Snacks sucrés, Biscuits et gâteaux, Biscuits, Biscuits au chocolat, Biscuits fourrés",
+        "Catégorie": "en:snacks",
         "Nutriscore": "e",
-        "Novascore": 4,
-        "Ecoscore": "d",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 30,
         "Taux de protéine": 6.5,
         "Taux de sucre": 37,
         "Énergie (Kcal)": 499
@@ -959,10 +959,10 @@
     {
         "barcode": "7622210722621",
         "Nom": "Power Fresh menthe forte",
-        "Catégorie": "Snacks, Snacks sucrés, Confiseries, Chewing-gum, Chewing-gum sans sucres",
+        "Catégorie": "en:snacks",
         "Nutriscore": "not-applicable",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 0.2,
         "Taux de sucre": 0.1,
         "Énergie (Kcal)": 160
@@ -970,10 +970,10 @@
     {
         "barcode": "3292590894115",
         "Nom": "4 Bretzels crus",
-        "Catégorie": "Pain bretzel",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "b",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 6.6,
         "Taux de sucre": 1.8,
         "Énergie (Kcal)": 251
@@ -981,10 +981,10 @@
     {
         "barcode": "3336971806066",
         "Nom": "La Vicoise de Picardie",
-        "Catégorie": "Plant-based foods and beverages, Plant-based foods, Snacks, Cereals and potatoes, Salty snacks, Appetizers, Chips and fries, Crisps, Potato crisps, Farmer's crisps, Potato crisps in sunflower oil",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "c",
-        "Novascore": 3,
-        "Ecoscore": "a",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 82,
         "Taux de protéine": 5.9,
         "Taux de sucre": 0.6,
         "Énergie (Kcal)": 525
@@ -992,10 +992,10 @@
     {
         "barcode": "3425470014109",
         "Nom": "Terrine Charles Antona. Sanglier à l'eau de vie",
-        "Catégorie": "Viandes et dérivés, Viandes, Charcuteries, Terrines, Terrines de sanglier",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "unknown",
+        "Novascore": "unknown",
+        "Ecoscore": "N/A",
         "Taux de protéine": 10,
         "Taux de sucre": 0.7,
         "Énergie (Kcal)": 377
@@ -1003,10 +1003,10 @@
     {
         "barcode": "5400247020949",
         "Nom": "Lasagne bolognaise à la viande de porc",
-        "Catégorie": "Viandes et dérivés, Plats préparés, Frais, Plats à base de pâtes, Plats préparés à la viande, Lasagnes préparées, Plats préparés frais, Plats au porc, en:Meat lasagnas, Lasagnes à la bolognaise",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "c",
-        "Novascore": 4,
-        "Ecoscore": "d",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 32,
         "Taux de protéine": 5.2,
         "Taux de sucre": 4.2,
         "Énergie (Kcal)": 144
@@ -1014,10 +1014,10 @@
     {
         "barcode": "3302740057472",
         "Nom": "Ravioli bolognaise",
-        "Catégorie": "Viandes et dérivés, Plats préparés, Plats à base de pâtes, Plats préparés à la viande, Pâtes farcies, Plats au bœuf, Pâtes farcies à la viande, Ravioli, Ravioli à la viande, Raviolis au bœuf, Ravioli à la bolognaise",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "a",
-        "Novascore": 3,
-        "Ecoscore": "b",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 67,
         "Taux de protéine": 5.5,
         "Taux de sucre": 3.4,
         "Énergie (Kcal)": 122
@@ -1025,10 +1025,10 @@
     {
         "barcode": "0204146023750",
         "Nom": "Pate croute richelieu canard",
-        "Catégorie": "Viandes et dérivés, Viandes, Charcuteries, Charcuteries cuites, Pâté en croûte, Pâté en croûte Richelieu",
+        "Catégorie": "fr:charcuteries-cuites",
         "Nutriscore": "e",
-        "Novascore": 4,
-        "Ecoscore": "f",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": -2,
         "Taux de protéine": 11,
         "Taux de sucre": 1.2,
         "Énergie (Kcal)": 317
@@ -1036,10 +1036,10 @@
     {
         "barcode": "3520837340133",
         "Nom": "Cordon bleu de poulet",
-        "Catégorie": "Meats and their products, Meat preparations, Breaded products, Cordons bleus, Poultry cordons bleus, en:chicken-preparations",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "c",
-        "Novascore": 3,
-        "Ecoscore": "d",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 42,
         "Taux de protéine": 13,
         "Taux de sucre": 0.7,
         "Énergie (Kcal)": 254
@@ -1047,10 +1047,10 @@
     {
         "barcode": "3270190203636",
         "Nom": "Blanc de Dinde Doré au four",
-        "Catégorie": "Viandes et dérivés, Viandes, Charcuteries, Volailles, Dinde et dérivés, Dindes, Charcuteries cuites, Blancs de volaille en tranches, Blancs de dinde en tranches, Blancs de dinde reconstitués, Blancs de dinde, Blancs de dinde doré au four",
+        "Catégorie": "fr:charcuteries-cuites",
         "Nutriscore": "a",
-        "Novascore": 4,
-        "Ecoscore": "e",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 18,
         "Taux de protéine": 22,
         "Taux de sucre": 0.8,
         "Énergie (Kcal)": 106
@@ -1058,10 +1058,10 @@
     {
         "barcode": "2212398013380",
         "Nom": "Rosette Pierre Bertrand",
-        "Catégorie": "Viandes et dérivés, Viandes, Charcuteries, Saucissons, Rosettes",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 25,
         "Taux de protéine": 24.7,
         "Taux de sucre": 1,
         "Énergie (Kcal)": 376
@@ -1069,10 +1069,10 @@
     {
         "barcode": "3455570016222",
         "Nom": "Saucisse barbecue",
-        "Catégorie": "Viandes et dérivés, Viandes, Charcuteries, Saucisses, Saucisses françaises",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "e",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 13.1,
         "Taux de sucre": 0.8,
         "Énergie (Kcal)": 246
@@ -1080,10 +1080,10 @@
     {
         "barcode": "3369579009515",
         "Nom": "Filet de bacon fumé au bois de hêtre",
-        "Catégorie": "Viandes et dérivés, Viandes, Porc et dérivés, Porc, Bacon, Bacon fumé, Filet de bacon, Bacon en tranche",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "f",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 12,
         "Taux de protéine": 22,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 106
@@ -1091,10 +1091,10 @@
     {
         "barcode": "26012339",
         "Nom": "Rosette en tranche",
-        "Catégorie": "Meats and their products, Meats, Prepared meats, Cured sausages, Rosette dry sausage, fr:Rosette tranchée",
+        "Catégorie": "fr:rosette-tranchee",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 29,
         "Taux de protéine": 23,
         "Taux de sucre": 2.2,
         "Énergie (Kcal)": 353
@@ -1102,10 +1102,10 @@
     {
         "barcode": "26067469",
         "Nom": "Filet de Bacon fumé",
-        "Catégorie": "Viandes et dérivés, Viandes, Porc et dérivés, Porc, Bacon, Bacon fumé, Bacon en tranche",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 23,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 117
@@ -1113,10 +1113,10 @@
     {
         "barcode": "3256477087229",
         "Nom": "Langue de bœuf sauce Madère au sel de Guérande",
-        "Catégorie": "Viandes et dérivés, Viande de bœuf et dérivés, Viandes, Bœuf, Préparations de viande, Préparations de viande bovine, Langues de bœuf, Langues de bœuf sauce madère",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "unknown",
-        "Novascore": "N/A",
-        "Ecoscore": "f",
+        "Novascore": "unknown",
+        "Ecoscore": -9,
         "Taux de protéine": "N/A",
         "Taux de sucre": "N/A",
         "Énergie (Kcal)": "N/A"
@@ -1124,10 +1124,10 @@
     {
         "barcode": "3256477087328",
         "Nom": "Langue de boeuf sauce piquante cuisinée au sel de Guérande",
-        "Catégorie": "Viandes et dérivés, Viande de bœuf et dérivés, Viandes, Bœuf, Langues de bœuf",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "c",
-        "Novascore": 4,
-        "Ecoscore": "f",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": -9,
         "Taux de protéine": 11,
         "Taux de sucre": 0.8,
         "Énergie (Kcal)": 136
@@ -1135,10 +1135,10 @@
     {
         "barcode": "3104544015838",
         "Nom": "Magret de canard du Sud Ouest séché",
-        "Catégorie": "Viandes et dérivés, Viandes, Volailles, Canards, Magrets de canard",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "f",
+        "Novascore": "unknown",
+        "Ecoscore": 7,
         "Taux de protéine": 23,
         "Taux de sucre": 1,
         "Énergie (Kcal)": 400
@@ -1146,10 +1146,10 @@
     {
         "barcode": "2380856004864",
         "Nom": "Pollo asado",
-        "Catégorie": "Productos a base de carne, Carnes, Pollo y sus productos, Aves, Pollo, Aves cocidas, Pollo Preparado, Pollo asado",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "b",
-        "Novascore": 4,
-        "Ecoscore": "e",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 22,
         "Taux de protéine": 22,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 183
@@ -1157,10 +1157,10 @@
     {
         "barcode": "300000767",
         "Nom": "Mousse de volaille",
-        "Catégorie": "Viandes et dérivés, Produits à tartiner, Charcuteries, Produits à tartiner salés, Mousses salées",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "unknown",
+        "Novascore": "unknown",
+        "Ecoscore": "N/A",
         "Taux de protéine": 10.6,
         "Taux de sucre": 1.4,
         "Énergie (Kcal)": 248
@@ -1168,10 +1168,10 @@
     {
         "barcode": "9001745051464",
         "Nom": "Tiroler Speck",
-        "Catégorie": "Viandes et dérivés, Viandes, Charcuteries, Jambons, Jambons crus, Jambons crus fumés, Specks, en:raw-cured-ham",
+        "Catégorie": "fr:specks",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "f",
+        "Novascore": "unknown",
+        "Ecoscore": -7,
         "Taux de protéine": 29,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 289
@@ -1179,10 +1179,10 @@
     {
         "barcode": "4008460243056",
         "Nom": "Sucuk",
-        "Catégorie": "Auf Fleisch basierende Lebensmittel, Zubereitetes Fleisch, Würstchen, Chorizos, en:Fleisch, en:Würstchen, en:Zubereitetes Fleisch",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "e",
-        "Novascore": 4,
-        "Ecoscore": "e",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 15,
         "Taux de protéine": 18,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 372
@@ -1190,10 +1190,10 @@
     {
         "barcode": "5060038581594",
         "Nom": "Escalopes de poulet marines",
-        "Catégorie": "Viandes et dérivés, Surgelés, Plats préparés, Plats préparés à la viande, Plats à la volaille, Plats au poulet",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "b",
-        "Novascore": 3,
-        "Ecoscore": "e",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 28,
         "Taux de protéine": 28,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 153
@@ -1201,10 +1201,10 @@
     {
         "barcode": "3245360002081",
         "Nom": "Blanquette de veau et pommes de terre",
-        "Catégorie": "Conserves, Viandes et dérivés, Plats préparés, Plats préparés à la viande, Plats au bœuf, Plats préparés en conserve, Plats au veau, Blanquettes de veau",
+        "Catégorie": "en:canned-foods",
         "Nutriscore": "a",
-        "Novascore": 4,
-        "Ecoscore": "f",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 6,
         "Taux de protéine": 5.1,
         "Taux de sucre": 1,
         "Énergie (Kcal)": 54
@@ -1212,10 +1212,10 @@
     {
         "barcode": "20149710",
         "Nom": "Hot Dog saucisses fumées",
-        "Catégorie": "Месни продукти, Месо, en:Prepared meats, en:Pork and its products, Сандвичи, Колбаси, Свинско, Hot-dog, Пушени колбаси",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "e",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 29,
         "Taux de protéine": 13,
         "Taux de sucre": 1,
         "Énergie (Kcal)": 227
@@ -1223,10 +1223,10 @@
     {
         "barcode": "5060198530111",
         "Nom": "Dumplings porc et chou chinois",
-        "Catégorie": "Viandes et dérivés, Surgelés, Plats préparés, Plats préparés à la viande, Plats au porc, Plats préparés surgelés",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "c",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 7.2,
         "Taux de sucre": 1.7,
         "Énergie (Kcal)": 172
@@ -1234,10 +1234,10 @@
     {
         "barcode": "3760324452776",
         "Nom": "Terrine porc pruneau",
-        "Catégorie": "Viandes et dérivés, Terrines, Terrines de porc",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "e",
-        "Novascore": 3,
-        "Ecoscore": "unknown",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": "N/A",
         "Taux de protéine": 4.6,
         "Taux de sucre": 4.6,
         "Énergie (Kcal)": 334
@@ -1245,10 +1245,10 @@
     {
         "barcode": "2411222047564",
         "Nom": "Saucisse catalane",
-        "Catégorie": "Viandes et dérivés, Charcuteries, Saucisses, Saucisses de porc, Chair à saucisse, Chair à saucisse pur porc",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "d",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 31,
         "Taux de protéine": 16,
         "Taux de sucre": 0,
         "Énergie (Kcal)": 225
@@ -1256,10 +1256,10 @@
     {
         "barcode": "8019428006190",
         "Nom": "Bio drink rice coconut",
-        "Catégorie": "Aliments et boissons à base de végétaux, Boissons, Substituts de produits laitiers, Substituts du lait, Boissons à base de végétaux, Boissons végétales, Boissons multivégétaux",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "b",
-        "Novascore": "N/A",
-        "Ecoscore": "unknown",
+        "Novascore": "unknown",
+        "Ecoscore": "N/A",
         "Taux de protéine": 0.5,
         "Taux de sucre": 4.6,
         "Énergie (Kcal)": 70
@@ -1267,10 +1267,10 @@
     {
         "barcode": "3770000661491",
         "Nom": "Brasserie du Pays Flamand",
-        "Catégorie": "Boissons, Boissons alcoolisées, Bières, en:Ales, Pale ales, Bières IPA, Produits artisanaux, en:Country specific beers, Alcools artisanaux, Bières françaises, Bières artisanales",
+        "Catégorie": "en:beverages",
         "Nutriscore": "not-applicable",
-        "Novascore": 3,
-        "Ecoscore": "c",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 50,
         "Taux de protéine": "N/A",
         "Taux de sucre": "N/A",
         "Énergie (Kcal)": "N/A"
@@ -1278,10 +1278,10 @@
     {
         "barcode": "4003669016906",
         "Nom": "N/A",
-        "Catégorie": "Beverages, Non-alcoholic beverages, Non-alcoholic beers",
+        "Catégorie": "en:beverages",
         "Nutriscore": "c",
-        "Novascore": 4,
-        "Ecoscore": "d",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 37,
         "Taux de protéine": 0.6,
         "Taux de sucre": 1.5,
         "Énergie (Kcal)": 23
@@ -1289,10 +1289,10 @@
     {
         "barcode": "5601165004640",
         "Nom": "Ice tea pêssego",
-        "Catégorie": "Plant-based foods and beverages,Beverages,Hot beverages,Plant-based beverages,Teas,Tea-based beverages,Iced teas,Peach flavored iced teas",
-        "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "a-plus",
+        "Catégorie": "en:beverages-and-beverages-preparations",
+        "Nutriscore": "not-applicable",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 94,
         "Taux de protéine": 0.5,
         "Taux de sucre": 4.5,
         "Énergie (Kcal)": 19
@@ -1300,10 +1300,10 @@
     {
         "barcode": "3760103006039",
         "Nom": "Instant Choco",
-        "Catégorie": "",
+        "Catégorie": "N/A",
         "Nutriscore": "unknown",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 6.3,
         "Taux de sucre": 67,
         "Énergie (Kcal)": 383
@@ -1311,10 +1311,10 @@
     {
         "barcode": "3124480196262",
         "Nom": "Agrumes",
-        "Catégorie": "Boissons et préparations de boissons,Aliments et boissons à base de végétaux,Boissons,Boissons à base de végétaux,Boissons gazeuses,Boissons aux fruits,Sodas,Sodas aux fruits,Boissons avec sucre ajouté",
+        "Catégorie": "en:beverages-and-beverages-preparations",
         "Nutriscore": "c",
-        "Novascore": 4,
-        "Ecoscore": "not-applicable",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 0,
         "Taux de sucre": 0,
         "Énergie (Kcal)": 19
@@ -1322,10 +1322,10 @@
     {
         "barcode": "3229820787985",
         "Nom": "Crème de coco légère",
-        "Catégorie": "Plant-based foods and beverages,Plant-based foods,Dairy substitutes,Plant-based creams,Plant-based creams for cooking,Coconut-based creams for cooking,Coconut milks and creams",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "c",
-        "Novascore": 4,
-        "Ecoscore": "a-plus",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 111,
         "Taux de protéine": 1.2,
         "Taux de sucre": 1.6,
         "Énergie (Kcal)": 174
@@ -1333,10 +1333,10 @@
     {
         "barcode": "5000281035338",
         "Nom": "Captain Morgan",
-        "Catégorie": "Boissons, Boissons alcoolisées, Boissons distillés, Alcools forts, Eaux-de-vie, Rhums",
+        "Catégorie": "en:beverages",
         "Nutriscore": "not-applicable",
-        "Novascore": 4,
-        "Ecoscore": "c",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 52,
         "Taux de protéine": "N/A",
         "Taux de sucre": "N/A",
         "Énergie (Kcal)": "N/A"
@@ -1344,10 +1344,10 @@
     {
         "barcode": "3578835503647",
         "Nom": "Sommeil",
-        "Catégorie": "Boissons",
+        "Catégorie": "en:beverages",
         "Nutriscore": "unknown",
-        "Novascore": "N/A",
-        "Ecoscore": "unknown",
+        "Novascore": "unknown",
+        "Ecoscore": "N/A",
         "Taux de protéine": "N/A",
         "Taux de sucre": "N/A",
         "Énergie (Kcal)": "N/A"
@@ -1355,10 +1355,10 @@
     {
         "barcode": "7613035552579",
         "Nom": "NESCAFÉ Cappuccino Choco Blanc, Café soluble, Boîte de 270g",
-        "Catégorie": "Plant-based foods and beverages,Beverages,Dairies,Plant-based foods,Hot beverages,Milks,Coffees,Instant beverages,Instant coffees,Powdered cappucino",
-        "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "f",
+        "Catégorie": "en:beverages-and-beverages-preparations",
+        "Nutriscore": "not-applicable",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": -18,
         "Taux de protéine": "N/A",
         "Taux de sucre": "N/A",
         "Énergie (Kcal)": "N/A"
@@ -1366,10 +1366,10 @@
     {
         "barcode": "3425470014109",
         "Nom": "Terrine Charles Antona. Sanglier à l'eau de vie",
-        "Catégorie": "Viandes et dérivés, Viandes, Charcuteries, Terrines, Terrines de sanglier",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "unknown",
+        "Novascore": "unknown",
+        "Ecoscore": "N/A",
         "Taux de protéine": 10,
         "Taux de sucre": 0.7,
         "Énergie (Kcal)": 377
@@ -1377,10 +1377,10 @@
     {
         "barcode": "0204146023750",
         "Nom": "Pate croute richelieu canard",
-        "Catégorie": "Viandes et dérivés, Viandes, Charcuteries, Charcuteries cuites, Pâté en croûte, Pâté en croûte Richelieu",
+        "Catégorie": "fr:charcuteries-cuites",
         "Nutriscore": "e",
-        "Novascore": 4,
-        "Ecoscore": "f",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": -2,
         "Taux de protéine": 11,
         "Taux de sucre": 1.2,
         "Énergie (Kcal)": 317
@@ -1388,10 +1388,10 @@
     {
         "barcode": "3270190203636",
         "Nom": "Blanc de Dinde Doré au four",
-        "Catégorie": "Viandes et dérivés, Viandes, Charcuteries, Volailles, Dinde et dérivés, Dindes, Charcuteries cuites, Blancs de volaille en tranches, Blancs de dinde en tranches, Blancs de dinde reconstitués, Blancs de dinde, Blancs de dinde doré au four",
+        "Catégorie": "fr:charcuteries-cuites",
         "Nutriscore": "a",
-        "Novascore": 4,
-        "Ecoscore": "e",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 18,
         "Taux de protéine": 22,
         "Taux de sucre": 0.8,
         "Énergie (Kcal)": 106
@@ -1399,10 +1399,10 @@
     {
         "barcode": "2212398013380",
         "Nom": "Rosette Pierre Bertrand",
-        "Catégorie": "Viandes et dérivés, Viandes, Charcuteries, Saucissons, Rosettes",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 25,
         "Taux de protéine": 24.7,
         "Taux de sucre": 1,
         "Énergie (Kcal)": 376
@@ -1410,10 +1410,10 @@
     {
         "barcode": "3455570016222",
         "Nom": "Saucisse barbecue",
-        "Catégorie": "Viandes et dérivés, Viandes, Charcuteries, Saucisses, Saucisses françaises",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "e",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 13.1,
         "Taux de sucre": 0.8,
         "Énergie (Kcal)": 246
@@ -1421,10 +1421,10 @@
     {
         "barcode": "3369579009515",
         "Nom": "Filet de bacon fumé au bois de hêtre",
-        "Catégorie": "Viandes et dérivés, Viandes, Porc et dérivés, Porc, Bacon, Bacon fumé, Filet de bacon, Bacon en tranche",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "f",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 12,
         "Taux de protéine": 22,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 106
@@ -1432,10 +1432,10 @@
     {
         "barcode": "26012339",
         "Nom": "Rosette en tranche",
-        "Catégorie": "Meats and their products, Meats, Prepared meats, Cured sausages, Rosette dry sausage, fr:Rosette tranchée",
+        "Catégorie": "fr:rosette-tranchee",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 29,
         "Taux de protéine": 23,
         "Taux de sucre": 2.2,
         "Énergie (Kcal)": 353
@@ -1443,10 +1443,10 @@
     {
         "barcode": "26067469",
         "Nom": "Filet de Bacon fumé",
-        "Catégorie": "Viandes et dérivés, Viandes, Porc et dérivés, Porc, Bacon, Bacon fumé, Bacon en tranche",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 23,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 117
@@ -1454,10 +1454,10 @@
     {
         "barcode": "3256477087229",
         "Nom": "Langue de bœuf sauce Madère au sel de Guérande",
-        "Catégorie": "Viandes et dérivés, Viande de bœuf et dérivés, Viandes, Bœuf, Préparations de viande, Préparations de viande bovine, Langues de bœuf, Langues de bœuf sauce madère",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "unknown",
-        "Novascore": "N/A",
-        "Ecoscore": "f",
+        "Novascore": "unknown",
+        "Ecoscore": -9,
         "Taux de protéine": "N/A",
         "Taux de sucre": "N/A",
         "Énergie (Kcal)": "N/A"
@@ -1465,10 +1465,10 @@
     {
         "barcode": "3256477087328",
         "Nom": "Langue de boeuf sauce piquante cuisinée au sel de Guérande",
-        "Catégorie": "Viandes et dérivés, Viande de bœuf et dérivés, Viandes, Bœuf, Langues de bœuf",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "c",
-        "Novascore": 4,
-        "Ecoscore": "f",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": -9,
         "Taux de protéine": 11,
         "Taux de sucre": 0.8,
         "Énergie (Kcal)": 136
@@ -1476,10 +1476,10 @@
     {
         "barcode": "3104544015838",
         "Nom": "Magret de canard du Sud Ouest séché",
-        "Catégorie": "Viandes et dérivés, Viandes, Volailles, Canards, Magrets de canard",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "f",
+        "Novascore": "unknown",
+        "Ecoscore": 7,
         "Taux de protéine": 23,
         "Taux de sucre": 1,
         "Énergie (Kcal)": 400
@@ -1487,10 +1487,10 @@
     {
         "barcode": "2380856004864",
         "Nom": "Pollo asado",
-        "Catégorie": "Productos a base de carne, Carnes, Pollo y sus productos, Aves, Pollo, Aves cocidas, Pollo Preparado, Pollo asado",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "b",
-        "Novascore": 4,
-        "Ecoscore": "e",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 22,
         "Taux de protéine": 22,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 183
@@ -1498,10 +1498,10 @@
     {
         "barcode": "9001745051464",
         "Nom": "Tiroler Speck",
-        "Catégorie": "Viandes et dérivés, Viandes, Charcuteries, Jambons, Jambons crus, Jambons crus fumés, Specks, en:raw-cured-ham",
+        "Catégorie": "fr:specks",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "f",
+        "Novascore": "unknown",
+        "Ecoscore": -7,
         "Taux de protéine": 29,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 289
@@ -1509,10 +1509,10 @@
     {
         "barcode": "20149710",
         "Nom": "Hot Dog saucisses fumées",
-        "Catégorie": "Месни продукти, Месо, en:Prepared meats, en:Pork and its products, Сандвичи, Колбаси, Свинско, Hot-dog, Пушени колбаси",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "e",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 29,
         "Taux de protéine": 13,
         "Taux de sucre": 1,
         "Énergie (Kcal)": 227
@@ -1520,10 +1520,10 @@
     {
         "barcode": "3301594002263",
         "Nom": "Compote pommes",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Aliments à base de fruits et de légumes, Desserts, Fruits et produits dérivés, Compotes, Compotes de pomme, Compotes pommes nature",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "a",
-        "Novascore": 3,
-        "Ecoscore": "a",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 76,
         "Taux de protéine": 0,
         "Taux de sucre": 14,
         "Énergie (Kcal)": 70
@@ -1531,10 +1531,10 @@
     {
         "barcode": "3252920048281",
         "Nom": "Velouté de Tomates",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Aliments à base de fruits et de légumes, Légumes et dérivés, Plats préparés, Soupes, Tomates et dérivés, Veloutés, Soupes de légumes, Veloutés de légumes, Veloutés de tomates",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "b",
-        "Novascore": 3,
-        "Ecoscore": "a-plus",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 112,
         "Taux de protéine": 0.5,
         "Taux de sucre": 3,
         "Énergie (Kcal)": 35
@@ -1542,10 +1542,10 @@
     {
         "barcode": "5413110532760",
         "Nom": "Bulgur Pilaf",
-        "Catégorie": "Plats préparés, Plats à base de boulgour",
+        "Catégorie": "en:meals",
         "Nutriscore": "a",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 3.8,
         "Taux de sucre": 9,
         "Énergie (Kcal)": 150
@@ -1553,10 +1553,10 @@
     {
         "barcode": "3250392784669",
         "Nom": "flocons d'avoine complète",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Petit-déjeuners, Céréales et pommes de terre, Céréales et dérivés, Céréales pour petit-déjeuner, Flocons, Flocons de céréales, Flocons laminés, en:oat-flakes, Flocons d'avoine complète",
+        "Catégorie": "fr:flocons-d-avoine-complete",
         "Nutriscore": "a",
-        "Novascore": 1,
-        "Ecoscore": "b",
+        "Novascore": "en:1-unprocessed-or-minimally-processed-foods",
+        "Ecoscore": 62,
         "Taux de protéine": 13,
         "Taux de sucre": 0.9,
         "Énergie (Kcal)": 376
@@ -1564,10 +1564,10 @@
     {
         "barcode": "3336971806066",
         "Nom": "La Vicoise de Picardie",
-        "Catégorie": "Plant-based foods and beverages, Plant-based foods, Snacks, Cereals and potatoes, Salty snacks, Appetizers, Chips and fries, Crisps, Potato crisps, Farmer's crisps, Potato crisps in sunflower oil",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "c",
-        "Novascore": 3,
-        "Ecoscore": "a",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 82,
         "Taux de protéine": 5.9,
         "Taux de sucre": 0.6,
         "Énergie (Kcal)": 525
@@ -1575,10 +1575,10 @@
     {
         "barcode": "5413110532760",
         "Nom": "Bulgur Pilaf",
-        "Catégorie": "Plats préparés, Plats à base de boulgour",
+        "Catégorie": "en:meals",
         "Nutriscore": "a",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 3.8,
         "Taux de sucre": 9,
         "Énergie (Kcal)": 150
@@ -1586,10 +1586,10 @@
     {
         "barcode": "3252920048281",
         "Nom": "Velouté de Tomates",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Aliments à base de fruits et de légumes, Légumes et dérivés, Plats préparés, Soupes, Tomates et dérivés, Veloutés, Soupes de légumes, Veloutés de légumes, Veloutés de tomates",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "b",
-        "Novascore": 3,
-        "Ecoscore": "a-plus",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 112,
         "Taux de protéine": 0.5,
         "Taux de sucre": 3,
         "Énergie (Kcal)": 35
@@ -1597,10 +1597,10 @@
     {
         "barcode": "5400247020949",
         "Nom": "Lasagne bolognaise à la viande de porc",
-        "Catégorie": "Viandes et dérivés, Plats préparés, Frais, Plats à base de pâtes, Plats préparés à la viande, Lasagnes préparées, Plats préparés frais, Plats au porc, en:Meat lasagnas, Lasagnes à la bolognaise",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "c",
-        "Novascore": 4,
-        "Ecoscore": "d",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 32,
         "Taux de protéine": 5.2,
         "Taux de sucre": 4.2,
         "Énergie (Kcal)": 144
@@ -1608,10 +1608,10 @@
     {
         "barcode": "3302740057472",
         "Nom": "Ravioli bolognaise",
-        "Catégorie": "Viandes et dérivés, Plats préparés, Plats à base de pâtes, Plats préparés à la viande, Pâtes farcies, Plats au bœuf, Pâtes farcies à la viande, Ravioli, Ravioli à la viande, Raviolis au bœuf, Ravioli à la bolognaise",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "a",
-        "Novascore": 3,
-        "Ecoscore": "b",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 67,
         "Taux de protéine": 5.5,
         "Taux de sucre": 3.4,
         "Énergie (Kcal)": 122
@@ -1619,10 +1619,10 @@
     {
         "barcode": "3229820787343",
         "Nom": "Boulgour, Quinoa et Sésame",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Céréales et pommes de terre, Céréales et dérivés, Plats préparés, Gruau, Plats préparés à réchauffer au micro-ondes, Plats préparés d'origine végétale, Gruau de blé, Boulghours",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "a",
-        "Novascore": "N/A",
-        "Ecoscore": "a-plus",
+        "Novascore": "unknown",
+        "Ecoscore": 95,
         "Taux de protéine": 6.1,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 180
@@ -1630,10 +1630,10 @@
     {
         "barcode": "3229820188744",
         "Nom": "Quinoa lentilles",
-        "Catégorie": "Aliments et boissons à base de végétaux,Aliments d'origine végétale,Plats préparés,Céréales préparées",
+        "Catégorie": "fr:cereales-preparees",
         "Nutriscore": "a",
-        "Novascore": 3,
-        "Ecoscore": "unknown",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": "N/A",
         "Taux de protéine": 5.5,
         "Taux de sucre": 0.6,
         "Énergie (Kcal)": 139
@@ -1641,10 +1641,10 @@
     {
         "barcode": "3229820795485",
         "Nom": "Quinoa champignons potiron",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Plats préparés, Plats préparés d'origine végétale, Plats à base de quinoa",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "a",
-        "Novascore": 3,
-        "Ecoscore": "unknown",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": "N/A",
         "Taux de protéine": 4.1,
         "Taux de sucre": 2,
         "Énergie (Kcal)": 116
@@ -1652,10 +1652,10 @@
     {
         "barcode": "5060038581594",
         "Nom": "Escalopes de poulet marines",
-        "Catégorie": "Viandes et dérivés, Surgelés, Plats préparés, Plats préparés à la viande, Plats à la volaille, Plats au poulet",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "b",
-        "Novascore": 3,
-        "Ecoscore": "e",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 28,
         "Taux de protéine": 28,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 153
@@ -1663,10 +1663,10 @@
     {
         "barcode": "7622210089908",
         "Nom": "Cerealyo",
-        "Catégorie": "Snack, Snack dolci, Biscotti e torte, Biscotti",
+        "Catégorie": "en:snacks",
         "Nutriscore": "c",
-        "Novascore": "N/A",
-        "Ecoscore": "c",
+        "Novascore": "unknown",
+        "Ecoscore": 50,
         "Taux de protéine": 7.1,
         "Taux de sucre": 25,
         "Énergie (Kcal)": 450
@@ -1674,10 +1674,10 @@
     {
         "barcode": "3547561000089",
         "Nom": "Brownies",
-        "Catégorie": "Snacks, Snacks sucrés, Biscuits et gâteaux, Gâteaux, Gâteaux au chocolat, Brownies",
+        "Catégorie": "en:snacks",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 24,
         "Taux de protéine": 6.1,
         "Taux de sucre": 33,
         "Énergie (Kcal)": "N/A"
@@ -1685,10 +1685,10 @@
     {
         "barcode": "3279130104217",
         "Nom": "Gâteau de Noël Stollen à la pâte d'amande",
-        "Catégorie": "Snacks, Snacks sucrés, Aliments festifs, Biscuits et gâteaux, Aliments et boissons de Noël, Gâteaux, Stollen",
+        "Catégorie": "en:snacks",
         "Nutriscore": "e",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 4.2,
         "Taux de sucre": 39,
         "Énergie (Kcal)": 402
@@ -1696,10 +1696,10 @@
     {
         "barcode": "3229820789118",
         "Nom": "Lunettes fraise",
-        "Catégorie": "Snacks, Snacks sucrés, Biscuits et gâteaux, Biscuits, Biscuits fourrés, Biscuits secs, Biscuits à la fraise, Lunettes à la fraise",
+        "Catégorie": "fr:lunettes-a-la-fraise",
         "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "a",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 83,
         "Taux de protéine": 6,
         "Taux de sucre": 33,
         "Énergie (Kcal)": 436
@@ -1707,10 +1707,10 @@
     {
         "barcode": "8901063203198",
         "Nom": "Britannia 50 Piece Little Hearts",
-        "Catégorie": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits",
+        "Catégorie": "en:snacks",
         "Nutriscore": "c",
-        "Novascore": "N/A",
-        "Ecoscore": "c",
+        "Novascore": "unknown",
+        "Ecoscore": 50,
         "Taux de protéine": 2,
         "Taux de sucre": 8,
         "Énergie (Kcal)": 165
@@ -1718,10 +1718,10 @@
     {
         "barcode": "3256229807112",
         "Nom": "P'tit fourré chocolat",
-        "Catégorie": "Snacks, Snacks sucrés, Biscuits et gâteaux, Biscuits, Biscuits au chocolat, Biscuits fourrés",
+        "Catégorie": "en:snacks",
         "Nutriscore": "e",
-        "Novascore": 4,
-        "Ecoscore": "d",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 30,
         "Taux de protéine": 6.5,
         "Taux de sucre": 37,
         "Énergie (Kcal)": 499
@@ -1729,10 +1729,10 @@
     {
         "barcode": "3560002430016",
         "Nom": "Confiture abricots",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Petit-déjeuners, Produits à tartiner, Surgelés, Pâtes à tartiner végétales, Produits à tartiner sucrés, Confitures et marmelades, Confitures, Confitures d'abricot",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "d",
-        "Novascore": 4,
-        "Ecoscore": "a-plus",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 90,
         "Taux de protéine": 0.1,
         "Taux de sucre": 55.3,
         "Énergie (Kcal)": 242.8
@@ -1740,10 +1740,10 @@
     {
         "barcode": "3250392784669",
         "Nom": "flocons d'avoine complète",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Petit-déjeuners, Céréales et pommes de terre, Céréales et dérivés, Céréales pour petit-déjeuner, Flocons, Flocons de céréales, Flocons laminés, en:oat-flakes, Flocons d'avoine complète",
+        "Catégorie": "fr:flocons-d-avoine-complete",
         "Nutriscore": "a",
-        "Novascore": 1,
-        "Ecoscore": "b",
+        "Novascore": "en:1-unprocessed-or-minimally-processed-foods",
+        "Ecoscore": 62,
         "Taux de protéine": 13,
         "Taux de sucre": 0.9,
         "Énergie (Kcal)": 376
@@ -1751,10 +1751,10 @@
     {
         "barcode": "3301594002263",
         "Nom": "Compote pommes",
-        "Catégorie": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Aliments à base de fruits et de légumes, Desserts, Fruits et produits dérivés, Compotes, Compotes de pomme, Compotes pommes nature",
+        "Catégorie": "en:plant-based-foods-and-beverages",
         "Nutriscore": "a",
-        "Novascore": 3,
-        "Ecoscore": "a",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 76,
         "Taux de protéine": 0,
         "Taux de sucre": 14,
         "Énergie (Kcal)": 70
@@ -1762,10 +1762,10 @@
     {
         "barcode": "5060038581594",
         "Nom": "Escalopes de poulet marines",
-        "Catégorie": "Viandes et dérivés, Surgelés, Plats préparés, Plats préparés à la viande, Plats à la volaille, Plats au poulet",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "b",
-        "Novascore": 3,
-        "Ecoscore": "e",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 28,
         "Taux de protéine": 28,
         "Taux de sucre": 0.5,
         "Énergie (Kcal)": 153
@@ -1773,78 +1773,628 @@
     {
         "barcode": "5060198530111",
         "Nom": "Dumplings porc et chou chinois",
-        "Catégorie": "Viandes et dérivés, Surgelés, Plats préparés, Plats préparés à la viande, Plats au porc, Plats préparés surgelés",
+        "Catégorie": "en:meats-and-their-products",
         "Nutriscore": "c",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 7.2,
         "Taux de sucre": 1.7,
         "Énergie (Kcal)": 172
     },
     {
-        "barcode": "3370077586156",
-        "Nom": "La belle équitable - 100% Cacao noir",
-        "Catégorie": "Snacks, Snacks sucrés, Cacao et dérivés, Chocolats",
-        "Nutriscore": "d",
-        "Novascore": 3,
-        "Ecoscore": "unknown",
-        "Taux de protéine": 12.1,
-        "Taux de sucre": 0.3,
-        "Énergie (Kcal)": 587
-    },
-    {
-        "barcode": "3770009530002",
-        "Nom": "bean to bar",
-        "Catégorie": "Snacks, Snacks sucrés, Cacao et dérivés, Chocolats, Chocolats noirs",
-        "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "d",
-        "Taux de protéine": 8,
-        "Taux de sucre": 31,
-        "Énergie (Kcal)": 532
-    },
-    {
         "barcode": "3760103006039",
         "Nom": "Instant Choco",
-        "Catégorie": "",
+        "Catégorie": "N/A",
         "Nutriscore": "unknown",
-        "Novascore": 4,
-        "Ecoscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
         "Taux de protéine": 6.3,
         "Taux de sucre": 67,
         "Énergie (Kcal)": 383
     },
     {
-        "barcode": "3395328474389",
-        "Nom": "Chocolat",
-        "Catégorie": "Snacks, Snacks sucrés, Cacao et dérivés, Chocolats, Chocolats noirs, Chocolats noirs à l'orange",
+        "barcode": "8005121002096",
+        "Nom": "Conchiglioni 87b",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "a",
+        "Novascore": "en:1-unprocessed-or-minimally-processed-foods",
+        "Ecoscore": "N/A",
+        "Taux de protéine": 13,
+        "Taux de sucre": 3.9,
+        "Énergie (Kcal)": 355
+    },
+    {
+        "barcode": "0841165157396",
+        "Nom": "Nouilles chinoises Special Chicken",
+        "Catégorie": "en:aliments-d-origine-vegetale",
+        "Nutriscore": "d",
+        "Novascore": "unknown",
+        "Ecoscore": "N/A",
+        "Taux de protéine": 2.3,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 100
+    },
+    {
+        "barcode": "8001665705066",
+        "Nom": "mushroom & mascarpone tortelloni",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "b",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 62,
+        "Taux de protéine": 6.6,
+        "Taux de sucre": 1.3,
+        "Énergie (Kcal)": 221
+    },
+    {
+        "barcode": "8076809523714",
+        "Nom": "BARILLA TAGLIATELLE 500g",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "a",
+        "Novascore": "en:1-unprocessed-or-minimally-processed-foods",
+        "Ecoscore": 60,
+        "Taux de protéine": 13,
+        "Taux de sucre": 3.5,
+        "Énergie (Kcal)": 359
+    },
+    {
+        "barcode": "8722700153276",
+        "Nom": "Beef & tomato noodle",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 56,
+        "Taux de protéine": 13,
+        "Taux de sucre": 5.2,
+        "Énergie (Kcal)": 526
+    },
+    {
+        "barcode": "5000118203688",
+        "Nom": "Original Curry",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "b",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 58,
+        "Taux de protéine": 2.8,
+        "Taux de sucre": 1.8,
+        "Énergie (Kcal)": 142
+    },
+    {
+        "barcode": "3564700391914",
+        "Nom": "Tortellini  Ricotta Epinards aux oeufs frais",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "b",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
+        "Taux de protéine": 10,
+        "Taux de sucre": 3.8,
+        "Énergie (Kcal)": 271
+    },
+    {
+        "barcode": "3760242979751",
+        "Nom": "Pâtes risoni à l'encre de seiche",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "b",
+        "Novascore": "unknown",
+        "Ecoscore": "N/A",
+        "Taux de protéine": 11,
+        "Taux de sucre": 3.2,
+        "Énergie (Kcal)": 223
+    },
+    {
+        "barcode": "3547561000089",
+        "Nom": "Brownies",
+        "Catégorie": "en:snacks",
         "Nutriscore": "e",
-        "Novascore": "N/A",
-        "Ecoscore": "c",
-        "Taux de protéine": 6.7,
+        "Novascore": "unknown",
+        "Ecoscore": 24,
+        "Taux de protéine": 6.1,
+        "Taux de sucre": 33,
+        "Énergie (Kcal)": "N/A"
+    },
+    {
+        "barcode": "3279130104217",
+        "Nom": "Gâteau de Noël Stollen à la pâte d'amande",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "e",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
+        "Taux de protéine": 4.2,
         "Taux de sucre": 39,
-        "Énergie (Kcal)": 533
+        "Énergie (Kcal)": 402
     },
     {
-        "barcode": "8000500359884",
-        "Nom": "Ferrero rocher nocciola white",
-        "Catégorie": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, White chocolates, Chocolates with hazelnuts, White chocolates with hazelnuts",
+        "barcode": "4008400290829",
+        "Nom": "Kinder Pingu 8er-Pack",
+        "Catégorie": "en:snacks",
         "Nutriscore": "e",
-        "Novascore": 4,
-        "Ecoscore": "f",
-        "Taux de protéine": 9.2,
-        "Taux de sucre": 44.7,
-        "Énergie (Kcal)": 610
+        "Novascore": "unknown",
+        "Ecoscore": "N/A",
+        "Taux de protéine": 7,
+        "Taux de sucre": 33.1,
+        "Énergie (Kcal)": 450
     },
     {
-        "barcode": "3700214612125",
-        "Nom": "Noir quinoa soufflé",
-        "Catégorie": "Snacks, Snacks sucrés, Cacao et dérivés, Confiseries, Chocolats, Chocolats noirs, Chocolats noirs au quinoa",
+        "barcode": "7622210100917",
+        "Nom": "Milka galette choco",
+        "Catégorie": "en:snacks",
         "Nutriscore": "e",
-        "Novascore": 3,
-        "Ecoscore": "c",
-        "Taux de protéine": 5.4,
-        "Taux de sucre": 37,
-        "Énergie (Kcal)": 558
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 32,
+        "Taux de protéine": 5.7,
+        "Taux de sucre": 35,
+        "Énergie (Kcal)": 504
+    },
+    {
+        "barcode": "3175681219489",
+        "Nom": "Senza zuccheri mini cake al gusto limone",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "b",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
+        "Taux de protéine": 5,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 372
+    },
+    {
+        "barcode": "3353630000924",
+        "Nom": "Gâteau nantais au rhum et aux amandes",
+        "Catégorie": "fr:gateaux-nantais",
+        "Nutriscore": "e",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
+        "Taux de protéine": 6.3,
+        "Taux de sucre": 43.3,
+        "Énergie (Kcal)": 426.5
+    },
+    {
+        "barcode": "3760138580085",
+        "Nom": "Gateau Basque",
+        "Catégorie": "fr:gateaux-basques",
+        "Nutriscore": "unknown",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": "N/A",
+        "Taux de protéine": 4.56,
+        "Taux de sucre": 31.97,
+        "Énergie (Kcal)": 270.65
+    },
+    {
+        "barcode": "3263850576119",
+        "Nom": "Le Marbré Chocolat",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "d",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 46,
+        "Taux de protéine": 5.7,
+        "Taux de sucre": 26,
+        "Énergie (Kcal)": 432
+    },
+    {
+        "barcode": "3259426040795",
+        "Nom": "Madeleines coeur fraise",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "d",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 60,
+        "Taux de protéine": 4,
+        "Taux de sucre": 29,
+        "Énergie (Kcal)": 409
+    },
+    {
+        "barcode": "3259426040801",
+        "Nom": "Madeleine coeur chocolat",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 28,
+        "Taux de protéine": 5.5,
+        "Taux de sucre": 32,
+        "Énergie (Kcal)": 475
+    },
+    {
+        "barcode": "3259426043628",
+        "Nom": "Le moelleux au fromage blanc",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "d",
+        "Novascore": "unknown",
+        "Ecoscore": "N/A",
+        "Taux de protéine": 5,
+        "Taux de sucre": 27,
+        "Énergie (Kcal)": 448
+    },
+    {
+        "barcode": "3251515355001",
+        "Nom": "Tarte framboise fabuleuse",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "d",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 29,
+        "Taux de protéine": 3.6,
+        "Taux de sucre": 21,
+        "Énergie (Kcal)": 260
+    },
+    {
+        "barcode": "3701525001011",
+        "Nom": "Quatre-quart breton maison",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 40,
+        "Taux de protéine": 7,
+        "Taux de sucre": 26,
+        "Énergie (Kcal)": 422
+    },
+    {
+        "barcode": "4022993045284",
+        "Nom": "Blueberry Muffin",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "d",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 59,
+        "Taux de protéine": 4.2,
+        "Taux de sucre": 26,
+        "Énergie (Kcal)": 373
+    },
+    {
+        "barcode": "3760154260893",
+        "Nom": "Madeleines vanille",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "d",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 94,
+        "Taux de protéine": 3.8,
+        "Taux de sucre": 24,
+        "Énergie (Kcal)": 460
+    },
+    {
+        "barcode": "3596710472796",
+        "Nom": "Coeur fondant au chocolat noir BIO 2x90g",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "d",
+        "Novascore": "en:3-processed-foods",
+        "Ecoscore": 49,
+        "Taux de protéine": 6.6,
+        "Taux de sucre": 24,
+        "Énergie (Kcal)": 359
+    },
+    {
+        "barcode": "3259421505015",
+        "Nom": "Madeleine longue",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "d",
+        "Novascore": "unknown",
+        "Ecoscore": 60,
+        "Taux de protéine": 5.2,
+        "Taux de sucre": 22,
+        "Énergie (Kcal)": 413
+    },
+    {
+        "barcode": "3259426038792",
+        "Nom": "Madeleines extra moelleuse",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 42,
+        "Taux de protéine": 5.6,
+        "Taux de sucre": 28,
+        "Énergie (Kcal)": 449
+    },
+    {
+        "barcode": "3259420340112",
+        "Nom": "Madeleines Extra Moelleuses",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "d",
+        "Novascore": "unknown",
+        "Ecoscore": 60,
+        "Taux de protéine": 4.5,
+        "Taux de sucre": 24.9,
+        "Énergie (Kcal)": 462
+    },
+    {
+        "barcode": "3259426039157",
+        "Nom": "Madeleine cœur pomme poire",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "d",
+        "Novascore": "unknown",
+        "Ecoscore": 60,
+        "Taux de protéine": 0,
+        "Taux de sucre": 31,
+        "Énergie (Kcal)": 410
+    },
+    {
+        "barcode": "3259426043178",
+        "Nom": "Mon brownie",
+        "Catégorie": "en:snacks",
+        "Nutriscore": "e",
+        "Novascore": "unknown",
+        "Ecoscore": 24,
+        "Taux de protéine": 5.2,
+        "Taux de sucre": 33,
+        "Énergie (Kcal)": 446
+    },
+    {
+        "barcode": "3259426043086",
+        "Nom": "Madeleines extra moelleuses Saveur Amande",
+        "Catégorie": "fr:madeleines-ker-cadelac",
+        "Nutriscore": "d",
+        "Novascore": "unknown",
+        "Ecoscore": 65,
+        "Taux de protéine": 5.8,
+        "Taux de sucre": 26,
+        "Énergie (Kcal)": 478
+    },
+    {
+        "barcode": "3259426043109",
+        "Nom": "Les P'tites Madeleines Nature",
+        "Catégorie": "fr:madeleines-vracs",
+        "Nutriscore": "d",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 64,
+        "Taux de protéine": 5.6,
+        "Taux de sucre": 26,
+        "Énergie (Kcal)": 451
+    },
+    {
+        "barcode": "3265477983004",
+        "Nom": "Huile Isio 4 Olive",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 47,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 900
+    },
+    {
+        "barcode": "3265474573000",
+        "Nom": "Fleur de Colza",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 65,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 900
+    },
+    {
+        "barcode": "8437010369896",
+        "Nom": "Aceite de oliva virgen extra ecológico",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "b",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 47,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 896
+    },
+    {
+        "barcode": "8004123016247",
+        "Nom": "Huile d’olive",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 27,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 824
+    },
+    {
+        "barcode": "8004123016230",
+        "Nom": "Huile d'olive",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "unknown",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 27,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 824
+    },
+    {
+        "barcode": "8004123002080",
+        "Nom": "Olio extra vergine di oliva",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 27,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 824
+    },
+    {
+        "barcode": "8004123001298",
+        "Nom": "Huile dolive extra vierge",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 27,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 824
+    },
+    {
+        "barcode": "3700786807042",
+        "Nom": "Huile d'olive de Provence AOC",
+        "Catégorie": "fr:huile-d-olive-de-provence",
+        "Nutriscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 36,
+        "Taux de protéine": 0.5,
+        "Taux de sucre": 0.5,
+        "Énergie (Kcal)": 900
+    },
+    {
+        "barcode": "3291960005557",
+        "Nom": "Huile D'avocat",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "unknown",
+        "Ecoscore": 36,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 900
+    },
+    {
+        "barcode": "8002470000674",
+        "Nom": "Huile d'olive vierge extra Classico",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 40,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 822
+    },
+    {
+        "barcode": "5412158025050",
+        "Nom": "Huile de graines de lin",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "d",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 44,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 900
+    },
+    {
+        "barcode": "3760294960608",
+        "Nom": "Huile de cuisson tournesol désodorisée",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "d",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": "N/A",
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 900
+    },
+    {
+        "barcode": "4260355581210",
+        "Nom": "Huile De Coco Desodorisee",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "e",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": "N/A",
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 819
+    },
+    {
+        "barcode": "3375190006277",
+        "Nom": "Huile pour friture",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 65,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 900
+    },
+    {
+        "barcode": "5201043112605",
+        "Nom": "N/A",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 27,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 823
+    },
+    {
+        "barcode": "3760301420477",
+        "Nom": "Huile d’olive vierge extra ail",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 27,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 824
+    },
+    {
+        "barcode": "3760301420378",
+        "Nom": "Huile d’olive vierge extra",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 27,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 810
+    },
+    {
+        "barcode": "3021885000715",
+        "Nom": "Huile de noix",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": -1,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 900
+    },
+    {
+        "barcode": "8424536935926",
+        "Nom": "Huile d'olive vierge extra",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "unknown",
+        "Ecoscore": 27,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 822
+    },
+    {
+        "barcode": "8008460003670",
+        "Nom": "Olio extra vergine di oliva",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 27,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 900
+    },
+    {
+        "barcode": "4005009103062",
+        "Nom": "Bratöl",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "unknown",
+        "Ecoscore": 64,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 828
+    },
+    {
+        "barcode": "0096619206841",
+        "Nom": "Canola oil cooking spray",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "en:4-ultra-processed-food-and-drink-products",
+        "Ecoscore": 52,
+        "Taux de protéine": "N/A",
+        "Taux de sucre": "N/A",
+        "Énergie (Kcal)": "N/A"
+    },
+    {
+        "barcode": "3760232740033",
+        "Nom": "Huile vierge bio de Colza",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "unknown",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 72,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 885
+    },
+    {
+        "barcode": "3701515200110",
+        "Nom": "Huile d olive piment",
+        "Catégorie": "en:plant-based-foods-and-beverages",
+        "Nutriscore": "c",
+        "Novascore": "en:2-processed-culinary-ingredients",
+        "Ecoscore": 27,
+        "Taux de protéine": 0,
+        "Taux de sucre": 0,
+        "Énergie (Kcal)": 900
     }
 ]
