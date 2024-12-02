@@ -7,3 +7,28 @@ L'API d'**AirFrance** nous permettra de récupérer directement le prix des bill
 # LA MODELISATION
 Une fois nos données au bon format, nous proposerons différentes approches avec des modèles ARMA et des random forests notamment.
 
+# STRUCTURE DE L'API
+root
+├── zone (object)
+│   ├── code (string)
+│   └── label (string)
+├── destinations (array)
+│   └── destination (object)
+│       ├── code (string)
+│       ├── type (string)
+│       └── label (string)
+└── cabins (array)
+    └── cabin (object)
+        ├── cabin (object)
+        │   ├── code (string)
+        │   └── label (string)
+        ├── numberOfDeals (integer)
+        └── priceRangeByTripType (array)
+            └── tripType (object)
+                ├── code (string)
+                ├── label (string)
+                └── range (object)
+                    ├── lowestPrice (float)
+                    └── highestPrice (float)
+
+
