@@ -3,7 +3,7 @@ from services.api import Api
 
 
 class Barcodes:
-    def __init__(self, filename='database/barcodes.json'):
+    def __init__(self, filename='src/database/barcodes.json'):
         """Initialise l'objet avec le fichier où les codes-barres sont stockés."""
         self.filename = filename
         self.barcodes = self.charger_barcodes()
