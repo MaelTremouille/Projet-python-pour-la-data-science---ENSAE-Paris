@@ -1,17 +1,15 @@
 import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 from services.barcodes import Barcodes
-
 
 class Statistiques:
     def __init__(self, filename='database/barcodes.json'):
-        """Initialise l'objet avec le fichier où les codes-barres sont stockés."""
-        
-        self.df = self.create_df()
+        self.df = self.__create_df()
+        self.__convert_types()
 
-    def create_df(self):
-        # On récupère le dictionnaire stocké
+    def __create_df(self):
         data = Barcodes().barcodes
-        # On crée un dataframe
         rows = []
         for key, value in data.items():
             if value is not None:
@@ -21,42 +19,31 @@ class Statistiques:
         df.reset_index(drop=True, inplace=True)
         df.set_index("Barcode", inplace=True)
         return df
-    
-    def moy_par_cat(self):
-        df_moy_par_cat = pd.DataFrame()
-        df_moy_par_cat["Ecoscore"] = pd.to_numeric(self.df["Ecoscore"], errors="coerce")
-        # Ajouter la colonne 'Categorie_clean' en extrayant la catégorie principale
-        df_moy_par_cat["Categorie_clean"] = self.df["Categorie"].str.split(":").str[-1]
-        # Calculer l'ecoscore moyen par catégorie
-        ecoscore_moyen = df_moy_par_cat.groupby("Categorie_clean")["Ecoscore"].mean().dropna()
-        return ecoscore_moyen
 
+    def __convert_types(self):
+        self.df["Ecoscore"] = pd.to_numeric(self.df["Ecoscore"], errors="coerce")
+        self.df["Taux de proteine"] = pd.to_numeric(self.df["Taux de proteine"], errors="coerce")
+        self.df["Taux de sucre"] = pd.to_numeric(self.df["Taux de sucre"], errors="coerce")
+        self.df["Energie (Kcal)"] = pd.to_numeric(self.df["Energie (Kcal)"], errors="coerce")
 
-    def stats_basiques(self, var_name: str):
-        variable = pd.to_numeric(self.df[var_name], errors="coerce")
+    def stats_univariees(self, var_name: str):
+        variable = self.df[var_name]
         stats = {
             'moyenne': variable.mean(),
             'median': variable.median(),
-            'std':variable.std(),
-            'min':variable.min(),
-            'max':variable.max(),
-            'nb_manquantes':variable.isna().sum(),
+            'std': variable.std(),
+            'min': variable.min(),
+            'max': variable.max(),
+            'nb_manquantes': variable.isna().sum(),
         }
+        return stats
 
-    def boxplot(self):
-        """Faire un boxplot pour un type d'aliment"""
+    def stats_covariances(self):
+        cov_matrix = self.df[["Taux de proteine", "Taux de sucre", "Energie (Kcal)"]].cov()
+        return cov_matrix
 
-    
-        
-
-
-    
-
-
-
-
-
-# # Charger les données depuis le fichier JSON
-# data = pd.read_json("produits.json")
-
-
+    def boxplot_categorie(self, variable: str):
+        plt.figure(figsize=(10, 6))
+        ax = sns.boxplot(x=self.df['Categorie'], y=self.df[variable], palette="Set3")
+        ax.set_title(f"Boxplot de {variable} par catégorie")
+        return ax
