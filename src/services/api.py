@@ -29,9 +29,12 @@ class Api:
                 "Nutriscore": product_data.get("nutrition_grades_tags", ["N/A"])[0],
                 "Novascore": product_data.get("nova_groups_tags", ["N/A"])[0],
                 "Ecoscore": product_data.get("ecoscore_score", "N/A"),
-                "Taux de proteine": nutriments_data.get("proteins_100g", "N/A"),
-                "Taux de sucre": nutriments_data.get("sugars_100g", "N/A"),
-                "Energie (Kcal)": nutriments_data.get("energy-kcal_100g", "N/A"),
+                "Taux de sel (100g)": nutriments_data.get("salt_100g", "N/A"),
+                "Taux de matières grasses (100g)": nutriments_data.get("fat_100g", "N/A"),
+                "Taux de matières grasses saturées (100g)": nutriments_data.get("saturated-fat_100g", "N/A"),
+                "Taux de proteine (100g)": nutriments_data.get("proteins_100g", "N/A"),
+                "Taux de sucre (100g)": nutriments_data.get("sugars_100g", "N/A"),
+                "Energie (Kcal) (100g)": nutriments_data.get("energy-kcal_100g", "N/A"),
             }
             return produit
         else:

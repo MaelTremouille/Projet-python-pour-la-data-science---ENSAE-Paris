@@ -30,6 +30,23 @@ class Statistiques:
         # Calculer l'ecoscore moyen par catégorie
         ecoscore_moyen = df_moy_par_cat.groupby("Categorie_clean")["Ecoscore"].mean().dropna()
         return ecoscore_moyen
+
+
+    def stats_basiques(self, var_name: str):
+        variable = pd.to_numeric(self.df[var_name], errors="coerce")
+        stats = {
+            'moyenne': variable.mean(),
+            'median': variable.median(),
+            'std':variable.std(),
+            'min':variable.min(),
+            'max':variable.max(),
+            'nb_manquantes':variable.isna().sum(),
+        }
+
+    def boxplot(self):
+        """Faire un boxplot pour un type d'aliment"""
+
+    
         
 
 
