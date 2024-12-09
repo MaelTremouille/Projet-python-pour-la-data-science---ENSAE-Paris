@@ -47,3 +47,8 @@ class Statistiques:
         ax = sns.boxplot(x=self.df['Categorie'], y=self.df[variable], palette="Set3")
         ax.set_title(f"Boxplot de {variable} par catégorie")
         return ax
+
+
+
+
+
