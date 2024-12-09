@@ -1,2 +1,4 @@
 - conserver les catérogies en anglais OU en francais
 - voir si on prend toutes les catégories pour le boxplot ou si on filtre
+- Faire creer_categorie -> on fait nos catégories sur lesquelles on fait nos stats
+- voir si on fait classe pour les plots
