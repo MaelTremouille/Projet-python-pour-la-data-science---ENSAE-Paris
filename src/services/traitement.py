@@ -1,3 +1,4 @@
+import json
 import pandas as pd
 
 
@@ -66,6 +67,7 @@ class Traitement:
             "huile-d-olive-de-provence": "Huiles et graisses"
         }
 
+    
     def __create_df(self, filename):
         """
         Charge les données depuis un fichier JSON.
@@ -76,6 +78,7 @@ class Traitement:
             return pd.read_json(filename)
         except ValueError as e:
             raise ValueError(f"Erreur lors de la lecture du fichier {filename}: {e}")
+
 
     def __convert_types(self):
         """
