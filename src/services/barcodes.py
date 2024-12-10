@@ -1,5 +1,6 @@
 import json
-from api import Api
+from src.services.api import Api
+import os
 
 
 class Barcodes:
@@ -15,7 +16,7 @@ class Barcodes:
     
     def initialiser_database(self):
         if self.barcodes == dict():
-            with open("services/init/initialisation.json", "r") as file:
+            with open("src/services/init/initialisation.json", "r") as file:
                 barcodes = json.load(file)
             for barcode in barcodes:
                 self.ajouter_barcode(barcode)

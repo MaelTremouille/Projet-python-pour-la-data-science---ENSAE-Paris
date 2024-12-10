@@ -1,6 +1,6 @@
 import requests
 import json
-
+import time
 
 class Api:
     def __init__(self):
@@ -11,6 +11,10 @@ class Api:
         print(f"L'url associée au barcode est : {barcode_url}")
         response = requests.get(barcode_url)
     
+        if response.status_code == 429:
+            time.sleep(0.5)
+            self.recherche(barcode)
+            
         if response.status_code == 200:
             data = response.json()
             product_data = data.get("product", {})
@@ -30,8 +34,8 @@ class Api:
                 "Novascore": product_data.get("nova_groups_tags", ["N/A"])[0],
                 "Ecoscore": product_data.get("ecoscore_score", "N/A"),
                 "Taux de sel (100g)": nutriments_data.get("salt_100g", "N/A"),
-                "Taux de matières grasses (100g)": nutriments_data.get("fat_100g", "N/A"),
-                "Taux de matières grasses saturées (100g)": nutriments_data.get("saturated-fat_100g", "N/A"),
+                "Taux de matieres grasses (100g)": nutriments_data.get("fat_100g", "N/A"),
+                "Taux de matieres grasses saturees (100g)": nutriments_data.get("saturated-fat_100g", "N/A"),
                 "Taux de proteine (100g)": nutriments_data.get("proteins_100g", "N/A"),
                 "Taux de sucre (100g)": nutriments_data.get("sugars_100g", "N/A"),
                 "Energie (Kcal) (100g)": nutriments_data.get("energy-kcal_100g", "N/A"),
