@@ -1,14 +1,25 @@
 import json
 import pandas as pd
+from src.services.barcodes import Barcodes
 
 
 class Traitement:
-    def __init__(self, filename='src/database/barcodes.json'):
+    """
+    Classe Traitement pour charger et transformer les données des produits à partir d'un fichier JSON.
+    Elle applique des transformations sur les données, comme la conversion des types de certaines colonnes
+    et l'ajout d'une colonne 'Categorie_clean' basée sur un mappage défini.
+    
+    Attributs :
+        filename (str) : Le chemin vers le fichier JSON contenant les données des produits.
+        df (pd.DataFrame) : Le DataFrame contenant les données transformées des produits.
+        category_map (dict) : Un dictionnaire mappant les catégories des produits en catégories plus lisibles.
+    """
+    def __init__(self, filename: str='src/database/barcodes.json'):
         """
         Initialise la classe en chargeant les données depuis un fichier JSON.
-        :param filename: Chemin vers le fichier JSON contenant les données.
         """
-        self.df = self.__create_df(filename)
+        self.filename = filename
+        self.df = self.__create_df()
         self.__convert_types()
         self.category_map = {
             "dairies": "Produits laitiers",
@@ -66,19 +77,26 @@ class Traitement:
             "madeleines-vracs": "Confiserie et produits sucres",
             "huile-d-olive-de-provence": "Huiles et graisses"
         }
+        self.__appliquer_transformation_categories()
 
     
-    def __create_df(self, filename):
+    def __create_df(self):
         """
         Charge les données depuis un fichier JSON.
-        :param filename: Chemin vers le fichier JSON.
-        :return: pd.DataFrame contenant les données.
-        """
-        try:
-            return pd.read_json(filename)
-        except ValueError as e:
-            raise ValueError(f"Erreur lors de la lecture du fichier {filename}: {e}")
 
+        Returns: 
+            df (pd.DataFrame) contenant les données.
+        """
+        data = Barcodes().barcodes
+        rows = []
+        for key, value in data.items():
+            if value is not None:
+                row = {"Barcode": key, **value}
+                rows.append(row)
+        df = pd.DataFrame(rows)
+        df.reset_index(drop=True, inplace=True)
+        df.set_index("Barcode", inplace=True)
+        return df
 
     def __convert_types(self):
         """
@@ -89,11 +107,10 @@ class Traitement:
             if col in self.df.columns:
                 self.df[col] = pd.to_numeric(self.df[col], errors="coerce")
 
-    def appliquer_transformation_categories(self):
+    def __appliquer_transformation_categories(self):
         """
         Crée une nouvelle colonne 'Categorie_clean' en fonction de la colonne 'Categorie'
-        et du dictionnaire category_map.
-        :param category_map: Dictionnaire de correspondance entre catégories.
+        et du dictionnaire self.category_map.
         """
         if "Categorie" in self.df.columns:
             self.df["Categorie_clean"] = (
@@ -102,6 +119,7 @@ class Traitement:
                 .str[-1]
                 .map(self.category_map)
             )
+            self.df.drop(columns=["Categorie", "Novascore"], inplace=True)
         else:
             raise KeyError("La colonne 'Categorie' est manquante dans les données.")
 
