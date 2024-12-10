@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
-from src.services.stats import Statistiques
+from stats import Statistiques
 
 class PlotManager(Statistiques):
     def __init__(self):

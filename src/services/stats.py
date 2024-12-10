@@ -1,7 +1,7 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-from services.barcodes import Barcodes
+from barcodes import Barcodes
 
 class Statistiques:
     def __init__(self, filename='database/barcodes.json'):

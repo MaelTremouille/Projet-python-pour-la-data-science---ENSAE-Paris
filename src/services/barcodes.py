@@ -1,5 +1,5 @@
 import json
-from services.api import Api
+from api import Api
 
 
 class Barcodes:
