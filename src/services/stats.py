@@ -1,30 +1,12 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-from services.barcodes import Barcodes
+from src.services.traitement import Traitement
+
 
 class Statistiques:
     def __init__(self, filename='database/barcodes.json'):
-        self.df = self.__create_df()
-        self.__convert_types()
-
-    def __create_df(self):
-        data = Barcodes().barcodes
-        rows = []
-        for key, value in data.items():
-            if value is not None:
-                row = {"Barcode": key, **value}
-                rows.append(row)
-        df = pd.DataFrame(rows)
-        df.reset_index(drop=True, inplace=True)
-        df.set_index("Barcode", inplace=True)
-        return df
-
-    def __convert_types(self):
-        self.df["Ecoscore"] = pd.to_numeric(self.df["Ecoscore"], errors="coerce")
-        self.df["Taux de proteine"] = pd.to_numeric(self.df["Taux de proteine"], errors="coerce")
-        self.df["Taux de sucre"] = pd.to_numeric(self.df["Taux de sucre"], errors="coerce")
-        self.df["Energie (Kcal)"] = pd.to_numeric(self.df["Energie (Kcal)"], errors="coerce")
+        self.df = Traitement().df
 
     def stats_univariees(self, var_name: str):
         variable = self.df[var_name]
@@ -47,6 +29,7 @@ class Statistiques:
         ax = sns.boxplot(x=self.df['Categorie'], y=self.df[variable], palette="Set3")
         ax.set_title(f"Boxplot de {variable} par catégorie")
         return ax
+
 
 
 

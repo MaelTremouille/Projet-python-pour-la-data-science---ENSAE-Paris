@@ -20,7 +20,6 @@ class Traitement:
         """
         self.filename = filename
         self.df = self.__create_df()
-        self.__convert_types()
         self.category_map = {
             "dairies": "Produits laitiers",
             "fromages-du-nord-pas-de-calais": "Produits laitiers",
@@ -78,6 +77,7 @@ class Traitement:
             "huile-d-olive-de-provence": "Huiles et graisses"
         }
         self.__appliquer_transformation_categories()
+        self.__convert_types()
 
     
     def __create_df(self):
@@ -102,10 +102,19 @@ class Traitement:
         """
         Convertit certaines colonnes en types numériques si elles existent dans le DataFrame.
         """
-        numeric_columns = ["Ecoscore", "Taux de proteine", "Taux de sucre", "Energie (Kcal)"]
+        numeric_columns =[
+            'Taux de sel (100g)', 'Taux de matieres grasses (100g)',
+            'Taux de matieres grasses saturees (100g)',
+            'Taux de proteine (100g)', 'Taux de sucre (100g)',
+            'Energie (Kcal) (100g)', 'Ecoscore'
+            ]
+        str_colums = [
+            'Nom', 'Nutriscore','Categorie_clean'
+        ]
         for col in numeric_columns:
             if col in self.df.columns:
                 self.df[col] = pd.to_numeric(self.df[col], errors="coerce")
+
 
     def __appliquer_transformation_categories(self):
         """
