@@ -114,6 +114,7 @@ class Traitement:
         for col in numeric_columns:
             if col in self.df.columns:
                 self.df[col] = pd.to_numeric(self.df[col], errors="coerce")
+                
 
 
     def __appliquer_transformation_categories(self):
