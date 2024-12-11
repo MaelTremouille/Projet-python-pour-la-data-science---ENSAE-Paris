@@ -21,7 +21,14 @@ class Statistiques:
         return stats
 
     def stats_covariances(self):
-        cov_matrix = self.df[["Taux de proteine", "Taux de sucre", "Energie (Kcal)"]].cov()
+        numeric_columns =[
+            'Taux de sel (100g)', 'Taux de matieres grasses (100g)',
+            'Taux de matieres grasses saturees (100g)',
+            'Taux de proteine (100g)', 'Taux de sucre (100g)',
+            'Energie (Kcal) (100g)', 
+            'Ecoscore'
+            ]
+        cov_matrix = self.df[numeric_columns].cov()
         return cov_matrix
 
     def boxplot_categorie(self, variable: str):
@@ -33,6 +40,10 @@ class Statistiques:
         ax.tick_params(axis='x', rotation=45)  # Rotation des labels de l'axe x
         plt.tight_layout()  # Ajustement des marges pour éviter le chevauchement
         return ax
+    
+
+    
+
 
 
 
