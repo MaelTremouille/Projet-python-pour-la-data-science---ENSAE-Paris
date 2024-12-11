@@ -25,9 +25,13 @@ class Statistiques:
         return cov_matrix
 
     def boxplot_categorie(self, variable: str):
-        plt.figure(figsize=(10, 6))
-        ax = sns.boxplot(x=self.df['Categorie'], y=self.df[variable], palette="Set3")
-        ax.set_title(f"Boxplot de {variable} par catégorie")
+        plt.figure(figsize=(12, 8))  # Taille plus grande pour plus de lisibilité
+        ax = sns.boxplot(x=self.df['Categorie_clean'], y=self.df[variable], palette="Set3")
+        ax.set_title(f"Boxplot de {variable} par catégorie", fontsize=16)  # Taille du titre
+        ax.set_xlabel("Catégorie", fontsize=12)  # Taille du label x
+        ax.set_ylabel(variable, fontsize=12)  # Taille du label y
+        ax.tick_params(axis='x', rotation=45)  # Rotation des labels de l'axe x
+        plt.tight_layout()  # Ajustement des marges pour éviter le chevauchement
         return ax
 
 
