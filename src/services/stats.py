@@ -29,6 +29,28 @@ class Statistiques:
             'Ecoscore'
             ]
         cov_matrix = self.df[numeric_columns].cov()
+        plt.figure(figsize=(10, 8))
+
+        # Définir les limites de la matrice pour centrer la palette sur 0
+        vmin = cov_matrix.min().min()  # Valeur minimale de la matrice
+        vmax = cov_matrix.max().max()  # Valeur maximale de la matrice
+        abs_max = max(abs(vmin), abs(vmax))  # Symétriser autour de 0
+
+        sns.heatmap(
+            cov_matrix,
+            annot=True,
+            fmt=".2f",
+            cmap=sns.color_palette(["#ADD8E6", "#FFB6C1"], as_cmap=True),
+            vmin=-abs_max,  # Minimum symétrique négatif
+            vmax=abs_max,   # Maximum symétrique positif
+            square=True
+        )
+
+        plt.title("Matrice de covariance", fontsize=16)
+        plt.xticks(rotation=45, ha="right", fontsize=12)
+        plt.yticks(fontsize=12)
+        plt.tight_layout()
+        plt.show()
         return cov_matrix
 
     def boxplot_categorie(self, variable: str, few_obs: int = None):
@@ -52,6 +74,22 @@ class Statistiques:
         ax.tick_params(axis='x', rotation=45)  # Rotation des labels de l'axe x
         plt.tight_layout()  # Ajustement des marges pour éviter le chevauchement
         plt.plot
+
+    def moy_par_categorie(self, variable : str = 'Ecoscore'):
+        moyennes = self.df.groupby("Categorie_clean")[variable].mean().dropna()
+        # Creer le graphe
+        plt.figure(figsize=(10, 6))
+        moyennes.sort_values().plot(kind="barh", color="skyblue", edgecolor="black")
+        plt.title(f"{variable} moyen par categorie", fontsize=16)
+        plt.xlabel(f"{variable} moyen", fontsize=14)
+        plt.ylabel("Categories", fontsize=14)
+        plt.grid(axis="x", linestyle="--", alpha=0.7)
+        plt.tight_layout()
+
+        # Afficher le graphique
+        plt.show()
+
+
     
 
     
