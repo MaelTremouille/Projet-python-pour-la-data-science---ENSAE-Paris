@@ -132,6 +132,12 @@ class Traitement:
             self.df.drop(columns=["Categorie", "Novascore"], inplace=True)
         else:
             raise KeyError("La colonne 'Categorie' est manquante dans les données.")
+        
+    def get_categorie_clean_value(self):
+        set_clean_values = set()
+        for key in dico:
+            set_clean_values.add(self.category_map[key])
+        return(list(set_clean_values))
 
 
 
