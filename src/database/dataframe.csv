@@ -1,458 +1,460 @@
-Nom,Categorie,Nutriscore,Novascore,Ecoscore,Taux de sel (100g),Taux de matieres grasses (100g),Taux de matieres grasses saturees (100g),Taux de proteine (100g),Taux de sucre (100g),Energie (Kcal) (100g)
-Fagotin tradition,en:dairies,d,en:4-ultra-processed-food-and-drink-products,47,1.4,28,19,20,0.5,332
-Ricotta bio 8% Mat. Gr.,en:dairies,c,en:4-ultra-processed-food-and-drink-products,60,0.4,8,6,8,3,N/A
-Fromage Le Carre Au Lait Pasterise,en:dairies,d,en:3-processed-foods,44,1.6,27,19,18,0.5,319
-Gouda tranchettes,en:dairies,d,en:3-processed-foods,38,1.7,28,19,24,0.5,350
-Mozzarella x 1,en:dairies,c,en:3-processed-foods,65,0.6,19,13,18,1,247
-Edam tranches 200g,en:dairies,d,unknown,35,2.1,24,16,25,0.5,316
-Cottage Cheese With Pineapple,en:dairies,c,unknown,35,0.7,5.6,3.9,9.5,5.1,109
-Le Sainte-Maure - Fromage de chèvre,en:dairies,d,en:3-processed-foods,22,1.3775,19,13,19,0.8,256
-Mozarella cossettes cora,en:dairies,d,en:3-processed-foods,40,1.1,22,15,26,0.6,312
-La Raclette en tranches,en:dairies,d,en:3-processed-foods,45,1.7,26,18,23,0,328
-Mimolette,fr:fromages-du-nord-pas-de-calais,d,unknown,31,2.7,23.1,16,26.2,0,313
-Camembert,en:dairies,d,en:3-processed-foods,58,1.5,22,17,20,0.5,280
-Emmental râpé francais (29% MG),en:dairies,d,en:3-processed-foods,42,0.7,29,19,27,0.5,369
-"Cancoillotte de Franche Comte a l'ail, le pot de",en:dairies,c,en:3-processed-foods,36,1.8,8,5.6,14.2,0.5,136
-Grated Chreese,en:dairies,e,en:3-processed-foods,35,3.935,31.7,20.2,39.2,2,450
-PRESIDENT CAMEMBERT 250g,en:dairies,d,en:3-processed-foods,48,1.4,21,15,20,0,269
-L'Emmental Français,en:dairies,d,unknown,37,0.7,29,19.5,27,2,377
-Billes de Chevrot frais Eclats d'abricot,en:dairies,c,unknown,14,0.1,19,14,12,7.3,250
-Crottin frais,en:dairies,d,en:3-processed-foods,8,1.1,22.9,15.9,15,2.7,282
-Crottin frais aromatisé,en:dairies,unknown,en:3-processed-foods,14,N/A,N/A,N/A,N/A,N/A,N/A
-Le Frais Crottin,en:dairies,c,en:3-processed-foods,14,0.42,11,7.8,10,2.2,149
-Crottin chèvre frais,en:dairies,d,en:3-processed-foods,7,1.1,22.9,15.9,15,2.7,282
-Crottin frais,en:dairies,d,en:3-processed-foods,7,1.1,22.9,15.9,15,2.7,282
-"Fermentiertes Sojaprodukt, Ungesüßt",en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,81,0.24,2.3,0.4,4,0,42
-Creme d’Avoine,en:plant-based-foods-and-beverages,b,unknown,N/A,0.13,7.2,0.9,0.5,0.8,98
-Bio drink rice coconut,en:plant-based-foods-and-beverages,b,unknown,N/A,0.08,1.8,1.6,0.5,4.6,70
-Pâte à la vanille,en:plant-based-foods-and-beverages,not-applicable,en:4-ultra-processed-food-and-drink-products,N/A,N/A,0.5,0.1,0.5,55,227
-Huile Isio 4 Olive,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,47,0,100,9.8,0,0,900
-Bulgur Pilaf,en:meals,a,en:4-ultra-processed-food-and-drink-products,N/A,0.89,6.5,1,3.8,9,150
-Ice tea pêssego,en:beverages-and-beverages-preparations,not-applicable,en:4-ultra-processed-food-and-drink-products,94,0.053,0.5,0.5,0.5,4.5,19
-Compote pommes,en:plant-based-foods-and-beverages,a,en:3-processed-foods,76,0,0,0,0,14,70
-SUN YAN,en:plant-based-foods-and-beverages,unknown,en:4-ultra-processed-food-and-drink-products,52,0.77,4.3,2.1,1.9,1,93
-Poudre de noisette,en:plant-based-foods-and-beverages,c,unknown,16,0,57,5.6,16,6.5,633
-POUDRE DE NOISette,en:plant-based-foods-and-beverages,unknown,unknown,16,N/A,N/A,N/A,N/A,N/A,N/A
-Haselnüsse gemahlen,en:plant-based-foods-and-beverages,a,unknown,16,0,62,4.5,12,1,667
-Poudre noisette bio,en:plant-based-foods-and-beverages,c,unknown,36,0.002,63.5,4.5,12.8,5,674
-Poudre De Noisettes Grillées,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,41,0.0099999997764826,67,7.0999999046326,11.699999809265,2.7000000476837,704
-NOISETTES DE MEDITERRANEEEN POUDRE,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,21,0.01,57,4.7,17,4.9,632
-Noisettes En Poudre,en:plant-based-foods-and-beverages,b,unknown,16,0.1,53,4.1,19,6.1,617
-Velouté de Tomates,en:plant-based-foods-and-beverages,b,en:3-processed-foods,112,0.65,1,0,0.5,3,35
-"Boulgour, Quinoa et Sésame",en:plant-based-foods-and-beverages,a,unknown,95,0.8,5.3,0.7,6.1,0.5,180
-Confiture abricots,en:plant-based-foods-and-beverages,d,en:4-ultra-processed-food-and-drink-products,90,0,0.1,0,0.1,55.3,242.8
-Le Fouetté de Beurre Demi-Sel,fr:beurre-a-tartiner,e,en:2-processed-culinary-ingredients,51,1.2,63,37,1.1,2.1,580
-flocons d'avoine complète,fr:flocons-d-avoine-complete,a,en:1-unprocessed-or-minimally-processed-foods,62,0.08,6.8,1.3,13,0.9,376
-Quinoa lentilles,fr:cereales-preparees,a,en:3-processed-foods,N/A,0.46,2.4,0.5,5.5,0.6,139
-Quinoa champignons potiron,en:plant-based-foods-and-beverages,a,en:3-processed-foods,N/A,0.6,4.1,0.5,4.1,2,116
-Crème de coco légère,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,111,0.08,16,15,1.2,1.6,174
-Purée cacahuète crunchy,en:plant-based-foods-and-beverages,d,unknown,50,0.44,52,9.5,27,4.4,640
-Corsica’Tapas,en:snacks,d,en:3-processed-foods,68,2.6,34,5,2.1,0.5,324
-Charms fluffy stuff north pole cotton candy,en:snacks,unknown,en:4-ultra-processed-food-and-drink-products,N/A,0,0,0,0,100,N/A
-La belle équitable - 100% Cacao noir,en:snacks,d,en:3-processed-foods,N/A,0.0102,52.5,33.1,12.1,0.3,587
-bean to bar,en:snacks,e,unknown,35,0,37,23,8,31,532
-Tortilla Nachips Original,en:snacks,b,en:3-processed-foods,72,0.49,23.6,2.2,7.8,0.5,492
-Klet's hierbabuena,en:snacks,b,unknown,42,0,0,0,0,0,161
-Cerealyo,en:snacks,c,unknown,50,0.56,14,3,7.1,25,450
-Brownies,en:snacks,e,unknown,24,0.41,25.2,7.65,6.1,33,N/A
-Chocolat,en:snacks,e,unknown,56,0,34,21,6.7,39,533
-Cracker con riso soffiato,en:snacks,c,unknown,67,1.5,8.2,0.9,10,2.2,423
-Ferrero rocher nocciola white,en:snacks,e,en:4-ultra-processed-food-and-drink-products,10,0.34,43.4,22,9.2,44.7,610
-Gâteau de Noël Stollen à la pâte d'amande,en:snacks,e,en:4-ultra-processed-food-and-drink-products,N/A,0.35,17,8,4.2,39,402
-Chips de sarrasin bretonnes,en:snacks,c,en:3-processed-foods,N/A,1.2,27,2.2,11,0.7,505
-Lunettes fraise,fr:lunettes-a-la-fraise,d,en:4-ultra-processed-food-and-drink-products,83,0.1,15,4.6,6,33,436
-Noir quinoa soufflé,fr:chocolats-noirs-au-quinoa,e,en:3-processed-foods,53,0,37,23,5.4,37,558
-Bonbon Arc-en-ciel Sans Sucre,en:snacks,b,en:4-ultra-processed-food-and-drink-products,47,0,0,0,0,0.5,234
-Britannia 50 Piece Little Hearts,en:snacks,c,unknown,50,0.2625,7,3,2,8,165
-P'tit fourré chocolat,en:snacks,e,en:4-ultra-processed-food-and-drink-products,30,0.5,24,11,6.5,37,499
-Power Fresh menthe forte,en:snacks,not-applicable,en:4-ultra-processed-food-and-drink-products,N/A,0.03,0.4,0.2,0.2,0.1,160
-4 Bretzels crus,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,N/A,1.3,5.5,0.7,6.6,1.8,251
-La Vicoise de Picardie,en:plant-based-foods-and-beverages,c,en:3-processed-foods,82,1.3,34,2.8,5.9,0.6,525
-Terrine Charles Antona. Sanglier à l'eau de vie,en:meats-and-their-products,e,unknown,N/A,2.1,37,15,10,0.7,377
-Lasagne bolognaise à la viande de porc,en:meats-and-their-products,c,en:4-ultra-processed-food-and-drink-products,32,0.9,5.8,2.7,5.2,4.2,144
-Ravioli bolognaise,en:meats-and-their-products,a,en:3-processed-foods,67,0.67,5.5,2,5.5,3.4,122
-Pate croute richelieu canard,fr:charcuteries-cuites,e,en:4-ultra-processed-food-and-drink-products,-2,2,23,8.8,11,1.2,317
-Cordon bleu de poulet,en:meats-and-their-products,c,en:3-processed-foods,42,0.96,14,3.3,13,0.7,254
-Blanc de Dinde Doré au four,fr:charcuteries-cuites,a,en:4-ultra-processed-food-and-drink-products,18,0.0017,1.5,0.5,22,0.8,106
-Rosette Pierre Bertrand,en:meats-and-their-products,e,unknown,25,4.7,30.2,11.6,24.7,1,376
-Saucisse barbecue,en:meats-and-their-products,e,en:4-ultra-processed-food-and-drink-products,N/A,2.21,20.7,8.47,13.1,0.8,246
-Filet de bacon fumé au bois de hêtre,en:meats-and-their-products,d,en:4-ultra-processed-food-and-drink-products,12,2.7,2,1,22,0.5,106
-Rosette en tranche,fr:rosette-tranchee,e,unknown,29,4.3,28,12,23,2.2,353
-Filet de Bacon fumé,en:meats-and-their-products,d,en:4-ultra-processed-food-and-drink-products,N/A,3.1,2.6,1.2,23,0.5,117
-Langue de bœuf sauce Madère au sel de Guérande,en:meats-and-their-products,unknown,unknown,-9,N/A,N/A,N/A,N/A,N/A,N/A
-Langue de boeuf sauce piquante cuisinée au sel de Guérande,en:meats-and-their-products,c,en:4-ultra-processed-food-and-drink-products,-9,1.1,9,4.2,11,0.8,136
-Magret de canard du Sud Ouest séché,en:meats-and-their-products,e,unknown,7,3.2,33,8.6,23,1,400
-Pollo asado,en:meats-and-their-products,b,en:4-ultra-processed-food-and-drink-products,22,0.8,10,2.1,22,0.5,183
-Mousse de volaille,en:meats-and-their-products,e,unknown,N/A,2.6,21.6,6.1,10.6,1.4,248
-Tiroler Speck,fr:specks,e,unknown,-7,4,19,7.6,29,0.5,289
-Sucuk,en:meats-and-their-products,e,en:4-ultra-processed-food-and-drink-products,15,2.8,33,16,18,0.5,372
-Escalopes de poulet marines,en:meats-and-their-products,b,en:3-processed-foods,28,1.3,4.7,0.5,28,0.5,153
-Blanquette de veau et pommes de terre,en:canned-foods,a,en:4-ultra-processed-food-and-drink-products,6,0.51,1.2,0.6,5.1,1,54
-Hot Dog saucisses fumées,en:meats-and-their-products,d,en:4-ultra-processed-food-and-drink-products,29,1.75,19,7.6,13,1,227
-Dumplings porc et chou chinois,en:meats-and-their-products,c,en:4-ultra-processed-food-and-drink-products,N/A,1.1,5.8,1.1,7.2,1.7,172
-Terrine porc pruneau,en:meats-and-their-products,e,en:3-processed-foods,N/A,2.5,27,9.2,4.6,4.6,334
-Saucisse catalane,en:meats-and-their-products,d,en:4-ultra-processed-food-and-drink-products,31,1.6,18,6.5,16,0,225
-Brasserie du Pays Flamand,en:beverages,not-applicable,en:3-processed-foods,50,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,en:beverages,c,en:4-ultra-processed-food-and-drink-products,37,0,0,0,0.6,1.5,23
-Instant Choco,N/A,unknown,en:4-ultra-processed-food-and-drink-products,N/A,0.05,6,4,6.3,67,383
-Agrumes,en:beverages-and-beverages-preparations,c,en:4-ultra-processed-food-and-drink-products,N/A,0.01,0,0,0,0,19
-Captain Morgan,en:beverages,not-applicable,en:4-ultra-processed-food-and-drink-products,52,N/A,N/A,N/A,N/A,N/A,N/A
-Sommeil,en:beverages,unknown,unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-"NESCAFÉ Cappuccino Choco Blanc, Café soluble, Boîte de 270g",en:beverages-and-beverages-preparations,not-applicable,en:4-ultra-processed-food-and-drink-products,-18,N/A,N/A,N/A,N/A,N/A,N/A
-Amande intense,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,93,0.09,4,0.4,1.2,4,61
-Amande intense,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,79,0.035,0.36,0.08,0.24,0.2,11.6
-Soja chocolat,en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,103,0.12,3,0.8,4,8,80
-Oasis Pomme Cassis Framboise,en:beverages-and-beverages-preparations,e,en:4-ultra-processed-food-and-drink-products,70,0.01,0,0,0,8,34
-Épeautre noisette bjorg,en:plant-based-foods-and-beverages,b,en:3-processed-foods,N/A,0.09,3,0.3,1,5.4,76
-Water juice,fr:saguaro-water-juice-fraise,c,en:4-ultra-processed-food-and-drink-products,N/A,0,0,0,0,2.9,13
-Diet Coke 2L,en:beverages,b,en:4-ultra-processed-food-and-drink-products,N/A,0.0282,0,N/A,0,N/A,0
-Sirop de Verveine,fr:sirops-de-verveine,unknown,en:3-processed-foods,93,0,0,0,0,61,344
-"Caprisonne, Multivitamin",en:beverages-and-beverages-preparations,e,en:4-ultra-processed-food-and-drink-products,N/A,0.01,0.5,0.1,0.5,7.3,31
-Capri Sun multi vitamin,en:plant-based-foods-and-beverages,e,en:4-ultra-processed-food-and-drink-products,45,0,0,0,0,8,34
-Chipolatas au piment d'espelette Mmmm!,en:meats-and-their-products,d,unknown,31,1.7,15,6,18,0.5,213
-Jambon sec,en:meats-and-their-products,d,unknown,-13,5.69999975,12,4.5,27,0.5,224
-Jambon de paris superieur,en:meats-and-their-products,c,unknown,12,2,3,1.5,20,1,111
-Terrine de foie de volaille,fr:terrines-de-foie-de-volaille,e,unknown,N/A,1.5,35,15.3,11.1,4.6,213
-Terrine de chevreuil aux marrons,fr:terrines-de-chevreuil,d,unknown,N/A,1.7,24.9,9.7,18.4,0.5,223.6
-Rillettes de porc au cidre breton,fr:rillettes-de-viande-rouge,d,unknown,19,0.8,41.6,16.2,11.5,0.9,425
-Rillettes de porc,fr:rillettes-de-viande-rouge,d,unknown,19,0.8,41.6,16.2,11.5,0.9,425
-Rillettes de poulet rôti en cocotte,en:meats-and-their-products,d,en:3-processed-foods,39,1,29,9.2,16,0.5,N/A
-Terrine de canard aux magrets fumés,en:meats-and-their-products,e,en:3-processed-foods,12,2.2,34,14,13,0.4,360
-Terrine de lapin aux deux moutardes,en:meats-and-their-products,d,unknown,26,1.99,15.4,5.8,15.9,0.2,260
-Betterave Bio,fr:betteraves-sous-vide,a,unknown,N/A,0.14000000059605,0,0,2.2999999523163,6.6999998092651,43
-"4 pomme, 4 pomme fraise, 4 pomme banane, 4 pomme poire",en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,79,0,0.3,0,0.3,11,51
-Cédrats,fr:confitures-de-cedrats,d,unknown,60,0,0,0,0.6,47,195
-Choucroute d'Alsace,fr:choucroute-crue,b,en:3-processed-foods,90,1.52,0.52,0.04,1.4,1.92,27.2
-Pâte de fruits,en:plant-based-foods-and-beverages,c,unknown,68,0.19,0,0,0,74,334
-Tomates sechees,en:plant-based-foods-and-beverages,d,en:3-processed-foods,0,3.8,25.5,3.6,2.7,11.5,295
-Pickeld Gherkin,en:plant-based-foods-and-beverages,unknown,en:3-processed-foods,90,0.787,0.1,N/A,1.1,9.6,47
-Apfelmark - Campo Verde,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,114,0,0.1,0,0.3,10.1,51
-Raisin Sec Sultanines,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,62,0.0275,0.5,0.1,3.1,59,299
-Figues séchées,en:plant-based-foods-and-beverages,b,en:3-processed-foods,29,0,1.6,0.4,3.6,53,265
-Velouté Légumes variés du potager,en:plant-based-foods-and-beverages,b,en:3-processed-foods,109,0.5,0.5,0.2,0.7,1.6,30
-La poêlée pour poisson,en:plant-based-foods-and-beverages,a,en:3-processed-foods,68,0.06,0.5,0.1,1.4,3.1,28
-Cornichons à l'aigre doux,en:plant-based-foods-and-beverages,a,unknown,N/A,0.82,0.08,0.04,0.44,1.26,9.98
-La poêlée aux 5 légumes,fr:100-legumes,a,en:3-processed-foods,69,0.1,0.5,0.1,1.3,2.2,27
-Pomme de terre micron onde,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-Haricots verts extra fins,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,81,0.1,0.1,0.1,1.8,0.4,28
-Poelee Méridionale,en:plant-based-foods-and-beverages,a,en:3-processed-foods,69,0.06,0.1,0.1,1.6,2.2,35
-Ananas en tranches au sirop léger,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,89,0.01,0.5,0,0.5,13,56
-La Poêlée Celtique,fr:100-legumes,a,en:3-processed-foods,75,0.03,1.25,0.1,1.9,1.8,52
-Ail Semoule,en:plant-based-foods-and-beverages,unknown,unknown,77,N/A,N/A,N/A,N/A,N/A,N/A
-Compote pomme datte,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,76,0.01,0.5,0.1,0.5,9,76
-Tarte en or feuilletée,en:plant-based-foods-and-beverages,d,en:4-ultra-processed-food-and-drink-products,47,1.1,16,5.8,6.9,1.5,347
-Baguette à l'ail,en:plant-based-foods-and-beverages,d,en:4-ultra-processed-food-and-drink-products,N/A,1.4,23,15,7,2.5,N/A
-NESTLE LION céréales 675g​,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,25,0.49,7.7,1.3,8.2,25,410
-NESTLE CRUNCH Céréales 980g PRIX CHOC,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,47,0.04,7.6,2,7.4,24.9,403
-NESTLE CRUNCH Céréales 750g,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,34,0.02,7.4,3.3,7.4,24.9,401
-NESTLE NESQUIK BIO Céréales 375g,en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,52,0.45,2.1,0.7,9.1,22.3,374
-Cheerios Bio,en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,58,0.65,6.6,0.9,9.1,18,388
-"NESTLE LION Céréales 1,05 kg",en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,15,0.49,7.7,3.2,8.2,25,409
-NESTLE LION Céréales 480g,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,26,0.49,7.7,3.2,8.2,25,409
-NESTLE CHOCAPIC BIO Céréales,en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,50,0.22,5.5,1.6,8.8,22.5,391
-LION caramel chocolat BIO,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,58,0.41,7.7,1.2,8.1,25,411
-Pâtes spaghetti n°5 1kg,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,73,0.01,2,0.5,13,3.5,359
-Bulgur Wheat,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,80,0.1,0.8,0.2,3.6,0.3,101
-Granola Bio,en:plant-based-foods-and-beverages,b,en:3-processed-foods,87,0.04,15,2.2,9,15,450
-Galettes riz complet Bio,en:plant-based-foods-and-beverages,a,en:3-processed-foods,68,0.25,3.2,0.7,8.7,0.6,379
-Galettes riz sésame,en:plant-based-foods-and-beverages,a,en:3-processed-foods,78,0.25,5.6,1,9.2,0.6,391
-Galettes de Riz Chocolat au Lait,en:plant-based-foods-and-beverages,d,en:3-processed-foods,78,0.09,23,14,7.8,27,493
-Croc' Fourrés Cacao Noisettes,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,45,0.44,14,1.5,8.4,22,440
-Croc pétales les p'tits curieux,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,50,0.85,0.8,0.3,6.5,18,369
-Demae Ramen - Chicken,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,63,1.0825,4,2,2,0.4,91
-Soupe de poissons sauvages,en:meals,b,unknown,1,1,1.2000000476837,0.34999999403954,5.7,1,47
-Soupe de poisson Corse,en:meals,b,unknown,1,1.06,2,0.4,7.7,0.8,47
-Couscous à la Méditerranéenne,en:meals,a,unknown,86,0.64,5.2,0.7,5.2,1.7,146
-Soupe à la chinoise,en:meals,d,en:4-ultra-processed-food-and-drink-products,N/A,7.1,1.3,0.2,9.1,10,343
-Parmentier de poisson,en:seafood,b,en:4-ultra-processed-food-and-drink-products,7,0.66,7.4,3.9,6.8,2.3,128
-Chicken shortcrust pastry pie,en:meals,unknown,en:3-processed-foods,13,N/A,15.9,7.1,9.8,0.8,282
-Quinoa Tomates Olives,en:plant-based-foods-and-beverages,a,en:3-processed-foods,N/A,1,4.8,0.7,5.4,3.5,151
-Lentilles Carottes,en:plant-based-foods-and-beverages,a,en:3-processed-foods,100,0.49,1.6,0.2,7.3,1.1,106
-Quinoa tomates olives - Bio,en:plant-based-foods-and-beverages,a,en:3-processed-foods,N/A,0.84,3.3,0.5,5.1,1,151
-Terrine légumes du soleil,en:plant-based-foods-and-beverages,b,en:3-processed-foods,103,1,16,1.7,4.2,2.1,222
-"Coleslaw, choux blanc et carottes",en:snacks,a,en:4-ultra-processed-food-and-drink-products,77,1,7.7,0.6,0.9,6.7,109
-Sushis,en:meals,d,unknown,N/A,1.9,5.3,1.4,5.8,6.2,185
-Palet de légumes Courgettes Aubergines,en:plant-based-foods-and-beverages,a,en:3-processed-foods,N/A,0.76,5.1,0.6,3.8,3.6,122
-Kinder Pinguí 8er-Pack,en:snacks,e,unknown,N/A,0.25,29.7,20,7,33.1,450
-Gaufres caramel bio,en:snacks,e,en:4-ultra-processed-food-and-drink-products,76,0.94,15,5,3.7,45,429
-Croc'Avoine complet,en:plant-based-foods-and-beverages,c,en:3-processed-foods,74,0.65,19,1.6,8.4,18,457
-Bio nutrition + croc'avoine chocolat,en:snacks,c,en:4-ultra-processed-food-and-drink-products,61,0.57,19,2.8,8.5,18,454
-Galletas de Chocolate Príncipe,en:snacks,d,en:4-ultra-processed-food-and-drink-products,N/A,0.49,17,5.6,6.3,32,467
-Petit fourré noisette,en:snacks,d,en:4-ultra-processed-food-and-drink-products,58,0.4,19,4,5.5,29,460
-Cookies quinoa cacao choco Bjorg,en:snacks,d,en:3-processed-foods,73,0.41,22,13,8.3,30,473
-Biscuits aux pépites de chocolat,fr:biscuits-edulcores,a,en:4-ultra-processed-food-and-drink-products,41,0.15,13.8,3.7,16.7,1.9,380
-Bisc. tarallucci KG1 Barilla #,en:snacks,d,unknown,50,0.675,17,1.9,7,23.5,467
-Milka galette choco,en:snacks,e,en:4-ultra-processed-food-and-drink-products,32,0.6,24,12,5.7,35,504
-Z'animaux,en:snacks,unknown,en:4-ultra-processed-food-and-drink-products,63,N/A,N/A,N/A,N/A,N/A,N/A
-FROLLINI con GRANELLI di ZUCCHERO,en:snacks,d,unknown,50,0.65,17,8.3,7.9,24,473
-Tableau d'honneur chocolat au lait - noisette,en:snacks,e,en:4-ultra-processed-food-and-drink-products,44,0.59,23,14,6.7,35,499
-Biscuits tableau d'honneur chocolat noir,en:snacks,e,en:4-ultra-processed-food-and-drink-products,49,0.56,23,15,7,31,498
-Biscuit Bio Fourre Chocolat Noir X2 50G,en:snacks,d,en:4-ultra-processed-food-and-drink-products,57,0.5,20,7,7.1,27,478
-Éclair choco fondant,en:snacks,d,unknown,55,0.46,11,5,4.9,18,243
-Confiture fraise,en:plant-based-foods-and-beverages,unknown,unknown,60,N/A,0,0,0,62,254
-Confiture extra de 3 agrumes,en:plant-based-foods-and-beverages,d,unknown,60,0,0,0,0,61,252
-Confiture Clémentine,en:plant-based-foods-and-beverages,c,unknown,60,0.02,0,0,0.6,40,178
-Confiture Fraise,en:plant-based-foods-and-beverages,c,unknown,60,0.07,0,0,0.5,40,177
-Confiture orange,en:plant-based-foods-and-beverages,c,unknown,72,0.01,0,0,0.7,40,171
-Gelée de corse myrte,en:plant-based-foods-and-beverages,d,unknown,60,0.04,0.8,0,0.5,62,252
-Confiture de myrtille,en:plant-based-foods-and-beverages,d,unknown,80,0.02,0,0,0,53,241
-Confiture extra de Corse - mûre sauvage,en:plant-based-foods-and-beverages,d,unknown,60,0.03,0.8,0.2,0.5,61,253
-Confiture de fraises,en:plant-based-foods-and-beverages,d,unknown,60,0.4,0,0,0,58,254
-Confiture bio de Corse - Cerise noire,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,45,0.02,0,0,0.8,54,233
-Confiture du terroir Corse Fraises,en:plant-based-foods-and-beverages,unknown,unknown,60,N/A,0,0,0,58,254
-Miel de fleurs,en:breakfasts,d,en:2-processed-culinary-ingredients,80,N/A,N/A,N/A,N/A,N/A,N/A
-Fraise,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,73,0.03,0,0,0,39,163
-Dried mango,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,N/A,0.1975,1,0.5,2.6,52,354
-Compote pomme mirabelle cannelle,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,96,0.01,0.6,0.1,0,11.8,60
-Noix de coco rapée,en:plant-based-foods-and-beverages,d,unknown,45,0.09,69.2,59,7.4,6.9,708
-Cocktail de Fruits,en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,N/A,0,0,0,0,12,64
-Dattes variété Deglet Nour,en:plant-based-foods-and-beverages,b,unknown,49,0.01,0.5,0.1,2.1,66,293
-Compote de pommes bio,en:plant-based-foods-and-beverages,a,unknown,96,0.01,0,0,0,12,55
-Haselnusskerne geröstet,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,20,0.03,70.5,6.8,14.3,3.5,722
-Abricots secs,en:plant-based-foods-and-beverages,unknown,unknown,44,N/A,1,0,3.4,53,241
-Pâtes de figues,fr:pates-de-figues,c,en:1-unprocessed-or-minimally-processed-foods,73,0.09,1,0.1,4,52,271
-Compotes à boire pomme-fraise pomme-abricot,en:plant-based-foods-and-beverages,unknown,unknown,76,N/A,0.5,0.1,0.5,10,57
-Dattes,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,49,0,0.2,0,1.8,55,287
-Super Fruits compote gourde,en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,76,0,0.27,0,0.43,11,53
-American Burger Style Sauce,en:condiments,d,en:4-ultra-processed-food-and-drink-products,60,2.1,36,3.1,1,9.3,375
-Pâte de Curry Thaï Jaune Biologique Doux,en:condiments,d,en:3-processed-foods,N/A,5.3,5.4,4.3,2.4,5.5,134
-Mayonnaise,en:condiments,d,en:4-ultra-processed-food-and-drink-products,37,1,80,6.5,1.2,0.1,726
-Aioli,en:condiments,e,unknown,29,1.33,73.3,10,1.33,0,667
-Amora Mayonnaise Street Mayo Flacon Souple 398g,en:condiments,d,en:4-ultra-processed-food-and-drink-products,40,1.5,77,6,1.2,1.3,700
-AMORA Mayonnaise 5 Ingrédients Tube 175g,en:condiments,d,en:1-unprocessed-or-minimally-processed-foods,44,1.1,76,6.4,1.2,0.5,692
-Barilla sauce tomates basilic bio 200g,fr:sauce-pate,a,en:3-processed-foods,105,0.78,3.4,0.7,1.5,5.4,66
-Salsa Arrabbiata,en:condiments,d,en:4-ultra-processed-food-and-drink-products,90,2.18,21,2.2,1.6,2.9,216
-Fond de volaille,en:condiments,unknown,en:4-ultra-processed-food-and-drink-products,N/A,17.1,1.8,0.6,13,21,317
-Sauce barbecue goût fumé,en:condiments,d,en:4-ultra-processed-food-and-drink-products,74,2.18,0.7,0.1,1.1,24,126
-Sauce Tomate cuisinée aux petits légumes,fr:sauces-pour-feculents,c,en:4-ultra-processed-food-and-drink-products,69,2.9,7.3,0.5,2.8,9.3,137
-Creme anglaise,en:dairies,c,en:4-ultra-processed-food-and-drink-products,74,0.17,3,1.8,3,12,91
-Sauce crudités caesar,fr:sauces-crudites,d,en:4-ultra-processed-food-and-drink-products,42,1.75,49.099998474121,4,2,4.5999999046326,482
-Sauce n°2 armoricaine,en:condiments,c,unknown,N/A,1.5,6,2.6,2.4,2.4,81
-Huile D'avocat,en:plant-based-foods-and-beverages,c,unknown,36,0,100,20,0,0,900
-Mayonaise,en:condiments,unknown,en:4-ultra-processed-food-and-drink-products,37,5,74.7,N/A,2.67,N/A,667
-Sauce Crudités,fr:sauces-crudites,d,en:4-ultra-processed-food-and-drink-products,37,2.35,30.3,2.4,0.5,4.7,308
-Sauce soja,en:condiments,c,en:3-processed-foods,97,16.9,0,0,10,0.6,77
-Sauce Soja,en:condiments,unknown,en:4-ultra-processed-food-and-drink-products,88,N/A,N/A,N/A,N/A,N/A,N/A
-Pesto frais ail des ours,en:condiments,e,unknown,58,1.1,55.9,11.3,9.2,0.3,547.6
-Crème de champignon,en:condiments,d,en:3-processed-foods,62,1,11.7,6.8,7.1,3,N/A
-Houmous,en:plant-based-foods-and-beverages,a,en:3-processed-foods,104,0.7,11,1.6,14,3,234
-Sauce hoi sin,en:condiments,e,en:4-ultra-processed-food-and-drink-products,N/A,6.1666666666668,6.6666666666667,6.6666666666667,6.6666666666667,41.333333333333,206.66666666667
-Nut Mix,en:plant-based-foods-and-beverages,b,en:1-unprocessed-or-minimally-processed-foods,N/A,0,55,4.7,20.2,4.3,627
-Sorbet au cassis avec baies de cassis,en:desserts,c,en:4-ultra-processed-food-and-drink-products,82,0.2,0.2,0,0,25,118
-Magnum Glace Bâtonnet Mini Classic x6 330ml,en:desserts,d,en:4-ultra-processed-food-and-drink-products,82,0.1,16,11,2.7,22,261
-Cornetto Glace à l'Italienne Vanille & Cacao 4x140ml,en:desserts,c,en:4-ultra-processed-food-and-drink-products,95,0.12,6.7,5.7,1.8,15,155
-"Magnum Glace Bâtonnet Mini Classique, Amande & Chocolat Blanc 6x55ml",en:desserts,d,en:4-ultra-processed-food-and-drink-products,96,0.09,15,11,2.6,21,328
-Magnum Glace Bâtonnet Amande 8x100ml,en:desserts,d,en:4-ultra-processed-food-and-drink-products,87,0.1,15,9.4,3.5,21,249
-La vanille de Madagascar - Pure Sélection,en:desserts,d,en:3-processed-foods,78,0.12,11,7.2,4.5,19,193
-"Gratins de pomme de terre, patate douce et épinard",en:frozen-foods,unknown,en:3-processed-foods,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-Mochis Glacés,en:desserts,d,en:4-ultra-processed-food-and-drink-products,N/A,0.1,6.7,4.2,2.4,28,217
-Colin d'alaska Panées,en:seafood,b,en:4-ultra-processed-food-and-drink-products,-1,1.2,7.7,0.7,11,1,178
-FRITES préfites - surgelées 600 g,en:chips-and-fries,a,en:4-ultra-processed-food-and-drink-products,101,0.02,4,1.24,2,0.4,154
-noix de pécan,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,19,0,72,6.2,9.2,4,721
-Les P'tits curieux barres cookies chocolat,en:snacks,d,en:4-ultra-processed-food-and-drink-products,61,0.29,22,7.8,6.1,22,481
-Thé vert glacé,fr:the-vert-glace,not-applicable,en:4-ultra-processed-food-and-drink-products,109,0.03,0,0,0,2.2,10
-Cadbury Freddo,en:snacks,unknown,en:3-processed-foods,19,2,5,4,0,95,N/A
-Schogetten originals: Praliné Noisettes,en:snacks,e,en:4-ultra-processed-food-and-drink-products,19,0.25,30,14,7.4,55,530
-Nesquick recharge,en:cocoa-and-its-products,b,en:4-ultra-processed-food-and-drink-products,19,0.41,3.6,1.6,5.1,75.1,386
-Chocolat Noir Corsé,en:snacks,d,en:4-ultra-processed-food-and-drink-products,34,0.02,37.4,22.4,8.4,34.6,555
-NESTLE DESSERT Corsé 3 x 200g,en:snacks,d,en:4-ultra-processed-food-and-drink-products,43,0.02,37,22.2,8.2,35.3,553
-NESTLE DESSERT Chocolat Noir Absolu,en:snacks,d,en:4-ultra-processed-food-and-drink-products,33,0.01,44.7,26.8,9,26.5,592
-NESTLE DESSERT Noir Absolu 3x170g,en:snacks,d,en:4-ultra-processed-food-and-drink-products,33,0.01,44.7,26.8,9,26.5,592
-Chocolat au lait,en:snacks,e,unknown,19,0.29,30,19,5.4,55,521
-Chocolate Pearls,en:snacks,e,en:4-ultra-processed-food-and-drink-products,N/A,0.25,40.7,24.3,5,29.9,575
-FAVOURITES - Pralinés Mix,en:snacks,e,en:4-ultra-processed-food-and-drink-products,N/A,0.37,32,17,5.2,55,544
-Chocolat blanc,en:snacks,e,en:4-ultra-processed-food-and-drink-products,25,0.15,32.4,20.5,7.3,43.4,535
-Blanc dessert,en:snacks,e,en:4-ultra-processed-food-and-drink-products,20,0.26,34.7,21,6.9,54.7,564
-N/A,en:snacks,unknown,unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-The Peanut Company,en:snacks,e,en:4-ultra-processed-food-and-drink-products,42,0.1,26,11,9.5,54,504
-Chocolat fourré au Kirsch,en:snacks,e,en:4-ultra-processed-food-and-drink-products,N/A,0.18,24,14,7,60,582
-Cote d'or noir truffé,en:snacks,e,en:4-ultra-processed-food-and-drink-products,22,0.1,40.5,23,4.8,44,585
-Anchois,en:seafood,d,en:3-processed-foods,63,1.5,36,7.5,15,0,388
-Rillettes de maquereau,en:seafood,d,en:4-ultra-processed-food-and-drink-products,10,1.2,18,7.4,13.7,1.4,226
-Toastimer maquereau,en:seafood,c,en:3-processed-foods,37,1,19,3.9,12,0,247
-Acras de morue avec ingrédients bio,en:seafood,a,en:4-ultra-processed-food-and-drink-products,32,0.77,9.6,1.7,13,2.3,193
-Salmon enlatado al natural,en:seafood,a,unknown,36,0.21,9.5,1.6,19,0,160
-Foie de morue,en:seafood,d,unknown,9,0.95,37,5.1,7,0.5,376
-Petits Coraya format gourmand,en:seafood,b,unknown,14,1.4,4.4,0.3,8.4,2.7,111
-Sardines (a L'huile Et Tabasco),en:seafood,c,unknown,15,1.4583333333333,10.714285714286,1.7857142857143,19.047619047619,0,178.57142857143
-Sardine à l’huile végétale,en:seafood,unknown,en:3-processed-foods,15,N/A,N/A,N/A,N/A,N/A,N/A
-Sandwich thon olives noires,en:sandwiches,b,unknown,45,1.4,12.3,1.5,10.4,1.4,244
-Thon entier albacore,fr:thons-albacore-au-naturel,b,en:3-processed-foods,23,1.2,1.6,0.4,25,0,N/A
-Filets de harengs fumés doux marinés à l'huile et aux aromates,en:seafood,d,en:3-processed-foods,62,3.6,14.2,3.5,15.6,0.3,194
-Rillettes de bar sauvage a la fleur de sel,en:seafood,d,en:4-ultra-processed-food-and-drink-products,40,1,12,7.4,14,0,166
-Sardines à la tomate,en:seafood,c,en:3-processed-foods,18,1.2,7.4,3.1,17,1.3,148
-Merlan pané,en:seafood,a,en:4-ultra-processed-food-and-drink-products,-6,0.68,8,0.8,12,0.5,193
-Ferrigno Anchois du Pescadou,en:seafood,c,unknown,57,0.85,8.4,3.1,26,0.5,182
-Sardines,en:seafood,c,unknown,64,0.85,12.9,3.3,26.4,0,222
-Sardines,en:seafood,c,unknown,64,0.8,12.9,3.33,26.4,0.01,222
-Thon a l'huile d'olive,en:seafood,a,unknown,16,0.33000001311302,14,0.5,26,0.5,231
-Thon,en:seafood,a,unknown,21,0.7,1,0.4,26.4,0,115
-Marinated Herring in mushroom sauce,en:seafood,d,en:4-ultra-processed-food-and-drink-products,56,1.8,28.9,4.2,3.9,5,300
-Acras de Morue,en:seafood,d,unknown,3,2.1,6,0.8,9,3.6,207
-Rillettes de thon aux poivrons grillés,en:seafood,d,unknown,40,0.43,17,11,14,2.2,228
-ProActiv Margarine Tartine,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,62,0.2,35,7.6,0.5,0.5,314
-Crème de noisette,fr:pates-a-tartiner,d,en:4-ultra-processed-food-and-drink-products,44,0.03,18,1.5,5.6,31,327
-Terrine d'olives,en:plant-based-foods-and-beverages,d,en:4-ultra-processed-food-and-drink-products,N/A,1.2,17,11,4.5,0.5,218
-Beurre d'arachide crémeux,en:plant-based-foods-and-beverages,d,unknown,35,0.58333333333332,46.666666666667,10,20,6.6666666666667,600
-Beurre d'arachide,en:plant-based-foods-and-beverages,d,en:4-ultra-processed-food-and-drink-products,40,0.917,53.3,6.67,20,6.67,600
-Fraise de plougastel,en:plant-based-foods-and-beverages,c,unknown,60,1,0,0,0.4,0,N/A
-Mini confiture pomme façon tatin,en:plant-based-foods-and-beverages,unknown,en:3-processed-foods,70,1,N/A,0.25,0.3,N/A,N/A
-Palets au Caramel au beurre salé,en:snacks,e,en:4-ultra-processed-food-and-drink-products,55,0.5,13,10,5,34,386
-Biscuits fourrés aux framboises,en:snacks,d,en:4-ultra-processed-food-and-drink-products,70,0.5,18,4.1,5.3,39,461
-Les P'tits curieux barquettes aux fraises,fr:barquettes,d,en:4-ultra-processed-food-and-drink-products,78,0.42,4.2,0.7,5.8,53,351
-Jus de fruits saveur fruits exotiques,en:beverages-and-beverages-preparations,d,en:4-ultra-processed-food-and-drink-products,68,0,0,0,0,4.7,19
-Boisson aux fruits Fruits rouges,en:plant-based-foods-and-beverages,e,en:4-ultra-processed-food-and-drink-products,49,0.025,0.1,0.1,0.2,10.5,N/A
-Jus de betteraves pommes mangue et carottes,en:plant-based-foods-and-beverages,e,unknown,44,0,0,0,0,9.9,44
-Nectar de peche,en:plant-based-foods-and-beverages,e,unknown,18,0,0.2,0.1,0.5,11.6,51
-Défense,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,25,0.1,0.7,0.5,0,10,57
-Nectar Pomme,en:plant-based-foods-and-beverages,e,en:3-processed-foods,52,0.03,0.1,0.1,0.6,10.2,46
-Lime plus,en:plant-based-foods-and-beverages,b,en:1-unprocessed-or-minimally-processed-foods,68,0,0.1,0,0.5,1.6,40
-Jus de citron,en:plant-based-foods-and-beverages,unknown,en:1-unprocessed-or-minimally-processed-foods,36,N/A,0.1,0,0.1,1.5,21
-Jus d'oranges pressées 100%,en:plant-based-foods-and-beverages,c,unknown,63,0,0.15,0,0.9,11.8,57
-Pur jus de pommes sans sucres ajoutés,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,70,0,0,0,0,11,49
-A.C.E,en:plant-based-foods-and-beverages,unknown,unknown,21,N/A,0.5,0,0.5,10,40
-Coconut Tree brand original coconut juice,en:beverages-and-beverages-preparations,e,en:3-processed-foods,49,0.03061224489796,2.4489795918367,2.0408163265306,0.81632653061224,7.3469387755102,53.061224489796
-Préparation Citrons pressés,en:plant-based-foods-and-beverages,e,en:3-processed-foods,53,0.02,0.1,0,0.2,10,43
-Rauch Orange with pulp,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,48,0.01,0.5,0.1,0.7,8.5,43
-boison végétale poire cajou gourmand&parfumé,en:plant-based-foods-and-beverages,e,unknown,21,0.2,2,0.3,1.5,5,49
-Fanta Orange Zero 2Ltr,en:plant-based-foods-and-beverages,unknown,en:4-ultra-processed-food-and-drink-products,N/A,N/A,0,N/A,0,0,1.6
-LE PUR JUS Multifruits,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,26,0,0,0,0.5,9.8,48
-Zumo D.simon Disfruta Naranja S / Azucar Brik 1L,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,80,0.0099999997764826,0,0,0.30000001192093,4.1999998092651,25
-Pur jus Pomme Myrtille Cassis,en:plant-based-foods-and-beverages,unknown,unknown,21,N/A,0.5,0.1,0.5,9.6,46
-Jus de pomme,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,63,0.01,0.5,0.1,0.5,9.8,44
-tablette degustation chocolat au lait,en:snacks,e,en:4-ultra-processed-food-and-drink-products,48,0.42,36,23,7.6,50,558
-Tartichoc,en:snacks,e,en:4-ultra-processed-food-and-drink-products,N/A,0.02,25,15,5.3,54,490
-Kinder surprise,en:snacks,unknown,unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-NESTLE DESSERT chocolat noir,en:snacks,e,en:4-ultra-processed-food-and-drink-products,43,0.01,35,20,5.9,46,553
-Les chocolats noirs bios et équitables,en:snacks,unknown,unknown,15,N/A,44,26,0.1,29,567
-MELK CHOCO LADE karamel,en:snacks,e,en:4-ultra-processed-food-and-drink-products,34,0.72,31.9,19.2,6.4,50.5,535
-Père Noël chocolat au lait pain d'épices,en:snacks,e,en:4-ultra-processed-food-and-drink-products,N/A,0.3,30,18,6.4,53,535
-Weihnachtsmann aus Alpenmilchschokolade,en:snacks,e,en:4-ultra-processed-food-and-drink-products,19,0.28,31,19,6.4,55,541
-Hachés de poulet,en:meats-and-their-products,c,en:1-unprocessed-or-minimally-processed-foods,22,1.25,8,2.3,18,0.6,146
-Cuisses de poulet roti,en:meats-and-their-products,c,unknown,22,1.3,8.8,2.5,20,0.6,162
-Petites escalopes de volaille à la moutarde pommes de terre,en:meals,a,en:3-processed-foods,26,0.78,3,0.7,8.9,0.6,95
-Blanc de poulet,fr:charcuteries-cuites,c,unknown,35,1.8,1.5,0.4,23,0.5,108
-Filet de poulet,en:meats-and-their-products,a,en:1-unprocessed-or-minimally-processed-foods,45,0.11,2.3,0.7,23,0,113
-Cuisses de poulet rôti,en:meats-and-their-products,c,unknown,31,1.3,8.8,2.5,20,0.6,162
-Hauts de cuisse de poulet rôti,fr:hauts-de-cuisse-de-poulet-rotis,b,unknown,31,1,8,2.4,19,0.7,151
-TENDERS cornfkakes hallal,en:meats-and-their-products,b,en:4-ultra-processed-food-and-drink-products,22,1,6.8,0.9,13.6,0.8,183
-Dés de Poulet -25% de sel,en:meats-and-their-products,b,unknown,27,1.47,0.6,0.3,20.3,1.8,94
-Nuggets de poulet,en:meats-and-their-products,b,en:4-ultra-processed-food-and-drink-products,16,0.4,14.5,3.6,17.5,0.3,225.5
-Escalops  De Poulet Marinees a Le milanaises fromage frais ail et fines herbes,en:meats-and-their-products,c,unknown,31,1.4,5,3.1,17,0.9,159
-Salami Lufgetrocknet,fr:charcuteries-cuites,e,unknown,27,4,38,15.2,28,0.9,459
-"Poulet, Aiguillettes de Poulet",fr:aiguillettes-de-poulet,a,unknown,34,0.1075,1.5,0.4,23,0,106
-POULET-CHICKEN,en:meats-and-their-products,b,unknown,22,0.94,4.2,0.7,6.3,2.4,131
-Poulet,en:meats-and-their-products,a,unknown,37,0.2,11,2.8,20,0,179
-Escalope extra fine de poulet fermier bio,en:meats-and-their-products,unknown,unknown,42,N/A,N/A,N/A,N/A,N/A,N/A
-ALA ADOBADAS,en:meats-and-their-products,unknown,en:4-ultra-processed-food-and-drink-products,15,N/A,N/A,N/A,N/A,N/A,N/A
-Hühner-Nudeltopf,en:canned-foods,c,en:4-ultra-processed-food-and-drink-products,27,1.08,2.4,0.9,2.8,0.5,57
-Poulet jaune fermier de l'Ardèche,fr:poulets-fermiers,unknown,unknown,45,N/A,N/A,N/A,N/A,N/A,N/A
-Poulet,en:meats-and-their-products,a,unknown,31,0.1,8.6,2.8,21,0.5,160
-Aiguillettes de poulet,fr:aiguillettes-de-poulet,unknown,unknown,37,N/A,N/A,N/A,N/A,N/A,N/A
-Parmentier de poulet,fr:parmentiers-de-poulet,b,en:4-ultra-processed-food-and-drink-products,31,0.79,2.5,1,3.8,0.5,69
-Blanc de poulet 6 tranches,fr:charcuteries-cuites,c,en:4-ultra-processed-food-and-drink-products,28,1.9,1.5,0.3,20.3,0.5,N/A
-Miel de Montagne,en:breakfasts,unknown,en:2-processed-culinary-ingredients,93,0.02,0.5,N/A,0.5,80,320
-Miel de fleurs,en:breakfasts,unknown,en:2-processed-culinary-ingredients,77,0,0.225,0,0.443,N/A,313
-Miel de fleurs,en:breakfasts,d,en:2-processed-culinary-ingredients,79,0.01,0.5,0.5,0.3,80,321
-Miel de romero,en:breakfasts,unknown,en:2-processed-culinary-ingredients,72,N/A,N/A,N/A,N/A,N/A,N/A
-Miel de foret,en:breakfasts,unknown,en:2-processed-culinary-ingredients,72,N/A,N/A,N/A,N/A,N/A,N/A
-Miel d'acacia,en:breakfasts,unknown,en:2-processed-culinary-ingredients,92,N/A,N/A,N/A,N/A,N/A,N/A
-Bonbons miel & eucalyptus,en:snacks,d,unknown,42,0.01,0.5,0.5,0.5,79,393
-Bonbon miel,en:snacks,d,unknown,42,0,0.5,0.5,0.5,79,393
-Bonbons pastilles au Miel,en:snacks,d,unknown,42,0.01,0.5,0.5,0.5,79,393
-Coffret découverte Miel de Corse,en:breakfasts,unknown,en:2-processed-culinary-ingredients,81,N/A,N/A,N/A,N/A,N/A,N/A
-Miel Du Gâtinais,fr:miels-du-gatinais,unknown,en:2-processed-culinary-ingredients,81,N/A,N/A,N/A,N/A,N/A,N/A
-Miel de fleurs,en:breakfasts,unknown,en:2-processed-culinary-ingredients,72,N/A,N/A,N/A,N/A,N/A,N/A
-Miel Acacia de la plaine du Danube,en:breakfasts,unknown,en:2-processed-culinary-ingredients,76,N/A,N/A,N/A,N/A,N/A,N/A
-Miel blanc du kirghizstan,en:breakfasts,d,en:2-processed-culinary-ingredients,72,0,0.2,0.1,0,70,333
-Miel de nigelles,fr:miels-de-nigelle,unknown,en:2-processed-culinary-ingredients,72,N/A,N/A,0,N/A,0,N/A
-Miel de fleurs,en:breakfasts,unknown,en:2-processed-culinary-ingredients,72,N/A,N/A,N/A,N/A,N/A,N/A
-Miel de fleurs d'oignon,en:breakfasts,unknown,en:2-processed-culinary-ingredients,72,N/A,N/A,N/A,N/A,N/A,N/A
-Miel de fleurs,en:breakfasts,unknown,en:2-processed-culinary-ingredients,72,N/A,N/A,N/A,N/A,N/A,N/A
-Miel de fleurs,en:breakfasts,unknown,en:2-processed-culinary-ingredients,72,N/A,N/A,N/A,N/A,N/A,N/A
-Miel Bio de fleurs,en:breakfasts,d,en:2-processed-culinary-ingredients,92,0.004,0.5,0,0.5,82,335
-Berliner Honig Linde,en:breakfasts,unknown,en:2-processed-culinary-ingredients,72,N/A,N/A,N/A,N/A,N/A,N/A
-HONIG freiner blüten,en:breakfasts,d,en:2-processed-culinary-ingredients,72,0.02,0.5,0.1,0.4,75,382
-Pain burger Gerblé sans gluten,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,68,0.97,4.9,1.9,3.8,6.8,247
-Le Grand Nature Gerblé sans gluten,en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,N/A,0.54,3.8,0.5,4.5,2.7,236
-American Sandwich Nature,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,76,1.1,4.1,0.4,7.6,7.7,271
-pain complet seigle,en:plant-based-foods-and-beverages,a,en:3-processed-foods,102,1.1,1.3,0.2,4.6,4,198
-Grissini,en:plant-based-foods-and-beverages,d,unknown,74,2,11,4,12,1.4,427
-Petits pains grillés au froment,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,82,1,7.8,0.7,9.5,8.6,407
-Das Pausenbrot,en:plant-based-foods-and-beverages,c,unknown,74,1.2,4.5,0.6,9.5,5,225
-N/A,en:plant-based-foods-and-beverages,unknown,unknown,70,N/A,N/A,N/A,N/A,N/A,N/A
-Bagel classique (lean brioche),en:plant-based-foods-and-beverages,b,unknown,75,1.1,5.7,1,9.4,2.2,297
-"L'ancestrale, baguette",fr:pains-de-tradition-francaise,b,en:4-ultra-processed-food-and-drink-products,100,1.5,0.8,0.2,13,1.8,340
-Nutrifree Panfette,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,N/A,1.62,5.4,1.5,4.1,2.7,219
-Panfette,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,68,1.7,5.5,1.6,3,2.9,229
-Mini-Brötchen zum Aufbacken - Röstzwiebeln,en:plant-based-foods-and-beverages,c,en:3-processed-foods,N/A,1.4,5.6,1.9,8.6,3.3,273
-Croutons grillés aux 7 céréales,en:plant-based-foods-and-beverages,d,unknown,N/A,1.8,10.8,4.6,12.1,3.6,433
-Pain AMS complet,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,85,1.2,4.5,0.4,7.7,4.9,253
-Petits pains grilles,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,72,1.4,5.9,0.5,11,4.3,384
-Gressins Farine de Caroube & graines de sésame,en:plant-based-foods-and-beverages,d,unknown,94,1.08,25,7,10.8,3.9,481
-Gressins Multi-Céréales,en:plant-based-foods-and-beverages,d,unknown,94,1.8,28.3,6.6,12.9,4.6,501
-Gressins farine de blé et de seigle,en:plant-based-foods-and-beverages,d,unknown,94,1.7,7.4,2.6,11.4,5.2,403
-Gressins graines de sésames,en:plant-based-foods-and-beverages,d,unknown,94,1.34,19.2,4.4,14.5,4.4,459
-Gressins a l’huile d’olive bio,en:plant-based-foods-and-beverages,unknown,unknown,94,N/A,1.8,0.3,14.5,3.1,354
-Japanese Chicken Flavor,en:plant-based-foods-and-beverages,unknown,en:4-ultra-processed-food-and-drink-products,33,0.9,2.5,1.2,1.4,0.3,69
-"Demae ramen, sésame",en:plant-based-foods-and-beverages,unknown,en:4-ultra-processed-food-and-drink-products,52,1.1,4,2,2,0.5,91
-Pennette Rigate,en:plant-based-foods-and-beverages,a,unknown,N/A,0.015,1.7,0.4,13,2.7,355
-Barilla pates penne rigate 500g+200g offert,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,N/A,0.01,2,0.5,13,3.5,359
-Pasta Quills,en:plant-based-foods-and-beverages,unknown,unknown,N/A,N/A,1.47,0.4,13.2,2.53,400
-Gluten Free Quinoa Spirals,en:plant-based-foods-and-beverages,unknown,en:1-unprocessed-or-minimally-processed-foods,65,N/A,1.1249999701977,0,8.5000002384186,0,364.5000076294
-Rigatoni 17,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,N/A,0.004,1.7,0.9,13,3.9,355
-Fusilli 40,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,N/A,0.004,1.7,0.9,13,3.9,355
-Langue d' oiseau semi complet,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,85,0,1.5,0.2,11.1,1.5,360
-Bucatini 6,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,N/A,0.004,1.7,0.9,13,3.9,355
-Fettuccine 12,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,N/A,0.004,1.7,0.9,12,3.9,355
-Nouilles Instantanées : Bœuf,en:plant-based-foods-and-beverages,unknown,unknown,62,N/A,3.9,N/A,2.3,N/A,85
-Nouilles Instantanées : Poulet,en:plant-based-foods-and-beverages,unknown,en:4-ultra-processed-food-and-drink-products,65,2.95,21.6,13.9,8.2,1.6,479
-Conchiglioni 87b,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,N/A,0.004,1.7,0.9,13,3.9,355
-Nouilles chinoises Special Chicken,en:aliments-d-origine-vegetale,d,unknown,N/A,2.9,3.8,1.7,2.3,0,100
-mushroom & mascarpone tortelloni,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,62,0.75,7.9,2.6,6.6,1.3,221
-BARILLA TAGLIATELLE 500g,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,60,0.01,2,0.5,13,3.5,359
-Beef & tomato noodle,en:plant-based-foods-and-beverages,unknown,en:4-ultra-processed-food-and-drink-products,56,2,21,2.2,13,5.2,526
-Original Curry,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,58,0.48,5.4,2.6,2.8,1.8,142
-Tortellini  Ricotta Epinards aux oeufs frais,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,N/A,0.9,7,2.4,10,3.8,271
-Pâtes risoni à l'encre de seiche,en:plant-based-foods-and-beverages,b,unknown,N/A,1.1,5.8,2,11,3.2,223
-Senza zuccheri mini cake al gusto limone,en:snacks,b,en:4-ultra-processed-food-and-drink-products,N/A,0.42,21,1.8,5,0,372
-Gâteau nantais au rhum et aux amandes,fr:gateaux-nantais,e,en:4-ultra-processed-food-and-drink-products,N/A,0.3,22.1,9.4,6.3,43.3,426.5
-Gateau Basque,fr:gateaux-basques,unknown,en:4-ultra-processed-food-and-drink-products,N/A,N/A,19.29,N/A,4.56,31.97,270.65
-Le Marbré Chocolat,en:snacks,d,en:4-ultra-processed-food-and-drink-products,46,0.15,22,2.9,5.7,26,432
-Madeleines coeur fraise,en:snacks,d,en:4-ultra-processed-food-and-drink-products,60,0.80000001192093,19,1.7000000476837,4,29,409
-Madeleine coeur chocolat,en:snacks,e,unknown,28,1,27,3.5,5.5,32,475
-Le moelleux au fromage blanc,en:snacks,d,unknown,N/A,1,26,2.4,5,27,448
-Tarte framboise fabuleuse,en:snacks,d,en:4-ultra-processed-food-and-drink-products,29,0.35,12,6.6,3.6,21,260
-Quatre-quart breton maison,en:snacks,e,unknown,40,1,24,15,7,26,422
-Blueberry Muffin,en:snacks,d,en:4-ultra-processed-food-and-drink-products,59,0.38,20,9.6,4.2,26,373
-Madeleines vanille,en:snacks,d,en:4-ultra-processed-food-and-drink-products,94,0.275,27,4.7,3.8,24,460
-Coeur fondant au chocolat noir BIO 2x90g,en:snacks,d,en:3-processed-foods,49,0.12,22,13,6.6,24,359
-Madeleine longue,en:snacks,d,unknown,60,1.1,19,1.7,5.2,22,413
-Madeleines extra moelleuse,en:snacks,e,unknown,42,1.1,25,4.3,5.6,28,449
-Madeleines Extra Moelleuses,en:snacks,d,unknown,60,1.2,26,2.8,4.5,24.9,462
-Madeleine cœur pomme poire,en:snacks,d,unknown,60,0.9,18,1.7,0,31,410
-Mon brownie,en:snacks,e,unknown,24,0.75,28,8.1,5.2,33,446
-Madeleines extra moelleuses Saveur Amande,fr:madeleines-ker-cadelac,d,unknown,65,0.7,29,2.5,5.8,26,478
-Les P'tites Madeleines Nature,fr:madeleines-vracs,d,en:4-ultra-processed-food-and-drink-products,64,0.38,23,2,5.6,26,451
-Fleur de Colza,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,65,0,100,7.1,0,0,900
-Aceite de oliva virgen extra ecológico,en:plant-based-foods-and-beverages,b,en:2-processed-culinary-ingredients,47,0,99.3,14.9,0,0,896
-Huile d’olive,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27,0,91.6,13,0,0,824
-Huile d'olive,en:plant-based-foods-and-beverages,unknown,en:2-processed-culinary-ingredients,27,N/A,91.6,13,0,0,824
-Olio extra vergine di oliva,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27,0,91.6,13,0,0,824
-Huile dolive extra vierge,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27,0,91.6,13,0,0,824
-Huile d'olive de Provence AOC,fr:huile-d-olive-de-provence,c,en:2-processed-culinary-ingredients,36,0.02,100,17,0.5,0.5,900
-Huile d'olive vierge extra Classico,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,40,0,91.3,6.3,0,0,822
-Huile de graines de lin,en:plant-based-foods-and-beverages,d,en:2-processed-culinary-ingredients,44,0,100,11,0,0,900
-Huile de cuisson tournesol désodorisée,en:plant-based-foods-and-beverages,d,en:2-processed-culinary-ingredients,N/A,0,100,12,0,0,900
-Huile De Coco Desodorisee,en:plant-based-foods-and-beverages,e,en:2-processed-culinary-ingredients,N/A,0,91,84,0,0,819
-Huile pour friture,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,65,0,100,9,0,0,900
-N/A,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27,0,91,13,0,0,823
-Huile d’olive vierge extra ail,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27,0,91.599998474121,13.89999961853,0,0,824
-Huile d’olive vierge extra,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27,0,91.6,12.8,0,0,810
-Huile de noix,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,-1,0,100,10,0,0,900
-Huile d'olive vierge extra,en:plant-based-foods-and-beverages,c,unknown,27,0,91.6,13,0,0,822
-Olio extra vergine di oliva,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27,0,100,15,0,0,900
-Bratöl,en:plant-based-foods-and-beverages,c,unknown,64,0,92,7,0,0,828
-Canola oil cooking spray,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,52,N/A,N/A,N/A,N/A,N/A,N/A
-Huile vierge bio de Colza,en:plant-based-foods-and-beverages,unknown,en:2-processed-culinary-ingredients,72,N/A,N/A,6.4,0,0,885
-Huile d olive piment,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27,0,100,17,0,0,900
+Barcode,Nom,Categorie,Nutriscore,Novascore,Ecoscore,Taux de sel (100g),Taux de matieres grasses (100g),Taux de matieres grasses saturees (100g),Taux de proteine (100g),Taux de sucre (100g),Energie (Kcal) (100g)
+3073781055016,Fagotin tradition,en:dairies,d,en:4-ultra-processed-food-and-drink-products,47.0,1.4,28.0,19.0,20.0,0.5,332.0
+3564707128117,Ricotta bio 8% Mat. Gr.,en:dairies,c,en:4-ultra-processed-food-and-drink-products,60.0,0.4,8.0,6.0,8.0,3.0,
+3564700583135,Fromage Le Carre Au Lait Pasterise,en:dairies,d,en:3-processed-foods,44.0,1.6,27.0,19.0,18.0,0.5,319.0
+3596710495979,Gouda tranchettes,en:dairies,d,en:3-processed-foods,38.0,1.7,28.0,19.0,24.0,0.5,350.0
+3564707090162,Mozzarella x 1,en:dairies,c,en:3-processed-foods,65.0,0.6,19.0,13.0,18.0,1.0,247.0
+3330410005980,Edam tranches 200g,en:dairies,d,unknown,35.0,2.1,24.0,16.0,25.0,0.5,316.0
+5010578008044,Cottage Cheese With Pineapple,en:dairies,c,unknown,35.0,0.7,5.6,3.9,9.5,5.1,109.0
+3250391819256,Le Sainte-Maure - Fromage de chèvre,en:dairies,d,en:3-processed-foods,22.0,1.3775,19.0,13.0,19.0,0.8,256.0
+3257986760191,Mozarella cossettes cora,en:dairies,d,en:3-processed-foods,40.0,1.1,22.0,15.0,26.0,0.6,312.0
+3222472116851,La Raclette en tranches,en:dairies,d,en:3-processed-foods,45.0,1.7,26.0,18.0,23.0,0.0,328.0
+3258561429281,Mimolette,fr:fromages-du-nord-pas-de-calais,d,unknown,31.0,2.7,23.1,16.0,26.2,0.0,313.0
+3258561430140,Camembert,en:dairies,d,en:3-processed-foods,58.0,1.5,22.0,17.0,20.0,0.5,280.0
+3258561430447,Emmental râpé francais (29% MG),en:dairies,d,en:3-processed-foods,42.0,0.7,29.0,19.0,27.0,0.5,369.0
+3250391651467,"Cancoillotte de Franche Comte a l'ail, le pot de",en:dairies,c,en:3-processed-foods,36.0,1.8,8.0,5.6,14.2,0.5,136.0
+8006207000166,Grated Chreese,en:dairies,e,en:3-processed-foods,35.0,3.935,31.7,20.2,39.2,2.0,450.0
+3228021170039,PRESIDENT CAMEMBERT 250g,en:dairies,d,en:3-processed-foods,48.0,1.4,21.0,15.0,20.0,0.0,269.0
+3412290028942,L'Emmental Français,en:dairies,d,unknown,37.0,0.7,29.0,19.5,27.0,2.0,377.0
+3199241024924,Billes de Chevrot frais Eclats d'abricot,en:dairies,c,unknown,14.0,0.1,19.0,14.0,12.0,7.3,250.0
+3417881210706,Crottin frais,en:dairies,d,en:3-processed-foods,8.0,1.1,22.9,15.9,15.0,2.7,282.0
+3053004000009,Crottin frais aromatisé,en:dairies,unknown,en:3-processed-foods,14.0,,,,,,
+3344001130043,Le Frais Crottin,en:dairies,c,en:3-processed-foods,14.0,0.42,11.0,7.8,10.0,2.2,149.0
+3417881240529,Crottin chèvre frais,en:dairies,d,en:3-processed-foods,7.0,1.1,22.9,15.9,15.0,2.7,282.0
+3417880721210,Crottin frais,en:dairies,d,en:3-processed-foods,7.0,1.1,22.9,15.9,15.0,2.7,282.0
+5411188118121,"Fermentiertes Sojaprodukt, Ungesüßt",en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,81.0,0.24,2.3,0.4,4.0,0.0,42.0
+8019428006169,Creme d’Avoine,en:plant-based-foods-and-beverages,b,unknown,,0.13,7.2,0.9,0.5,0.8,98.0
+8019428006190,Bio drink rice coconut,en:plant-based-foods-and-beverages,b,unknown,,0.08,1.8,1.6,0.5,4.6,70.0
+7613312347447,Pâte à la vanille,en:plant-based-foods-and-beverages,not-applicable,en:4-ultra-processed-food-and-drink-products,,,0.5,0.1,0.5,55.0,227.0
+3265477983004,Huile Isio 4 Olive,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,47.0,0.0,100.0,9.8,0.0,0.0,900.0
+5413110532760,Bulgur Pilaf,en:meals,a,en:4-ultra-processed-food-and-drink-products,,0.89,6.5,1.0,3.8,9.0,150.0
+5601165004640,Ice tea pêssego,en:beverages-and-beverages-preparations,not-applicable,en:4-ultra-processed-food-and-drink-products,94.0,0.053,0.5,0.5,0.5,4.5,19.0
+3301594002263,Compote pommes,en:plant-based-foods-and-beverages,a,en:3-processed-foods,76.0,0.0,0.0,0.0,0.0,14.0,70.0
+4770107252805,SUN YAN,en:plant-based-foods-and-beverages,unknown,en:4-ultra-processed-food-and-drink-products,52.0,0.77,4.3,2.1,1.9,1.0,93.0
+3700195639104,Poudre de noisette,en:plant-based-foods-and-beverages,c,unknown,16.0,0.0,57.0,5.6,16.0,6.5,633.0
+3520831330802,POUDRE DE NOISette,en:plant-based-foods-and-beverages,unknown,unknown,16.0,,,,,,
+4260654786132,Haselnüsse gemahlen,en:plant-based-foods-and-beverages,a,unknown,16.0,0.0,62.0,4.5,12.0,1.0,667.0
+3460422349854,Poudre noisette bio,en:plant-based-foods-and-beverages,c,unknown,36.0,0.002,63.5,4.5,12.8,5.0,674.0
+8002352211266,Poudre De Noisettes Grillées,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,41.0,0.0099999997764826,67.0,7.0999999046326,11.699999809265,2.7000000476837,704.0
+3162050018613,NOISETTES DE MEDITERRANEEEN POUDRE,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,21.0,0.01,57.0,4.7,17.0,4.9,632.0
+5400247032911,Noisettes En Poudre,en:plant-based-foods-and-beverages,b,unknown,16.0,0.1,53.0,4.1,19.0,6.1,617.0
+3252920048281,Velouté de Tomates,en:plant-based-foods-and-beverages,b,en:3-processed-foods,112.0,0.65,1.0,0.0,0.5,3.0,35.0
+3229820787343,"Boulgour, Quinoa et Sésame",en:plant-based-foods-and-beverages,a,unknown,95.0,0.8,5.3,0.7,6.1,0.5,180.0
+3560002430016,Confiture abricots,en:plant-based-foods-and-beverages,d,en:4-ultra-processed-food-and-drink-products,90.0,0.0,0.1,0.0,0.1,55.3,242.8
+3451790016288,Le Fouetté de Beurre Demi-Sel,fr:beurre-a-tartiner,e,en:2-processed-culinary-ingredients,51.0,1.2,63.0,37.0,1.1,2.1,580.0
+3250392784669,flocons d'avoine complète,fr:flocons-d-avoine-complete,a,en:1-unprocessed-or-minimally-processed-foods,62.0,0.08,6.8,1.3,13.0,0.9,376.0
+3229820188744,Quinoa lentilles,fr:cereales-preparees,a,en:3-processed-foods,,0.46,2.4,0.5,5.5,0.6,139.0
+3229820795485,Quinoa champignons potiron,en:plant-based-foods-and-beverages,a,en:3-processed-foods,,0.6,4.1,0.5,4.1,2.0,116.0
+3229820787985,Crème de coco légère,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,111.0,0.08,16.0,15.0,1.2,1.6,174.0
+3273120030944,Purée cacahuète crunchy,en:plant-based-foods-and-beverages,d,unknown,50.0,0.44,52.0,9.5,27.0,4.4,640.0
+3425471120311,Corsica’Tapas,en:snacks,d,en:3-processed-foods,68.0,2.6,34.0,5.0,2.1,0.5,324.0
+14200183319,Charms fluffy stuff north pole cotton candy,en:snacks,unknown,en:4-ultra-processed-food-and-drink-products,,0.0,0.0,0.0,0.0,100.0,
+3370077586156,La belle équitable - 100% Cacao noir,en:snacks,d,en:3-processed-foods,,0.0102,52.5,33.1,12.1,0.3,587.0
+3770009530002,bean to bar,en:snacks,e,unknown,35.0,0.0,37.0,23.0,8.0,31.0,532.0
+8410076481597,Tortilla Nachips Original,en:snacks,b,en:3-processed-foods,72.0,0.49,23.6,2.2,7.8,0.5,492.0
+8410525208959,Klet's hierbabuena,en:snacks,b,unknown,42.0,0.0,0.0,0.0,0.0,0.0,161.0
+7622210089908,Cerealyo,en:snacks,c,unknown,50.0,0.56,14.0,3.0,7.1,25.0,450.0
+3547561000089,Brownies,en:snacks,e,unknown,24.0,0.41,25.2,7.65,6.1,33.0,
+3395328474389,Chocolat,en:snacks,e,unknown,56.0,0.0,34.0,21.0,6.7,39.0,533.0
+8003170042803,Cracker con riso soffiato,en:snacks,c,unknown,67.0,1.5,8.2,0.9,10.0,2.2,423.0
+8000500359884,Ferrero rocher nocciola white,en:snacks,e,en:4-ultra-processed-food-and-drink-products,10.0,0.34,43.4,22.0,9.2,44.7,610.0
+3279130104217,Gâteau de Noël Stollen à la pâte d'amande,en:snacks,e,en:4-ultra-processed-food-and-drink-products,,0.35,17.0,8.0,4.2,39.0,402.0
+3564709196343,Chips de sarrasin bretonnes,en:snacks,c,en:3-processed-foods,,1.2,27.0,2.2,11.0,0.7,505.0
+3229820789118,Lunettes fraise,fr:lunettes-a-la-fraise,d,en:4-ultra-processed-food-and-drink-products,83.0,0.1,15.0,4.6,6.0,33.0,436.0
+3700214612125,Noir quinoa soufflé,fr:chocolats-noirs-au-quinoa,e,en:3-processed-foods,53.0,0.0,37.0,23.0,5.4,37.0,558.0
+3595894795011,Bonbon Arc-en-ciel Sans Sucre,en:snacks,b,en:4-ultra-processed-food-and-drink-products,47.0,0.0,0.0,0.0,0.0,0.5,234.0
+8901063203198,Britannia 50 Piece Little Hearts,en:snacks,c,unknown,50.0,0.2625,7.0,3.0,2.0,8.0,165.0
+3256229807112,P'tit fourré chocolat,en:snacks,e,en:4-ultra-processed-food-and-drink-products,30.0,0.5,24.0,11.0,6.5,37.0,499.0
+7622210722621,Power Fresh menthe forte,en:snacks,not-applicable,en:4-ultra-processed-food-and-drink-products,,0.03,0.4,0.2,0.2,0.1,160.0
+3292590894115,4 Bretzels crus,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,,1.3,5.5,0.7,6.6,1.8,251.0
+3336971806066,La Vicoise de Picardie,en:plant-based-foods-and-beverages,c,en:3-processed-foods,82.0,1.3,34.0,2.8,5.9,0.6,525.0
+3425470014109,Terrine Charles Antona. Sanglier à l'eau de vie,en:meats-and-their-products,e,unknown,,2.1,37.0,15.0,10.0,0.7,377.0
+5400247020949,Lasagne bolognaise à la viande de porc,en:meats-and-their-products,c,en:4-ultra-processed-food-and-drink-products,32.0,0.9,5.8,2.7,5.2,4.2,144.0
+3302740057472,Ravioli bolognaise,en:meats-and-their-products,a,en:3-processed-foods,67.0,0.67,5.5,2.0,5.5,3.4,122.0
+204146023750,Pate croute richelieu canard,fr:charcuteries-cuites,e,en:4-ultra-processed-food-and-drink-products,-2.0,2.0,23.0,8.8,11.0,1.2,317.0
+3520837340133,Cordon bleu de poulet,en:meats-and-their-products,c,en:3-processed-foods,42.0,0.96,14.0,3.3,13.0,0.7,254.0
+3270190203636,Blanc de Dinde Doré au four,fr:charcuteries-cuites,a,en:4-ultra-processed-food-and-drink-products,18.0,0.0017,1.5,0.5,22.0,0.8,106.0
+2212398013380,Rosette Pierre Bertrand,en:meats-and-their-products,e,unknown,25.0,4.7,30.2,11.6,24.7,1.0,376.0
+3455570016222,Saucisse barbecue,en:meats-and-their-products,e,en:4-ultra-processed-food-and-drink-products,,2.21,20.7,8.47,13.1,0.8,246.0
+3369579009515,Filet de bacon fumé au bois de hêtre,en:meats-and-their-products,d,en:4-ultra-processed-food-and-drink-products,12.0,2.7,2.0,1.0,22.0,0.5,106.0
+26012339,Rosette en tranche,fr:rosette-tranchee,e,unknown,29.0,4.3,28.0,12.0,23.0,2.2,353.0
+26067469,Filet de Bacon fumé,en:meats-and-their-products,d,en:4-ultra-processed-food-and-drink-products,,3.1,2.6,1.2,23.0,0.5,117.0
+3256477087229,Langue de bœuf sauce Madère au sel de Guérande,en:meats-and-their-products,unknown,unknown,-9.0,,,,,,
+3256477087328,Langue de boeuf sauce piquante cuisinée au sel de Guérande,en:meats-and-their-products,c,en:4-ultra-processed-food-and-drink-products,-9.0,1.1,9.0,4.2,11.0,0.8,136.0
+3104544015838,Magret de canard du Sud Ouest séché,en:meats-and-their-products,e,unknown,7.0,3.2,33.0,8.6,23.0,1.0,400.0
+2380856004864,Pollo asado,en:meats-and-their-products,b,en:4-ultra-processed-food-and-drink-products,22.0,0.8,10.0,2.1,22.0,0.5,183.0
+300000767,Mousse de volaille,en:meats-and-their-products,e,unknown,,2.6,21.6,6.1,10.6,1.4,248.0
+9001745051464,Tiroler Speck,fr:specks,e,unknown,-7.0,4.0,19.0,7.6,29.0,0.5,289.0
+4008460243056,Sucuk,en:meats-and-their-products,e,en:4-ultra-processed-food-and-drink-products,15.0,2.8,33.0,16.0,18.0,0.5,372.0
+5060038581594,Escalopes de poulet marines,en:meats-and-their-products,b,en:3-processed-foods,28.0,1.3,4.7,0.5,28.0,0.5,153.0
+3245360002081,Blanquette de veau et pommes de terre,en:canned-foods,a,en:4-ultra-processed-food-and-drink-products,6.0,0.51,1.2,0.6,5.1,1.0,54.0
+20149710,Hot Dog saucisses fumées,en:meats-and-their-products,d,en:4-ultra-processed-food-and-drink-products,29.0,1.75,19.0,7.6,13.0,1.0,227.0
+5060198530111,Dumplings porc et chou chinois,en:meats-and-their-products,c,en:4-ultra-processed-food-and-drink-products,,1.1,5.8,1.1,7.2,1.7,172.0
+3760324452776,Terrine porc pruneau,en:meats-and-their-products,e,en:3-processed-foods,,2.5,27.0,9.2,4.6,4.6,334.0
+2411222047564,Saucisse catalane,en:meats-and-their-products,d,en:4-ultra-processed-food-and-drink-products,31.0,1.6,18.0,6.5,16.0,0.0,225.0
+3770000661491,Brasserie du Pays Flamand,en:beverages,not-applicable,en:3-processed-foods,50.0,,,,,,
+4003669016906,,en:beverages,c,en:4-ultra-processed-food-and-drink-products,37.0,0.0,0.0,0.0,0.6,1.5,23.0
+3760103006039,Instant Choco,,unknown,en:4-ultra-processed-food-and-drink-products,,0.05,6.0,4.0,6.3,67.0,383.0
+3124480196262,Agrumes,en:beverages-and-beverages-preparations,c,en:4-ultra-processed-food-and-drink-products,,0.01,0.0,0.0,0.0,0.0,19.0
+5000281035338,Captain Morgan,en:beverages,not-applicable,en:4-ultra-processed-food-and-drink-products,52.0,,,,,,
+3578835503647,Sommeil,en:beverages,unknown,unknown,,,,,,,
+7613038185071,"NESCAFÉ Cappuccino Praline Café soluble, Boîte de 279g",en:plant-based-foods-and-beverages,not-applicable,en:4-ultra-processed-food-and-drink-products,-20.0,0.1,0.8,0.6,0.6,3.8,30.0
+3229820763989,Amande intense,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,93.0,0.09,4.0,0.4,1.2,4.0,61.0
+3229820129112,Amande intense,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,79.0,0.035,0.36,0.08,0.24,0.2,11.6
+3229820793658,Soja chocolat,en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,103.0,0.12,3.0,0.8,4.0,8.0,80.0
+3124480186584,Oasis Pomme Cassis Framboise,en:beverages-and-beverages-preparations,e,en:4-ultra-processed-food-and-drink-products,70.0,0.01,0.0,0.0,0.0,8.0,34.0
+3229820783338,Épeautre noisette bjorg,en:plant-based-foods-and-beverages,b,en:3-processed-foods,,0.09,3.0,0.3,1.0,5.4,76.0
+4056489105510,Water juice,fr:saguaro-water-juice-fraise,c,en:4-ultra-processed-food-and-drink-products,,0.0,0.0,0.0,0.0,2.9,13.0
+49000050110,Diet Coke 2L,en:beverages,b,en:4-ultra-processed-food-and-drink-products,,0.0282,0.0,,0.0,,0.0
+3376370157307,Sirop de Verveine,fr:sirops-de-verveine,unknown,en:3-processed-foods,93.0,0.0,0.0,0.0,0.0,61.0,344.0
+4000177605004,"Caprisonne, Multivitamin",en:beverages-and-beverages-preparations,e,en:4-ultra-processed-food-and-drink-products,,0.01,0.5,0.1,0.5,7.3,31.0
+4000177158326,Capri Sun multi vitamin,en:plant-based-foods-and-beverages,e,en:4-ultra-processed-food-and-drink-products,45.0,0.0,0.0,0.0,0.0,8.0,34.0
+3254560242159,Chipolatas au piment d'espelette Mmmm!,en:meats-and-their-products,d,unknown,31.0,1.7,15.0,6.0,18.0,0.5,213.0
+3275560745532,Jambon sec,en:meats-and-their-products,d,unknown,-13.0,5.69999975,12.0,4.5,27.0,0.5,224.0
+4006259012777,Jambon de paris superieur,en:meats-and-their-products,c,unknown,12.0,2.0,3.0,1.5,20.0,1.0,111.0
+3760198112011,Terrine de foie de volaille,fr:terrines-de-foie-de-volaille,e,unknown,,1.5,35.0,15.3,11.1,4.6,213.0
+3760198112110,Terrine de chevreuil aux marrons,fr:terrines-de-chevreuil,d,unknown,,1.7,24.9,9.7,18.4,0.5,223.6
+3760198111236,Rillettes de porc au cidre breton,fr:rillettes-de-viande-rouge,d,unknown,19.0,0.8,41.6,16.2,11.5,0.9,425.0
+3760198111052,Rillettes de porc,fr:rillettes-de-viande-rouge,d,unknown,19.0,0.8,41.6,16.2,11.5,0.9,425.0
+3483190012348,Rillettes de poulet rôti en cocotte,en:meats-and-their-products,d,en:3-processed-foods,39.0,1.0,29.0,9.2,16.0,0.5,
+3263480199566,Terrine de canard aux magrets fumés,en:meats-and-their-products,e,en:3-processed-foods,12.0,2.2,34.0,14.0,13.0,0.4,360.0
+3384230039571,Terrine de lapin aux deux moutardes,en:meats-and-their-products,d,unknown,26.0,1.99,15.4,5.8,15.9,0.2,260.0
+3248650268112,Betterave Bio,fr:betteraves-sous-vide,a,unknown,,0.14000000059605,0.0,0.0,2.2999999523163,6.6999998092651,43.0
+4056489487999,"4 pomme, 4 pomme fraise, 4 pomme banane, 4 pomme poire",en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,79.0,0.0,0.3,0.0,0.3,11.0,51.0
+3268387015032,Cédrats,fr:confitures-de-cedrats,d,unknown,60.0,0.0,0.0,0.0,0.6,47.0,195.0
+3359160010013,Choucroute d'Alsace,fr:choucroute-crue,b,en:3-processed-foods,90.0,1.52,0.52,0.04,1.4,1.92,27.2
+3608580012412,Pâte de fruits,en:plant-based-foods-and-beverages,c,unknown,68.0,0.19,0.0,0.0,0.0,74.0,334.0
+3337730908458,Tomates sechees,en:plant-based-foods-and-beverages,d,en:3-processed-foods,0.0,3.8,25.5,3.6,2.7,11.5,295.0
+20622411,Pickeld Gherkin,en:plant-based-foods-and-beverages,unknown,en:3-processed-foods,90.0,0.787,0.1,,1.1,9.6,47.0
+4045178002124,Apfelmark - Campo Verde,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,114.0,0.0,0.1,0.0,0.3,10.1,51.0
+3502490006847,Raisin Sec Sultanines,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,62.0,0.0275,0.5,0.1,3.1,59.0,299.0
+5400111321752,Figues séchées,en:plant-based-foods-and-beverages,b,en:3-processed-foods,29.0,0.0,1.6,0.4,3.6,53.0,265.0
+3760121218643,Velouté Légumes variés du potager,en:plant-based-foods-and-beverages,b,en:3-processed-foods,109.0,0.5,0.5,0.2,0.7,1.6,30.0
+3184034256774,La poêlée pour poisson,en:plant-based-foods-and-beverages,a,en:3-processed-foods,68.0,0.06,0.5,0.1,1.4,3.1,28.0
+2800000001070,Cornichons à l'aigre doux,en:plant-based-foods-and-beverages,a,unknown,,0.82,0.08,0.04,0.44,1.26,9.98
+3184034257689,La poêlée aux 5 légumes,fr:100-legumes,a,en:3-processed-foods,69.0,0.1,0.5,0.1,1.3,2.2,27.0
+26061542,Pomme de terre micron onde,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,,,,,,,
+3258561412290,Haricots verts extra fins,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,81.0,0.1,0.1,0.1,1.8,0.4,28.0
+3258561412382,Poelee Méridionale,en:plant-based-foods-and-beverages,a,en:3-processed-foods,69.0,0.06,0.1,0.1,1.6,2.2,35.0
+20253929,Ananas en tranches au sirop léger,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,89.0,0.01,0.5,0.0,0.5,13.0,56.0
+3184034250888,La Poêlée Celtique,fr:100-legumes,a,en:3-processed-foods,75.0,0.03,1.25,0.1,1.9,1.8,52.0
+4027900108267,Ail Semoule,en:plant-based-foods-and-beverages,unknown,unknown,77.0,,,,,,
+3297760097426,Compote pomme datte,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,76.0,0.01,0.5,0.1,0.5,9.0,76.0
+3154230600305,Tarte en or feuilletée,en:plant-based-foods-and-beverages,d,en:4-ultra-processed-food-and-drink-products,47.0,1.1,16.0,5.8,6.9,1.5,347.0
+7616700011463,Baguette à l'ail,en:plant-based-foods-and-beverages,d,en:4-ultra-processed-food-and-drink-products,,1.4,23.0,15.0,7.0,2.5,
+7613037536058,NESTLE LION céréales 675g​,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,25.0,0.49,7.7,1.3,8.2,25.0,410.0
+7613037535693,NESTLE CRUNCH Céréales 980g PRIX CHOC,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,47.0,0.04,7.6,2.0,7.4,24.9,403.0
+7613034932266,NESTLE CRUNCH Céréales 750g,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,34.0,0.02,7.4,3.3,7.4,24.9,401.0
+7613036668910,NESTLE NESQUIK BIO Céréales 375g,en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,52.0,0.45,2.1,0.7,9.1,22.3,374.0
+7613036669498,Cheerios Bio,en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,58.0,0.65,6.6,0.9,9.1,18.0,388.0
+7613035544482,"NESTLE LION Céréales 1,05 kg",en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,15.0,0.49,7.7,3.2,8.2,25.0,409.0
+7613032192570,NESTLE LION Céréales 480g,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,26.0,0.49,7.7,3.2,8.2,25.0,409.0
+7613036669146,NESTLE CHOCAPIC BIO Céréales,en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,50.0,0.22,5.5,1.6,8.8,22.5,391.0
+7613037059281,LION caramel chocolat BIO,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,58.0,0.41,7.7,1.2,8.1,25.0,411.0
+8076800105056,Pâtes spaghetti n°5 1kg,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,73.0,0.01,2.0,0.5,13.0,3.5,359.0
+5000358966305,Bulgur Wheat,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,80.0,0.1,0.8,0.2,3.6,0.3,101.0
+5600341930445,Granola Bio,en:plant-based-foods-and-beverages,b,en:3-processed-foods,87.0,0.04,15.0,2.2,9.0,15.0,450.0
+3229820794624,Galettes riz complet Bio,en:plant-based-foods-and-beverages,a,en:3-processed-foods,68.0,0.25,3.2,0.7,8.7,0.6,379.0
+3229820167398,Galettes riz sésame,en:plant-based-foods-and-beverages,a,en:3-processed-foods,78.0,0.25,5.6,1.0,9.2,0.6,391.0
+3229820788067,Galettes de Riz Chocolat au Lait,en:plant-based-foods-and-beverages,d,en:3-processed-foods,78.0,0.09,23.0,14.0,7.8,27.0,493.0
+3229820803883,Croc' Fourrés Cacao Noisettes,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,45.0,0.44,14.0,1.5,8.4,22.0,440.0
+3229820799803,Croc pétales les p'tits curieux,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,50.0,0.85,0.8,0.3,6.5,18.0,369.0
+8712429350100,Demae Ramen - Chicken,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,63.0,1.0825,4.0,2.0,2.0,0.4,91.0
+3425476202043,Soupe de poissons sauvages,en:meals,b,unknown,1.0,1.0,1.2000000476837,0.34999999403954,5.7,1.0,47.0
+3425470201042,Soupe de poisson Corse,en:meals,b,unknown,1.0,1.06,2.0,0.4,7.7,0.8,47.0
+3229820795447,Couscous à la Méditerranéenne,en:meals,a,unknown,86.0,0.64,5.2,0.7,5.2,1.7,146.0
+3560071174965,Soupe à la chinoise,en:meals,d,en:4-ultra-processed-food-and-drink-products,,7.1,1.3,0.2,9.1,10.0,343.0
+3256220171786,Parmentier de poisson,en:seafood,b,en:4-ultra-processed-food-and-drink-products,7.0,0.66,7.4,3.9,6.8,2.3,128.0
+193771,Chicken shortcrust pastry pie,en:meals,unknown,en:3-processed-foods,13.0,,15.9,7.1,9.8,0.8,282.0
+3229820181899,Quinoa Tomates Olives,en:plant-based-foods-and-beverages,a,en:3-processed-foods,,1.0,4.8,0.7,5.4,3.5,151.0
+3229820795676,Quinoa tomates olives - Bio,en:plant-based-foods-and-beverages,a,en:3-processed-foods,,0.84,3.3,0.5,5.1,1.0,151.0
+3229820788760,Terrine légumes du soleil,en:plant-based-foods-and-beverages,b,en:3-processed-foods,103.0,1.0,16.0,1.7,4.2,2.1,222.0
+20638757,"Coleslaw, choux blanc et carottes",en:snacks,a,en:4-ultra-processed-food-and-drink-products,77.0,1.0,7.7,0.6,0.9,6.7,109.0
+3523680489783,Sushis,en:meals,d,unknown,,1.9,5.3,1.4,5.8,6.2,185.0
+3083681141061,Palet de légumes Courgettes Aubergines,en:plant-based-foods-and-beverages,a,en:3-processed-foods,,0.76,5.1,0.6,3.8,3.6,122.0
+7640160011398,Velouté de carottes,en:meals,b,unknown,,0.2,0.7,0.4,0.5,3.1,28.0
+4008400290829,Kinder Pinguí 8er-Pack,en:snacks,e,unknown,,0.25,29.7,20.0,7.0,33.1,450.0
+3229820788098,Gaufres caramel bio,en:snacks,e,en:4-ultra-processed-food-and-drink-products,76.0,0.94,15.0,5.0,3.7,45.0,429.0
+3229820799124,Croc'Avoine complet,en:plant-based-foods-and-beverages,c,en:3-processed-foods,74.0,0.65,19.0,1.6,8.4,18.0,457.0
+3229820799131,Bio nutrition + croc'avoine chocolat,en:snacks,c,en:4-ultra-processed-food-and-drink-products,61.0,0.57,19.0,2.8,8.5,18.0,454.0
+7622210449283,Galletas de Chocolate Príncipe,en:snacks,d,en:4-ultra-processed-food-and-drink-products,,0.49,17.0,5.6,6.3,32.0,467.0
+3229820797236,Petit fourré noisette,en:snacks,d,en:4-ultra-processed-food-and-drink-products,58.0,0.4,19.0,4.0,5.5,29.0,460.0
+3229820800462,Cookies quinoa cacao choco Bjorg,en:snacks,d,en:3-processed-foods,73.0,0.41,22.0,13.0,8.3,30.0,473.0
+3760151011429,Biscuits aux pépites de chocolat,fr:biscuits-edulcores,a,en:4-ultra-processed-food-and-drink-products,41.0,0.15,13.8,3.7,16.7,1.9,380.0
+8076809517584,Bisc. tarallucci KG1 Barilla #,en:snacks,d,unknown,50.0,0.675,17.0,1.9,7.0,23.5,467.0
+7622210100917,Milka galette choco,en:snacks,e,en:4-ultra-processed-food-and-drink-products,32.0,0.6,24.0,12.0,5.7,35.0,504.0
+8003170061972,FROLLINI con GRANELLI di ZUCCHERO,en:snacks,d,unknown,50.0,0.65,17.0,8.3,7.9,24.0,473.0
+61232202556,Dark Chocolate Chip Oat Biscuits,en:snacks,d,en:4-ultra-processed-food-and-drink-products,31.0,0.775,16.9,7.7,8.1,19.0,454.0
+3250390111627,Tableau d'honneur chocolat au lait - noisette,en:snacks,e,en:4-ultra-processed-food-and-drink-products,44.0,0.59,23.0,14.0,6.7,35.0,499.0
+3250390003977,Biscuits tableau d'honneur chocolat noir,en:snacks,e,en:4-ultra-processed-food-and-drink-products,49.0,0.56,23.0,15.0,7.0,31.0,498.0
+3229820794747,Biscuit Bio Fourre Chocolat Noir X2 50G,en:snacks,d,en:4-ultra-processed-food-and-drink-products,57.0,0.5,20.0,7.0,7.1,27.0,478.0
+3187670015941,Éclair choco fondant,en:snacks,d,unknown,55.0,0.46,11.0,5.0,4.9,18.0,243.0
+3425478313105,Confiture fraise,en:plant-based-foods-and-beverages,unknown,unknown,60.0,,0.0,0.0,0.0,62.0,254.0
+3425478313129,Confiture extra de 3 agrumes,en:plant-based-foods-and-beverages,d,unknown,60.0,0.0,0.0,0.0,0.0,61.0,252.0
+3425471317094,Confiture Clémentine,en:plant-based-foods-and-beverages,c,unknown,60.0,0.02,0.0,0.0,0.6,40.0,178.0
+3425471317278,Confiture Fraise,en:plant-based-foods-and-beverages,c,unknown,60.0,0.07,0.0,0.0,0.5,40.0,177.0
+3425471317025,Confiture orange,en:plant-based-foods-and-beverages,c,unknown,72.0,0.01,0.0,0.0,0.7,40.0,171.0
+3425471309082,Gelée de corse myrte,en:plant-based-foods-and-beverages,d,unknown,60.0,0.04,0.8,0.0,0.5,62.0,252.0
+3425471312228,Confiture de myrtille,en:plant-based-foods-and-beverages,d,unknown,80.0,0.02,0.0,0.0,0.0,53.0,241.0
+3425477306139,Confiture extra de Corse - mûre sauvage,en:plant-based-foods-and-beverages,d,unknown,60.0,0.03,0.8,0.2,0.5,61.0,253.0
+3425477306276,Confiture de fraises,en:plant-based-foods-and-beverages,d,unknown,60.0,0.4,0.0,0.0,0.0,58.0,254.0
+3425471312310,Confiture bio de Corse - Cerise noire,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,45.0,0.02,0.0,0.0,0.8,54.0,233.0
+3425471306531,Confiture du terroir Corse Fraises,en:plant-based-foods-and-beverages,unknown,unknown,60.0,,0.0,0.0,0.0,58.0,254.0
+3520059916093,Miel de fleurs,en:breakfasts,d,en:2-processed-culinary-ingredients,80.0,,,,,,
+3560071501570,Fraise,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,73.0,0.03,0.0,0.0,0.0,39.0,163.0
+5022374043778,Dried mango,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,,0.1975,1.0,0.5,2.6,52.0,354.0
+3252920046034,Compote pomme mirabelle cannelle,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,96.0,0.01,0.6,0.1,0.0,11.8,60.0
+3256220275347,Noix de coco rapée,en:plant-based-foods-and-beverages,d,unknown,45.0,0.09,69.2,59.0,7.4,6.9,708.0
+3080920100377,Cocktail de Fruits,en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,,0.0,0.0,0.0,0.0,12.0,64.0
+3068230016823,Dattes variété Deglet Nour,en:plant-based-foods-and-beverages,b,unknown,49.0,0.01,0.5,0.1,2.1,66.0,293.0
+3574318601343,Compote de pommes bio,en:plant-based-foods-and-beverages,a,unknown,96.0,0.01,0.0,0.0,0.0,12.0,55.0
+4056489033042,Haselnusskerne geröstet,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,20.0,0.03,70.5,6.8,14.3,3.5,722.0
+3760199922855,Abricots secs,en:plant-based-foods-and-beverages,unknown,unknown,44.0,,1.0,0.0,3.4,53.0,241.0
+3068230010364,Pâtes de figues,fr:pates-de-figues,c,en:1-unprocessed-or-minimally-processed-foods,73.0,0.09,1.0,0.1,4.0,52.0,271.0
+3256229521742,Compotes à boire pomme-fraise pomme-abricot,en:plant-based-foods-and-beverages,unknown,unknown,76.0,,0.5,0.1,0.5,10.0,57.0
+6132158600369,Dattes,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,49.0,0.0,0.2,0.0,1.8,55.0,287.0
+3608580109693,Super Fruits compote gourde,en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,76.0,0.0,0.27,0.0,0.43,11.0,53.0
+8715700115832,American Burger Style Sauce,en:condiments,d,en:4-ultra-processed-food-and-drink-products,60.0,2.1,36.0,3.1,1.0,9.3,375.0
+3760103145929,Pâte de Curry Thaï Jaune Biologique Doux,en:condiments,d,en:3-processed-foods,,5.3,5.4,4.3,2.4,5.5,134.0
+5420058008141,Mayonnaise,en:condiments,d,en:4-ultra-processed-food-and-drink-products,37.0,1.0,80.0,6.5,1.2,0.1,726.0
+623682113884,Aioli,en:condiments,e,unknown,29.0,1.33,73.3,10.0,1.33,0.0,667.0
+8720182473813,Amora Mayonnaise Street Mayo Flacon Souple 398g,en:condiments,d,en:4-ultra-processed-food-and-drink-products,40.0,1.5,77.0,6.0,1.2,1.3,700.0
+8710522924327,AMORA Mayonnaise 5 Ingrédients Tube 175g,en:condiments,d,en:1-unprocessed-or-minimally-processed-foods,44.0,1.1,76.0,6.4,1.2,0.5,692.0
+8076809574150,Barilla sauce tomates basilic bio 200g,fr:sauce-pate,a,en:3-processed-foods,105.0,0.78,3.4,0.7,1.5,5.4,66.0
+8005121210989,Salsa Arrabbiata,en:condiments,d,en:4-ultra-processed-food-and-drink-products,90.0,2.18,21.0,2.2,1.6,2.9,216.0
+3033710082919,Fond de volaille,en:condiments,unknown,en:4-ultra-processed-food-and-drink-products,,17.1,1.8,0.6,13.0,21.0,317.0
+3596710284443,Sauce barbecue goût fumé,en:condiments,d,en:4-ultra-processed-food-and-drink-products,74.0,2.18,0.7,0.1,1.1,24.0,126.0
+3038359004544,Sauce Tomate cuisinée aux petits légumes,fr:sauces-pour-feculents,c,en:4-ultra-processed-food-and-drink-products,69.0,2.9,7.3,0.5,2.8,9.3,137.0
+40882741,Creme anglaise,en:dairies,c,en:4-ultra-processed-food-and-drink-products,74.0,0.17,3.0,1.8,3.0,12.0,91.0
+20712952,Sauce crudités caesar,fr:sauces-crudites,d,en:4-ultra-processed-food-and-drink-products,42.0,1.75,49.099998474121,4.0,2.0,4.5999999046326,482.0
+3302768100785,Sauce n°2 armoricaine,en:condiments,c,unknown,,1.5,6.0,2.6,2.4,2.4,81.0
+3291960005557,Huile D'avocat,en:plant-based-foods-and-beverages,c,unknown,36.0,0.0,100.0,20.0,0.0,0.0,900.0
+4901577048234,Mayonaise,en:condiments,unknown,en:4-ultra-processed-food-and-drink-products,37.0,5.0,74.7,,2.67,,667.0
+3258561140995,Sauce Crudités,fr:sauces-crudites,d,en:4-ultra-processed-food-and-drink-products,37.0,2.35,30.3,2.4,0.5,4.7,308.0
+8715035110304,Sauce soja,en:condiments,c,en:3-processed-foods,97.0,16.9,0.0,0.0,10.0,0.6,77.0
+9556041611138,Sauce Soja,en:condiments,unknown,en:4-ultra-processed-food-and-drink-products,88.0,,,,,,
+3770026895009,Pesto frais ail des ours,en:condiments,e,unknown,58.0,1.1,55.9,11.3,9.2,0.3,547.6
+3770026895016,Crème de champignon,en:condiments,d,en:3-processed-foods,62.0,1.0,11.7,6.8,7.1,3.0,
+3330720633859,Houmous,en:plant-based-foods-and-beverages,a,en:3-processed-foods,104.0,0.7,11.0,1.6,14.0,3.0,234.0
+9311627610888,Sauce hoi sin,en:condiments,e,en:4-ultra-processed-food-and-drink-products,,6.1666666666668,6.6666666666667,6.6666666666667,6.6666666666667,41.333333333333,206.66666666667
+8711299021110,Nut Mix,en:plant-based-foods-and-beverages,b,en:1-unprocessed-or-minimally-processed-foods,,0.0,55.0,4.7,20.2,4.3,627.0
+3328859185103,Sorbet au cassis avec baies de cassis,en:desserts,c,en:4-ultra-processed-food-and-drink-products,82.0,0.2,0.2,0.0,0.0,25.0,118.0
+8714100635674,Magnum Glace Bâtonnet Mini Classic x6 330ml,en:desserts,d,en:4-ultra-processed-food-and-drink-products,82.0,0.1,16.0,11.0,2.7,22.0,261.0
+8711327489448,Cornetto Glace à l'Italienne Vanille & Cacao 4x140ml,en:desserts,c,en:4-ultra-processed-food-and-drink-products,95.0,0.12,6.7,5.7,1.8,15.0,155.0
+8711327609082,"Magnum Glace Bâtonnet Mini Classique, Amande & Chocolat Blanc 6x55ml",en:desserts,d,en:4-ultra-processed-food-and-drink-products,96.0,0.09,15.0,11.0,2.6,21.0,328.0
+8711327609648,Magnum Glace Bâtonnet Amande 8x100ml,en:desserts,d,en:4-ultra-processed-food-and-drink-products,87.0,0.1,15.0,9.4,3.5,21.0,249.0
+3041091436245,"Duo d'Epinards, Carottes et Petits Macaroni",en:frozen-foods,not-applicable,en:3-processed-foods,76.0,0.24,2.0,0.6,1.6,0.8,59.0
+3270160840205,La vanille de Madagascar - Pure Sélection,en:desserts,d,en:3-processed-foods,78.0,0.12,11.0,7.2,4.5,19.0,193.0
+4444515789634,"Gratins de pomme de terre, patate douce et épinard",en:frozen-foods,unknown,en:3-processed-foods,,,,,,,
+5027324001235,Mochis Glacés,en:desserts,d,en:4-ultra-processed-food-and-drink-products,,0.1,6.7,4.2,2.4,28.0,217.0
+3450970060899,Colin d'alaska Panées,en:seafood,b,en:4-ultra-processed-food-and-drink-products,-1.0,1.2,7.7,0.7,11.0,1.0,178.0
+3270160504305,FRITES préfites - surgelées 600 g,en:chips-and-fries,a,en:4-ultra-processed-food-and-drink-products,101.0,0.02,4.0,1.24,2.0,0.4,154.0
+8711299020939,noix de pécan,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,19.0,0.0,72.0,6.2,9.2,4.0,721.0
+3229820799834,Les P'tits curieux barres cookies chocolat,en:snacks,d,en:4-ultra-processed-food-and-drink-products,61.0,0.29,22.0,7.8,6.1,22.0,481.0
+3168930170693,Thé vert glacé,fr:the-vert-glace,not-applicable,en:4-ultra-processed-food-and-drink-products,109.0,0.03,0.0,0.0,0.0,2.2,10.0
+93685900,Cadbury Freddo,en:snacks,unknown,en:3-processed-foods,19.0,2.0,5.0,4.0,0.0,95.0,
+4000415851705,Schogetten originals: Praliné Noisettes,en:snacks,e,en:4-ultra-processed-food-and-drink-products,19.0,0.25,30.0,14.0,7.4,55.0,530.0
+8445290503206,Nesquick recharge,en:cocoa-and-its-products,b,en:4-ultra-processed-food-and-drink-products,19.0,0.41,3.6,1.6,5.1,75.1,386.0
+7613035898646,Chocolat Noir Corsé,en:snacks,d,en:4-ultra-processed-food-and-drink-products,34.0,0.02,37.4,22.4,8.4,34.6,555.0
+7613035898707,NESTLE DESSERT Corsé 3 x 200g,en:snacks,d,en:4-ultra-processed-food-and-drink-products,43.0,0.02,37.0,22.2,8.2,35.3,553.0
+7613035859098,NESTLE DESSERT Chocolat Noir Absolu,en:snacks,d,en:4-ultra-processed-food-and-drink-products,33.0,0.01,44.7,26.8,9.0,26.5,592.0
+7613036431651,NESTLE DESSERT Noir Absolu 3x170g,en:snacks,d,en:4-ultra-processed-food-and-drink-products,33.0,0.01,44.7,26.8,9.0,26.5,592.0
+9002859065392,Chocolat au lait,en:snacks,e,unknown,19.0,0.29,30.0,19.0,5.4,55.0,521.0
+5099872009520,Chocolate Pearls,en:snacks,e,en:4-ultra-processed-food-and-drink-products,,0.25,40.7,24.3,5.0,29.9,575.0
+7622201775346,FAVOURITES - Pralinés Mix,en:snacks,e,en:4-ultra-processed-food-and-drink-products,,0.37,32.0,17.0,5.2,55.0,544.0
+20090050,Chocolat blanc,en:snacks,e,en:4-ultra-processed-food-and-drink-products,25.0,0.15,32.4,20.5,7.3,43.4,535.0
+4056489440246,Blanc dessert,en:snacks,e,en:4-ultra-processed-food-and-drink-products,20.0,0.26,34.7,21.0,6.9,54.7,564.0
+7001096582152,,en:snacks,unknown,unknown,,,,,,,
+4000281332506,The Peanut Company,en:snacks,e,en:4-ultra-processed-food-and-drink-products,42.0,0.1,26.0,11.0,9.5,54.0,504.0
+7616500649675,Chocolat fourré au Kirsch,en:snacks,e,en:4-ultra-processed-food-and-drink-products,,0.18,24.0,14.0,7.0,60.0,582.0
+7622400817410,Cote d'or noir truffé,en:snacks,e,en:4-ultra-processed-food-and-drink-products,22.0,0.1,40.5,23.0,4.8,44.0,585.0
+20112332,Anchois,en:seafood,d,en:3-processed-foods,63.0,1.5,36.0,7.5,15.0,0.0,388.0
+3394610004174,Rillettes de maquereau,en:seafood,d,en:4-ultra-processed-food-and-drink-products,10.0,1.2,18.0,7.4,13.7,1.4,226.0
+3263670001495,Toastimer maquereau,en:seafood,c,en:3-processed-foods,37.0,1.0,19.0,3.9,12.0,0.0,247.0
+3551610009121,Acras de morue avec ingrédients bio,en:seafood,a,en:4-ultra-processed-food-and-drink-products,32.0,0.77,9.6,1.7,13.0,2.3,193.0
+8411317302114,Salmon enlatado al natural,en:seafood,a,unknown,36.0,0.21,9.5,1.6,19.0,0.0,160.0
+3329150420115,Foie de morue,en:seafood,d,unknown,9.0,0.95,37.0,5.1,7.0,0.5,376.0
+3276170016708,Petits Coraya format gourmand,en:seafood,b,unknown,14.0,1.4,4.4,0.3,8.4,2.7,111.0
+66613106034,Sardines (a L'huile Et Tabasco),en:seafood,c,unknown,15.0,1.4583333333333,10.714285714286,1.7857142857143,19.047619047619,0.0,178.57142857143
+6111255761494,Sardine à l’huile végétale,en:seafood,unknown,en:3-processed-foods,15.0,,,,,,
+8059070744125,Sandwich thon olives noires,en:sandwiches,b,unknown,45.0,1.4,12.3,1.5,10.4,1.4,244.0
+3258561221168,Thon entier albacore,fr:thons-albacore-au-naturel,b,en:3-processed-foods,23.0,1.2,1.6,0.4,25.0,0.0,
+3596710333431,Filets de harengs fumés doux marinés à l'huile et aux aromates,en:seafood,d,en:3-processed-foods,62.0,3.6,14.2,3.5,15.6,0.3,194.0
+3501890004354,Rillettes de bar sauvage a la fleur de sel,en:seafood,d,en:4-ultra-processed-food-and-drink-products,40.0,1.0,12.0,7.4,14.0,0.0,166.0
+3019081238704,Sardines à la tomate,en:seafood,c,en:3-processed-foods,18.0,1.2,7.4,3.1,17.0,1.3,148.0
+3250391151332,Merlan pané,en:seafood,a,en:4-ultra-processed-food-and-drink-products,-6.0,0.68,8.0,0.8,12.0,0.5,193.0
+3251870001445,Ferrigno Anchois du Pescadou,en:seafood,c,unknown,57.0,0.85,8.4,3.1,26.0,0.5,182.0
+3251870001018,Sardines,en:seafood,c,unknown,64.0,0.85,12.9,3.3,26.4,0.0,222.0
+3251870001070,Sardines,en:seafood,c,unknown,64.0,0.8,12.9,3.33,26.4,0.01,222.0
+3251870001162,Thon a l'huile d'olive,en:seafood,a,unknown,16.0,0.33000001311302,14.0,0.5,26.0,0.5,231.0
+3251870001148,Thon,en:seafood,a,unknown,21.0,0.7,1.0,0.4,26.4,0.0,115.0
+5900344009293,Marinated Herring in mushroom sauce,en:seafood,d,en:4-ultra-processed-food-and-drink-products,56.0,1.8,28.9,4.2,3.9,5.0,300.0
+3701525001257,Acras de Morue,en:seafood,d,unknown,3.0,2.1,6.0,0.8,9.0,3.6,207.0
+3760313531048,Rillettes de thon aux poivrons grillés,en:seafood,d,unknown,40.0,0.43,17.0,11.0,14.0,2.2,228.0
+8719200012608,ProActiv Margarine Tartine,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,62.0,0.2,35.0,7.6,0.5,0.5,314.0
+3613042717385,Crème de noisette,fr:pates-a-tartiner,d,en:4-ultra-processed-food-and-drink-products,44.0,0.03,18.0,1.5,5.6,31.0,327.0
+3229820789620,Terrine d'olives,en:plant-based-foods-and-beverages,d,en:4-ultra-processed-food-and-drink-products,,1.2,17.0,11.0,4.5,0.5,218.0
+60383640712,Beurre d'arachide crémeux,en:plant-based-foods-and-beverages,d,unknown,35.0,0.58333333333332,46.666666666667,10.0,20.0,6.6666666666667,600.0
+68100084238,Beurre d'arachide,en:plant-based-foods-and-beverages,d,en:4-ultra-processed-food-and-drink-products,40.0,0.917,53.3,6.67,20.0,6.67,600.0
+3770002953266,Fraise de plougastel,en:plant-based-foods-and-beverages,c,unknown,60.0,1.0,0.0,0.0,0.4,0.0,
+3770002953631,Mini confiture pomme façon tatin,en:plant-based-foods-and-beverages,unknown,en:3-processed-foods,70.0,1.0,,0.25,0.3,,
+3760074418015,Palets au Caramel au beurre salé,en:snacks,e,en:4-ultra-processed-food-and-drink-products,55.0,0.5,13.0,10.0,5.0,34.0,386.0
+3229820791074,Biscuits fourrés aux framboises,en:snacks,d,en:4-ultra-processed-food-and-drink-products,70.0,0.5,18.0,4.1,5.3,39.0,461.0
+3229820799650,Les P'tits curieux barquettes aux fraises,fr:barquettes,d,en:4-ultra-processed-food-and-drink-products,78.0,0.42,4.2,0.7,5.8,53.0,351.0
+54008045,Jus de fruits saveur fruits exotiques,en:beverages-and-beverages-preparations,d,en:4-ultra-processed-food-and-drink-products,68.0,0.0,0.0,0.0,0.0,4.7,19.0
+3258561300702,Boisson aux fruits Fruits rouges,en:plant-based-foods-and-beverages,e,en:4-ultra-processed-food-and-drink-products,49.0,0.025,0.1,0.1,0.2,10.5,
+5942045340312,Jus de betteraves pommes mangue et carottes,en:plant-based-foods-and-beverages,e,unknown,44.0,0.0,0.0,0.0,0.0,9.9,44.0
+5942045330603,Nectar de peche,en:plant-based-foods-and-beverages,e,unknown,18.0,0.0,0.2,0.1,0.5,11.6,51.0
+5038862235235,Défense,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,25.0,0.1,0.7,0.5,0.0,10.0,57.0
+3222475307843,Nectar Pomme,en:plant-based-foods-and-beverages,e,en:3-processed-foods,52.0,0.03,0.1,0.1,0.6,10.2,46.0
+8016438002075,Lime plus,en:plant-based-foods-and-beverages,b,en:1-unprocessed-or-minimally-processed-foods,68.0,0.0,0.1,0.0,0.5,1.6,40.0
+3760294960875,Jus de citron,en:plant-based-foods-and-beverages,unknown,en:1-unprocessed-or-minimally-processed-foods,36.0,,0.1,0.0,0.1,1.5,21.0
+3760294960783,Jus d'oranges pressées 100%,en:plant-based-foods-and-beverages,c,unknown,63.0,0.0,0.15,0.0,0.9,11.8,57.0
+3760294960790,Pur jus de pommes sans sucres ajoutés,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,70.0,0.0,0.0,0.0,0.0,11.0,49.0
+3257988105778,A.C.E,en:plant-based-foods-and-beverages,unknown,unknown,21.0,,0.5,0.0,0.5,10.0,40.0
+6957735788861,Coconut Tree brand original coconut juice,en:beverages-and-beverages-preparations,e,en:3-processed-foods,49.0,0.03061224489796,2.4489795918367,2.0408163265306,0.81632653061224,7.3469387755102,53.061224489796
+3045320104530,Préparation Citrons pressés,en:plant-based-foods-and-beverages,e,en:3-processed-foods,53.0,0.02,0.1,0.0,0.2,10.0,43.0
+9008700158428,Rauch Orange with pulp,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,48.0,0.01,0.5,0.1,0.7,8.5,43.0
+3760343880062,boison végétale poire cajou gourmand&parfumé,en:plant-based-foods-and-beverages,e,unknown,21.0,0.2,2.0,0.3,1.5,5.0,49.0
+5449000120984,Fanta Orange Zero 2Ltr,en:plant-based-foods-and-beverages,unknown,en:4-ultra-processed-food-and-drink-products,,,0.0,,0.0,0.0,1.6
+3123340003054,LE PUR JUS Multifruits,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,26.0,0.0,0.0,0.0,0.5,9.8,48.0
+8410261650104,Zumo D.simon Disfruta Naranja S / Azucar Brik 1L,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,80.0,0.0099999997764826,0.0,0.0,0.30000001192093,4.1999998092651,25.0
+3256228399601,Pur jus Pomme Myrtille Cassis,en:plant-based-foods-and-beverages,unknown,unknown,21.0,,0.5,0.1,0.5,9.6,46.0
+3256228418852,Jus de pomme,en:plant-based-foods-and-beverages,c,en:1-unprocessed-or-minimally-processed-foods,63.0,0.01,0.5,0.1,0.5,9.8,44.0
+3263850583117,tablette degustation chocolat au lait,en:snacks,e,en:4-ultra-processed-food-and-drink-products,48.0,0.42,36.0,23.0,7.6,50.0,558.0
+27025635,Tartichoc,en:snacks,e,en:4-ultra-processed-food-and-drink-products,,0.02,25.0,15.0,5.3,54.0,490.0
+80941330,Kinder surprise,en:snacks,unknown,unknown,,,,,,,
+7613036245210,NESTLE DESSERT chocolat noir,en:snacks,e,en:4-ultra-processed-food-and-drink-products,43.0,0.01,35.0,20.0,5.9,46.0,553.0
+3514280123566,Les chocolats noirs bios et équitables,en:snacks,unknown,unknown,15.0,,44.0,26.0,0.1,29.0,567.0
+8720354672648,MELK CHOCO LADE karamel,en:snacks,e,en:4-ultra-processed-food-and-drink-products,34.0,0.72,31.9,19.2,6.4,50.5,535.0
+7622201806491,Père Noël chocolat au lait pain d'épices,en:snacks,e,en:4-ultra-processed-food-and-drink-products,,0.3,30.0,18.0,6.4,53.0,535.0
+7622210588272,Weihnachtsmann aus Alpenmilchschokolade,en:snacks,e,en:4-ultra-processed-food-and-drink-products,19.0,0.28,31.0,19.0,6.4,55.0,541.0
+550000020263775,Hachés de poulet,en:meats-and-their-products,c,en:1-unprocessed-or-minimally-processed-foods,22.0,1.25,8.0,2.3,18.0,0.6,146.0
+217637032087,Cuisses de poulet roti,en:meats-and-their-products,c,unknown,22.0,1.3,8.8,2.5,20.0,0.6,162.0
+3248830002123,Petites escalopes de volaille à la moutarde pommes de terre,en:meals,a,en:3-processed-foods,26.0,0.78,3.0,0.7,8.9,0.6,95.0
+990530101054498104,Blanc de poulet,fr:charcuteries-cuites,c,unknown,35.0,1.8,1.5,0.4,23.0,0.5,108.0
+215068118738,Filet de poulet,en:meats-and-their-products,a,en:1-unprocessed-or-minimally-processed-foods,45.0,0.11,2.3,0.7,23.0,0.0,113.0
+2848592026507,Cuisses de poulet rôti,en:meats-and-their-products,c,unknown,31.0,1.3,8.8,2.5,20.0,0.6,162.0
+2155956002405,Hauts de cuisse de poulet rôti,fr:hauts-de-cuisse-de-poulet-rotis,b,unknown,31.0,1.0,8.0,2.4,19.0,0.7,151.0
+3770019467169,TENDERS cornfkakes hallal,en:meats-and-their-products,b,en:4-ultra-processed-food-and-drink-products,22.0,1.0,6.8,0.9,13.6,0.8,183.0
+3250391352302,Dés de Poulet -25% de sel,en:meats-and-their-products,b,unknown,27.0,1.47,0.6,0.3,20.3,1.8,94.0
+2239891000006,Nuggets de poulet,en:meats-and-their-products,b,en:4-ultra-processed-food-and-drink-products,16.0,0.4,14.5,3.6,17.5,0.3,225.5
+2481831062388,Escalops  De Poulet Marinees a Le milanaises fromage frais ail et fines herbes,en:meats-and-their-products,c,unknown,31.0,1.4,5.0,3.1,17.0,0.9,159.0
+20013394,Blanc De Poulet,fr:charcuteries-cuites,c,en:4-ultra-processed-food-and-drink-products,20.0,1.9,1.7,0.6,21.0,0.9,101.0
+3266980677343,"Poulet, Aiguillettes de Poulet",fr:aiguillettes-de-poulet,a,unknown,34.0,0.1075,1.5,0.4,23.0,0.0,106.0
+5413110531305,POULET-CHICKEN,en:meats-and-their-products,b,unknown,22.0,0.94,4.2,0.7,6.3,2.4,131.0
+213319044287,Poulet,en:meats-and-their-products,a,unknown,37.0,0.2,11.0,2.8,20.0,0.0,179.0
+227645032146,Escalope extra fine de poulet fermier bio,en:meats-and-their-products,unknown,unknown,42.0,,,,,,
+2302832003517,ALA ADOBADAS,en:meats-and-their-products,unknown,en:4-ultra-processed-food-and-drink-products,15.0,,,,,,
+4061458009843,Hühner-Nudeltopf,en:canned-foods,c,en:4-ultra-processed-food-and-drink-products,27.0,1.08,2.4,0.9,2.8,0.5,57.0
+2160770008410,Poulet jaune fermier de l'Ardèche,fr:poulets-fermiers,unknown,unknown,45.0,,,,,,
+2209678011365,Poulet,en:meats-and-their-products,a,unknown,31.0,0.1,8.6,2.8,21.0,0.5,160.0
+213329026761,Aiguillettes de poulet,fr:aiguillettes-de-poulet,unknown,unknown,37.0,,,,,,
+3021690025019,Parmentier de poulet,fr:parmentiers-de-poulet,b,en:4-ultra-processed-food-and-drink-products,31.0,0.79,2.5,1.0,3.8,0.5,69.0
+3661112059781,Blanc de poulet 6 tranches,fr:charcuteries-cuites,c,en:4-ultra-processed-food-and-drink-products,28.0,1.9,1.5,0.3,20.3,0.5,
+3088540502663,Miel de Montagne,en:breakfasts,unknown,en:2-processed-culinary-ingredients,93.0,0.02,0.5,,0.5,80.0,320.0
+3258561200781,Miel de fleurs,en:breakfasts,unknown,en:2-processed-culinary-ingredients,77.0,0.0,0.225,0.0,0.443,,313.0
+3210791353460,Miel de fleurs,en:breakfasts,d,en:2-processed-culinary-ingredients,79.0,0.01,0.5,0.5,0.3,80.0,321.0
+8413812012208,Miel de romero,en:breakfasts,unknown,en:2-processed-culinary-ingredients,72.0,,,,,,
+3335444150309,Miel de foret,en:breakfasts,unknown,en:2-processed-culinary-ingredients,72.0,,,,,,
+3335444133203,Miel d'acacia,en:breakfasts,unknown,en:2-processed-culinary-ingredients,92.0,,,,,,
+3335440311414,Bonbons miel & eucalyptus,en:snacks,d,unknown,42.0,0.01,0.5,0.5,0.5,79.0,393.0
+3335440311513,Bonbon miel,en:snacks,d,unknown,42.0,0.0,0.5,0.5,0.5,79.0,393.0
+3335440311711,Bonbons pastilles au Miel,en:snacks,d,unknown,42.0,0.01,0.5,0.5,0.5,79.0,393.0
+3770001871158,Coffret découverte Miel de Corse,en:breakfasts,unknown,en:2-processed-culinary-ingredients,81.0,,,,,,
+3760343370013,Miel Du Gâtinais,fr:miels-du-gatinais,unknown,en:2-processed-culinary-ingredients,81.0,,,,,,
+3760343370051,Miel de fleurs,en:breakfasts,unknown,en:2-processed-culinary-ingredients,72.0,,,,,,
+3760343100146,Miel Acacia de la plaine du Danube,en:breakfasts,unknown,en:2-processed-culinary-ingredients,76.0,,,,,,
+3760310950392,Miel blanc du kirghizstan,en:breakfasts,d,en:2-processed-culinary-ingredients,72.0,0.0,0.2,0.1,0.0,70.0,333.0
+3760310950736,Miel de nigelles,fr:miels-de-nigelle,unknown,en:2-processed-culinary-ingredients,72.0,,,0.0,,0.0,
+3280201479622,Miel de fleurs,en:breakfasts,unknown,en:2-processed-culinary-ingredients,72.0,,,,,,
+9780205525522,Miel de fleurs d'oignon,en:breakfasts,unknown,en:2-processed-culinary-ingredients,72.0,,,,,,
+3976541125045,Miel de fleurs,en:breakfasts,unknown,en:2-processed-culinary-ingredients,72.0,,,,,,
+3760313533271,Miel de fleurs,en:breakfasts,unknown,en:2-processed-culinary-ingredients,72.0,,,,,,
+3347433064320,Miel Bio de fleurs,en:breakfasts,d,en:2-processed-culinary-ingredients,92.0,0.004,0.5,0.0,0.5,82.0,335.0
+4260096394551,HONIG freiner blüten,en:breakfasts,d,en:2-processed-culinary-ingredients,72.0,0.02,0.5,0.1,0.4,75.0,382.0
+20436568,Clear Honey,en:breakfasts,d,en:2-processed-culinary-ingredients,83.0,0.0,0.0,0.0,0.0,81.0,336.0
+3175681140110,Pain burger Gerblé sans gluten,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,68.0,0.97,4.9,1.9,3.8,6.8,247.0
+3175681209190,Le Grand Nature Gerblé sans gluten,en:plant-based-foods-and-beverages,a,en:4-ultra-processed-food-and-drink-products,,0.54,3.8,0.5,4.5,2.7,236.0
+3228857000838,American Sandwich Nature,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,76.0,1.1,4.1,0.4,7.6,7.7,271.0
+3229820800523,pain complet seigle,en:plant-based-foods-and-beverages,a,en:3-processed-foods,102.0,1.1,1.3,0.2,4.6,4.0,198.0
+9002859111013,Grissini,en:plant-based-foods-and-beverages,d,unknown,74.0,2.0,11.0,4.0,12.0,1.4,427.0
+3560070341719,Petits pains grillés au froment,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,82.0,1.0,7.8,0.7,9.5,8.6,407.0
+4005195704258,Das Pausenbrot,en:plant-based-foods-and-beverages,c,unknown,74.0,1.2,4.5,0.6,9.5,5.0,225.0
+250876011413,,en:plant-based-foods-and-beverages,unknown,unknown,70.0,,,,,,
+5600961113662,Bagel classique (lean brioche),en:plant-based-foods-and-beverages,b,unknown,75.0,1.1,5.7,1.0,9.4,2.2,297.0
+3700152680163,"L'ancestrale, baguette",fr:pains-de-tradition-francaise,b,en:4-ultra-processed-food-and-drink-products,100.0,1.5,0.8,0.2,13.0,1.8,340.0
+8008696025712,Nutrifree Panfette,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,,1.62,5.4,1.5,4.1,2.7,219.0
+8008696026092,Panfette,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,68.0,1.7,5.5,1.6,3.0,2.9,229.0
+4061458094214,Mini-Brötchen zum Aufbacken - Röstzwiebeln,en:plant-based-foods-and-beverages,c,en:3-processed-foods,,1.4,5.6,1.9,8.6,3.3,273.0
+3251870001490,Croutons grillés aux 7 céréales,en:plant-based-foods-and-beverages,d,unknown,,1.8,10.8,4.6,12.1,3.6,433.0
+3228857000906,Pain AMS complet,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,85.0,1.2,4.5,0.4,7.7,4.9,253.0
+3258561010199,Petits pains grilles,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,72.0,1.4,5.9,0.5,11.0,4.3,384.0
+3760301420842,Gressins Farine de Caroube & graines de sésame,en:plant-based-foods-and-beverages,d,unknown,94.0,1.08,25.0,7.0,10.8,3.9,481.0
+3760301420873,Gressins Multi-Céréales,en:plant-based-foods-and-beverages,d,unknown,94.0,1.8,28.3,6.6,12.9,4.6,501.0
+3760301420859,Gressins farine de blé et de seigle,en:plant-based-foods-and-beverages,d,unknown,94.0,1.7,7.4,2.6,11.4,5.2,403.0
+3760301420866,Gressins graines de sésames,en:plant-based-foods-and-beverages,d,unknown,94.0,1.34,19.2,4.4,14.5,4.4,459.0
+3760313530362,Gressins a l’huile d’olive bio,en:plant-based-foods-and-beverages,unknown,unknown,94.0,,1.8,0.3,14.5,3.1,354.0
+8852018101154,Japanese Chicken Flavor,en:plant-based-foods-and-beverages,unknown,en:4-ultra-processed-food-and-drink-products,33.0,0.9,2.5,1.2,1.4,0.3,69.0
+8712429350407,"Demae ramen, sésame",en:plant-based-foods-and-beverages,unknown,en:4-ultra-processed-food-and-drink-products,52.0,1.1,4.0,2.0,2.0,0.5,91.0
+8008845072970,Pennette Rigate,en:plant-based-foods-and-beverages,a,unknown,,0.015,1.7,0.4,13.0,2.7,355.0
+8076809583527,Barilla pates penne rigate 500g+200g offert,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,,0.01,2.0,0.5,13.0,3.5,359.0
+5031021388971,Pasta Quills,en:plant-based-foods-and-beverages,unknown,unknown,,,1.47,0.4,13.2,2.53,400.0
+9415748007883,Gluten Free Quinoa Spirals,en:plant-based-foods-and-beverages,unknown,en:1-unprocessed-or-minimally-processed-foods,65.0,,1.1249999701977,0.0,8.5000002384186,0.0,364.5000076294
+8005121000177,Rigatoni 17,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,,0.004,1.7,0.9,13.0,3.9,355.0
+8005121000405,Fusilli 40,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,,0.004,1.7,0.9,13.0,3.9,355.0
+3267460030054,Langue d' oiseau semi complet,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,85.0,0.0,1.5,0.2,11.1,1.5,360.0
+8005121000061,Bucatini 6,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,,0.004,1.7,0.9,13.0,3.9,355.0
+8005121000122,Fettuccine 12,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,,0.004,1.7,0.9,12.0,3.9,355.0
+841165156863,Nouilles Instantanées : Bœuf,en:plant-based-foods-and-beverages,unknown,unknown,62.0,,3.9,,2.3,,85.0
+841165156887,Nouilles Instantanées : Poulet,en:plant-based-foods-and-beverages,unknown,en:4-ultra-processed-food-and-drink-products,65.0,2.95,21.6,13.9,8.2,1.6,479.0
+8005121002096,Conchiglioni 87b,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,,0.004,1.7,0.9,13.0,3.9,355.0
+841165157396,Nouilles chinoises Special Chicken,en:aliments-d-origine-vegetale,d,unknown,,2.9,3.8,1.7,2.3,0.0,100.0
+8001665705066,mushroom & mascarpone tortelloni,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,62.0,0.75,7.9,2.6,6.6,1.3,221.0
+8076809523714,BARILLA TAGLIATELLE 500g,en:plant-based-foods-and-beverages,a,en:1-unprocessed-or-minimally-processed-foods,60.0,0.01,2.0,0.5,13.0,3.5,359.0
+8722700153276,Beef & tomato noodle,en:plant-based-foods-and-beverages,unknown,en:4-ultra-processed-food-and-drink-products,56.0,2.0,21.0,2.2,13.0,5.2,526.0
+5000118203688,Original Curry,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,58.0,0.48,5.4,2.6,2.8,1.8,142.0
+3564700391914,Tortellini  Ricotta Epinards aux oeufs frais,en:plant-based-foods-and-beverages,b,en:4-ultra-processed-food-and-drink-products,,0.9,7.0,2.4,10.0,3.8,271.0
+3760242979751,Pâtes risoni à l'encre de seiche,en:plant-based-foods-and-beverages,b,unknown,,1.1,5.8,2.0,11.0,3.2,223.0
+3175681219489,Senza zuccheri mini cake al gusto limone,en:snacks,b,en:4-ultra-processed-food-and-drink-products,,0.42,21.0,1.8,5.0,0.0,372.0
+3353630000924,Gâteau nantais au rhum et aux amandes,fr:gateaux-nantais,e,en:4-ultra-processed-food-and-drink-products,,0.3,22.1,9.4,6.3,43.3,426.5
+3760138580085,Gateau Basque,fr:gateaux-basques,unknown,en:4-ultra-processed-food-and-drink-products,,,19.29,,4.56,31.97,270.65
+3263850576119,Le Marbré Chocolat,en:snacks,d,en:4-ultra-processed-food-and-drink-products,46.0,0.15,22.0,2.9,5.7,26.0,432.0
+3259426040795,Madeleines coeur fraise,en:snacks,d,en:4-ultra-processed-food-and-drink-products,60.0,0.80000001192093,19.0,1.7000000476837,4.0,29.0,409.0
+3259426040801,Madeleine coeur chocolat,en:snacks,e,unknown,28.0,1.0,27.0,3.5,5.5,32.0,475.0
+3259426043628,Le moelleux au fromage blanc,en:snacks,d,unknown,,1.0,26.0,2.4,5.0,27.0,448.0
+3251515355001,Tarte framboise fabuleuse,en:snacks,d,en:4-ultra-processed-food-and-drink-products,29.0,0.35,12.0,6.6,3.6,21.0,260.0
+3701525001011,Quatre-quart breton maison,en:snacks,e,unknown,40.0,1.0,24.0,15.0,7.0,26.0,422.0
+4022993045284,Blueberry Muffin,en:snacks,d,en:4-ultra-processed-food-and-drink-products,59.0,0.38,20.0,9.6,4.2,26.0,373.0
+3760154260893,Madeleines vanille,en:snacks,d,en:4-ultra-processed-food-and-drink-products,94.0,0.275,27.0,4.7,3.8,24.0,460.0
+3596710472796,Coeur fondant au chocolat noir BIO 2x90g,en:snacks,d,en:3-processed-foods,49.0,0.12,22.0,13.0,6.6,24.0,359.0
+3259421505015,Madeleine longue,en:snacks,d,unknown,60.0,1.1,19.0,1.7,5.2,22.0,413.0
+3259426038792,Madeleines extra moelleuse,en:snacks,e,unknown,42.0,1.1,25.0,4.3,5.6,28.0,449.0
+3259420340112,Madeleines Extra Moelleuses,en:snacks,d,unknown,60.0,1.2,26.0,2.8,4.5,24.9,462.0
+3259426039157,Madeleine cœur pomme poire,en:snacks,d,unknown,60.0,0.9,18.0,1.7,0.0,31.0,410.0
+3259426043178,Mon brownie,en:snacks,e,unknown,24.0,0.75,28.0,8.1,5.2,33.0,446.0
+3259426043086,Madeleines extra moelleuses Saveur Amande,fr:madeleines-ker-cadelac,d,unknown,65.0,0.7,29.0,2.5,5.8,26.0,478.0
+3259426043109,Les P'tites Madeleines Nature,fr:madeleines-vracs,d,en:4-ultra-processed-food-and-drink-products,64.0,0.38,23.0,2.0,5.6,26.0,451.0
+3265474573000,Fleur de Colza,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,65.0,0.0,100.0,7.1,0.0,0.0,900.0
+8437010369896,Aceite de oliva virgen extra ecológico,en:plant-based-foods-and-beverages,b,en:2-processed-culinary-ingredients,47.0,0.0,99.3,14.9,0.0,0.0,896.0
+8004123016247,Huile d’olive,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27.0,0.0,91.6,13.0,0.0,0.0,824.0
+8004123016230,Huile d'olive,en:plant-based-foods-and-beverages,unknown,en:2-processed-culinary-ingredients,27.0,,91.6,13.0,0.0,0.0,824.0
+8004123002080,Olio extra vergine di oliva,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27.0,0.0,91.6,13.0,0.0,0.0,824.0
+8004123001298,Huile dolive extra vierge,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27.0,0.0,91.6,13.0,0.0,0.0,824.0
+3700786807042,Huile d'olive de Provence AOC,fr:huile-d-olive-de-provence,c,en:2-processed-culinary-ingredients,36.0,0.02,100.0,17.0,0.5,0.5,900.0
+8002470000674,Huile d'olive vierge extra Classico,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,40.0,0.0,91.3,6.3,0.0,0.0,822.0
+5412158025050,Huile de graines de lin,en:plant-based-foods-and-beverages,d,en:2-processed-culinary-ingredients,44.0,0.0,100.0,11.0,0.0,0.0,900.0
+3760294960608,Huile de cuisson tournesol désodorisée,en:plant-based-foods-and-beverages,d,en:2-processed-culinary-ingredients,,0.0,100.0,12.0,0.0,0.0,900.0
+4260355581210,Huile De Coco Desodorisee,en:plant-based-foods-and-beverages,e,en:2-processed-culinary-ingredients,,0.0,91.0,84.0,0.0,0.0,819.0
+3375190006277,Huile pour friture,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,65.0,0.0,100.0,9.0,0.0,0.0,900.0
+5201043112605,,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27.0,0.0,91.0,13.0,0.0,0.0,823.0
+3760301420477,Huile d’olive vierge extra ail,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27.0,0.0,91.599998474121,13.89999961853,0.0,0.0,824.0
+3760301420378,Huile d’olive vierge extra,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27.0,0.0,91.6,12.8,0.0,0.0,810.0
+3021885000715,Huile de noix,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,-1.0,0.0,100.0,10.0,0.0,0.0,900.0
+8424536935926,Huile d'olive vierge extra,en:plant-based-foods-and-beverages,c,unknown,27.0,0.0,91.6,13.0,0.0,0.0,822.0
+8008460003670,Olio extra vergine di oliva,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27.0,0.0,100.0,15.0,0.0,0.0,900.0
+4005009103062,Bratöl,en:plant-based-foods-and-beverages,c,unknown,64.0,0.0,92.0,7.0,0.0,0.0,828.0
+96619206841,Canola oil cooking spray,en:plant-based-foods-and-beverages,c,en:4-ultra-processed-food-and-drink-products,52.0,,,,,,
+3760232740033,Huile vierge bio de Colza,en:plant-based-foods-and-beverages,unknown,en:2-processed-culinary-ingredients,72.0,,,6.4,0.0,0.0,885.0
+3701515200110,Huile d olive piment,en:plant-based-foods-and-beverages,c,en:2-processed-culinary-ingredients,27.0,0.0,100.0,17.0,0.0,0.0,900.0
+3229820789118,Lunettes fraise,fr:lunettes-a-la-fraise,d,en:4-ultra-processed-food-and-drink-products,83.0,0.1,15.0,4.6,6.0,33.0,436.0
