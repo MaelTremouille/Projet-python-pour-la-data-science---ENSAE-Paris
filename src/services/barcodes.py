@@ -1,16 +1,16 @@
 import json
 from src.services.api import Api
 import pandas as pd
+import os
 
 
 class Barcodes:
-    def __init__(self, filename='src/database/barcodes.json', 
-                 path='src/database/dataframe.csv'):
+    def __init__(self, path='src/database/dataframe.csv'):
         """Initialise l'objet avec le fichier où les codes-barres sont stockés."""
-        self.filename = filename
-        self.path = path
+        self.path = os.getenv('DATABASE_PATH')
         self.api = Api()
         self.df = self.get_df()
+        self.initialisation_path = os.getenv('INITIALISATION_PATH')
 
     
     def __create_new_df(self):
@@ -35,7 +35,7 @@ class Barcodes:
     def dict_database_init(self):
         barcodes_dict = dict()
 
-        with open("src/services/init/initialisation.json", "r") as file:
+        with open(self.initialisation_path, "r") as file:
             barcodes = json.load(file)
         for barcode in barcodes:
             produit = self.api.recherche(barcode)

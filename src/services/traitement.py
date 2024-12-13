@@ -1,11 +1,10 @@
-import json
 import pandas as pd
 from src.services.barcodes import Barcodes
 
 
 class Traitement(Barcodes):
-    def __init__(self, filename='src/database/barcodes.json'):
-        super().__init__(filename)
+    def __init__(self):
+        super().__init__()
         self.category_map = {
             "dairies": "Produits laitiers",
             "fromages-du-nord-pas-de-calais": "Produits laitiers",
@@ -102,8 +101,9 @@ class Traitement(Barcodes):
         
     def get_categorie_clean_value(self):
         set_clean_values = set()
-        for key in dico:
-            set_clean_values.add(self.category_map[key])
+        indeces = self.df.index.to_list()
+        for idx in indeces:
+            set_clean_values.add(self.category_map[idx])
         return(list(set_clean_values))
 
 

@@ -5,7 +5,7 @@ from src.services.traitement import Traitement
 
 
 class Statistiques:
-    def __init__(self, filename='database/barcodes.json'):
+    def __init__(self):
         self.df = Traitement().df
 
     def stats_univariees(self, var_name: str):

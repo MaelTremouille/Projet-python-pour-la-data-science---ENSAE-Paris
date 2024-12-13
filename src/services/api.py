@@ -1,10 +1,10 @@
 import requests
-import json
 import time
+import os
 
 class Api:
     def __init__(self):
-        self.url = 'https://world.openfoodfacts.org/api/v0/product/'
+        self.url = os.getenv('URL')
 
     def recherche(self,barcode: str):
         barcode_url = self.url + barcode + '.json'
