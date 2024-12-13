@@ -3,23 +3,9 @@ import pandas as pd
 from src.services.barcodes import Barcodes
 
 
-class Traitement:
-    """
-    Classe Traitement pour charger et transformer les données des produits à partir d'un fichier JSON.
-    Elle applique des transformations sur les données, comme la conversion des types de certaines colonnes
-    et l'ajout d'une colonne 'Categorie_clean' basée sur un mappage défini.
-    
-    Attributs :
-        filename (str) : Le chemin vers le fichier JSON contenant les données des produits.
-        df (pd.DataFrame) : Le DataFrame contenant les données transformées des produits.
-        category_map (dict) : Un dictionnaire mappant les catégories des produits en catégories plus lisibles.
-    """
-    def __init__(self, filename: str='src/database/barcodes.json'):
-        """
-        Initialise la classe en chargeant les données depuis un fichier JSON.
-        """
-        self.filename = filename
-        self.df = self.__create_df()
+class Traitement(Barcodes):
+    def __init__(self, filename='src/database/barcodes.json'):
+        super().__init__(filename)
         self.category_map = {
             "dairies": "Produits laitiers",
             "fromages-du-nord-pas-de-calais": "Produits laitiers",
@@ -78,25 +64,6 @@ class Traitement:
         }
         self.__appliquer_transformation_categories()
         self.__convert_types()
-
-    
-    def __create_df(self):
-        """
-        Charge les données depuis un fichier JSON.
-
-        Returns: 
-            df (pd.DataFrame) contenant les données.
-        """
-        data = Barcodes().barcodes
-        rows = []
-        for key, value in data.items():
-            if value is not None:
-                row = {"Barcode": key, **value}
-                rows.append(row)
-        df = pd.DataFrame(rows)
-        df.reset_index(drop=True, inplace=True)
-        df.set_index("Barcode", inplace=True)
-        return df
 
     def __convert_types(self):
         """
