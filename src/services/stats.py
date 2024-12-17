@@ -36,6 +36,8 @@ class Statistiques:
         vmax = cov_matrix.max().max()  # Valeur maximale de la matrice
         abs_max = max(abs(vmin), abs(vmax))  # Symétriser autour de 0
 
+        # TODO faire matrice de correlation
+
         sns.heatmap(
             cov_matrix,
             annot=True,
