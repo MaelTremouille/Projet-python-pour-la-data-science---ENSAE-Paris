@@ -56,24 +56,26 @@ class Statistiques:
     def boxplot_categorie(self, variable: str, few_obs: int = None):
         if few_obs is not None:
             filtered_df = pd.DataFrame(columns=self.df.columns)
-            # Étape 1 : Compter le nombre d'observations par catégorie
             category_counts = self.df['Categorie_clean'].value_counts()
 
-            # Étape 2 : Filtrer les catégories avec au moins n valeurs
             categories_to_keep = category_counts[category_counts >= few_obs].index
 
-            # Étape 3 : Conserver uniquement les lignes avec ces catégories
             filtered_df = self.df[self.df['Categorie_clean'].isin(categories_to_keep)]
         else:
             filtered_df = self.df
-        plt.figure(figsize=(12, 8))  # Taille plus grande pour plus de lisibilité
-        ax = sns.boxplot(x=filtered_df['Categorie_clean'], y=self.df[variable], palette="Set3")
-        ax.set_title(f"Boxplot de {variable} par catégorie", fontsize=16)  # Taille du titre
-        ax.set_xlabel("Catégorie", fontsize=12)  # Taille du label x
-        ax.set_ylabel(variable, fontsize=12)  # Taille du label y
-        ax.tick_params(axis='x', rotation=45)  # Rotation des labels de l'axe x
-        plt.tight_layout()  # Ajustement des marges pour éviter le chevauchement
-        plt.plot
+
+        filtered_df = filtered_df.dropna(subset=[variable, 'Categorie_clean'])
+        
+        plt.figure(figsize=(12, 8)) 
+        ax = sns.boxplot(x=filtered_df['Categorie_clean'], y=filtered_df[variable], palette="Set3")
+        
+        ax.set_title(f"Boxplot de {variable} par catégorie", fontsize=16) 
+        ax.set_xlabel("Catégorie", fontsize=12)  
+        ax.set_ylabel(variable, fontsize=12)  
+        ax.tick_params(axis='x', rotation=45) 
+        plt.tight_layout()
+        plt.show() 
+
 
     def moy_par_categorie(self, variable : str = 'Ecoscore'):
         moyennes = self.df.groupby("Categorie_clean")[variable].mean().dropna()
