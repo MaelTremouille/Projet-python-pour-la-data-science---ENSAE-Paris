@@ -26,11 +26,13 @@ class ModelPrediction(ABC):
 
         df_modele = self.df[required_cols]
         df_modele.ffill(inplace=True)
-        label_encoder = LabelEncoder()
-        # df_modele.loc[:, 'Nutriscore'] = label_encoder.fit_transform(df_modele['Nutriscore'])
-        df_modele['Nutriscore'] = label_encoder.fit_transform(df_modele['Nutriscore'])
+        self.label_encoder = LabelEncoder()
+        df_modele['Nutriscore'] = self.label_encoder.fit_transform(df_modele['Nutriscore'])
         X = df_modele.drop(columns='Nutriscore')
         y = df_modele['Nutriscore']
+        # Récupération du dictionnaire d'encodage
+        interm_dict = {label: index for index, label in enumerate(self.label_encoder.classes_)}
+        self.encoding_dict = {value: key for key, value in interm_dict.items()}
         return X, y
 
     def create_train_test_df(self):
@@ -70,3 +72,27 @@ class ModelPrediction(ABC):
         Cette méthode doit être implémentée dans les classes filles.
         """
         pass
+    
+    def predict_nutriscore(self, new_data):
+        """
+        Prédit le Nutriscore pour une ou plusieurs lignes de données.
+
+        new_data : DataFrame
+            Le DataFrame contenant les valeurs pour lesquelles on veut prédire le Nutriscore.
+        
+        return : Array
+            Un tableau contenant les prédictions de Nutriscore.
+        """
+        if not self.model:
+            print("Veuillez d'abord entraîner le modèle avec train_model()")
+            return
+
+        # Appliquer la même transformation aux nouvelles données
+        scaler = StandardScaler()
+        new_data_scaled = scaler.fit_transform(new_data)
+
+        # Faire les prédictions
+        predictions = self.model.predict(new_data_scaled)
+        true_pred = self.encoding_dict[predictions[0]]
+        
+        return true_pred

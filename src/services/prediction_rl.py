@@ -19,3 +19,5 @@ class LogisticRegressionPrediction(ModelPrediction):
             return
         print("Coefficients :\n", self.model.coef_)
         print("Variables associées :\n", self.X.columns)
+
+    
