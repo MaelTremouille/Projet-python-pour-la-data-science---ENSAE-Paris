@@ -20,40 +20,38 @@ class Statistiques:
         }
         return stats
     
-    # TODO décider de si on conserve ça ou non
+    def stats_covariances(self):
+        numeric_columns =[
+            'Taux de sel (100g)', 'Taux de matieres grasses (100g)',
+            'Taux de matieres grasses saturees (100g)',
+            'Taux de proteine (100g)', 'Taux de sucre (100g)',
+            'Energie (Kcal) (100g)', 
+            'Ecoscore'
+            ]
+        cov_matrix = self.df[numeric_columns].cov()
+        plt.figure(figsize=(10, 8))
 
-    # def stats_covariances(self):
-    #     numeric_columns =[
-    #         'Taux de sel (100g)', 'Taux de matieres grasses (100g)',
-    #         'Taux de matieres grasses saturees (100g)',
-    #         'Taux de proteine (100g)', 'Taux de sucre (100g)',
-    #         'Energie (Kcal) (100g)', 
-    #         'Ecoscore'
-    #         ]
-    #     cov_matrix = self.df[numeric_columns].cov()
-    #     plt.figure(figsize=(10, 8))
+        # Définir les limites de la matrice pour centrer la palette sur 0
+        vmin = cov_matrix.min().min()
+        vmax = cov_matrix.max().max()
+        abs_max = max(abs(vmin), abs(vmax)) 
 
-    #     # Définir les limites de la matrice pour centrer la palette sur 0
-    #     vmin = cov_matrix.min().min()
-    #     vmax = cov_matrix.max().max()
-    #     abs_max = max(abs(vmin), abs(vmax)) 
+        sns.heatmap(
+            cov_matrix,
+            annot=True,
+            fmt=".2f",
+            cmap=sns.color_palette(["#ADD8E6", "#FFB6C1"], as_cmap=True),
+            vmin=-abs_max,  # Minimum symétrique négatif
+            vmax=abs_max,   # Maximum symétrique positif
+            square=True
+        )
 
-    #     sns.heatmap(
-    #         cov_matrix,
-    #         annot=True,
-    #         fmt=".2f",
-    #         cmap=sns.color_palette(["#ADD8E6", "#FFB6C1"], as_cmap=True),
-    #         vmin=-abs_max,  # Minimum symétrique négatif
-    #         vmax=abs_max,   # Maximum symétrique positif
-    #         square=True
-    #     )
-
-    #     plt.title("Matrice de covariance", fontsize=16)
-    #     plt.xticks(rotation=45, ha="right", fontsize=12)
-    #     plt.yticks(fontsize=12)
-    #     plt.tight_layout()
-    #     plt.show()
-    #     return cov_matrix
+        plt.title("Matrice de covariance", fontsize=16)
+        plt.xticks(rotation=45, ha="right", fontsize=12)
+        plt.yticks(fontsize=12)
+        plt.tight_layout()
+        plt.show()
+        return cov_matrix
     
     def corr_matrix(self):
         numeric_columns = [

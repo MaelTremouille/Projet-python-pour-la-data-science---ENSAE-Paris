@@ -1,8 +1,9 @@
 from sklearn.ensemble import RandomForestClassifier
-from src.services.prediction import ModelPrediction
+from src.services.abstract_prediction import AbstractModelPrediction
 
 
-class RandomForestPrediction(ModelPrediction):
+
+class RandomForestPrediction(AbstractModelPrediction):
     def train_model(self, n_estimators=100, max_depth=None):
         """
         Entraîne un modèle de Random Forest avec les paramètres donnés.
@@ -17,5 +18,8 @@ class RandomForestPrediction(ModelPrediction):
         if not self.model:
             print("Veuillez d'abord entraîner le modèle avec train_model()")
             return
-        print("Importances des caractéristiques :\n", self.model.feature_importances_)
-        print("Variables associées :\n", self.X.columns)
+        cols = ['Ecoscore', 'Taux de sel (100g)', 'Taux de matieres grasses (100g)',
+                'Taux de matieres grasses saturees (100g)', 'Taux de proteine (100g)',
+                'Taux de sucre (100g)', 'Energie (Kcal) (100g)']
+        for i in range(len(cols)):
+            print(f"{cols[i]} : {round(self.model.feature_importances_[i]*100)} %")
