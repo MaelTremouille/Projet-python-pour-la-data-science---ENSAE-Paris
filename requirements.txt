@@ -1,0 +1,16 @@
+# Gestion des données
+pandas
+numpy
+
+# Apprentissage automatique
+scikit-learn
+
+# Visualisation
+matplotlib
+seaborn
+
+# Requêtes API
+requests
+
+# Chargement de variables d'environnement
+python-dotenv
