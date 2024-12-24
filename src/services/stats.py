@@ -1,12 +1,20 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-from src.services.traitement import Traitement
+from src.services.processing import Processing
 
 
 class Statistiques:
+    """
+    A class for performing various statistical analysis on the dataset.
+    It includes methods for univariate statistics, covariance matrix,
+    correlation matrix, and visualizations like boxplots and mean comparisons by category.
+    """
     def __init__(self):
-        self.df = Traitement().df
+        """
+        Initializes the class with the dataset loaded from Processing.
+        """
+        self.df = Processing().df
 
     def stats_univariees(self, var_name: str):
         variable = self.df[var_name]
@@ -21,6 +29,16 @@ class Statistiques:
         return stats
     
     def stats_covariances(self):
+        """
+        Computes and returns univariate statistics for a given variable in the dataset.
+
+        Parameters:
+        var_name (str): The name of the variable (column) for which statistics are to be calculated.
+
+        Returns:
+        dict: A dictionary containing statistics such as mean, median, standard deviation,
+              min, max, and the number of missing values for the specified variable.
+        """
         numeric_columns =[
             'Taux de sel (100g)', 'Taux de matieres grasses (100g)',
             'Taux de matieres grasses saturees (100g)',
@@ -31,7 +49,7 @@ class Statistiques:
         cov_matrix = self.df[numeric_columns].cov()
         plt.figure(figsize=(10, 8))
 
-        # Définir les limites de la matrice pour centrer la palette sur 0
+        # Define the limits of the matrix to center the palette on 0
         vmin = cov_matrix.min().min()
         vmax = cov_matrix.max().max()
         abs_max = max(abs(vmin), abs(vmax)) 
@@ -41,8 +59,8 @@ class Statistiques:
             annot=True,
             fmt=".2f",
             cmap=sns.color_palette(["#ADD8E6", "#FFB6C1"], as_cmap=True),
-            vmin=-abs_max,  # Minimum symétrique négatif
-            vmax=abs_max,   # Maximum symétrique positif
+            vmin=-abs_max,
+            vmax=abs_max,
             square=True
         )
 
@@ -54,6 +72,13 @@ class Statistiques:
         return cov_matrix
     
     def corr_matrix(self):
+        """
+        Computes and visualizes the correlation matrix for selected numeric variables.
+        Displays a heatmap of the correlation matrix.
+
+        Returns:
+        pd.DataFrame: A DataFrame representing the correlation matrix of selected numeric columns.
+        """
         numeric_columns = [
             'Taux de sel (100g)', 'Taux de matieres grasses (100g)',
             'Taux de matieres grasses saturees (100g)',
@@ -62,24 +87,29 @@ class Statistiques:
             'Ecoscore'
         ]
 
-        # Calcul de la matrice de corrélation
+        # Computation of the correlation matrix
         corr_matrix = self.df[numeric_columns].corr()
-
-        # Affichage de la matrice de corrélation avec un heatmap
+        # Display the correlation matrix with a heatmap
         plt.figure(figsize=(10, 8))
 
-        # Définir les limites de la matrice pour centrer la palette sur 0
+        # Define the limits of the matrix to center the palette on 0
         vmin = corr_matrix.min().min()
         vmax = corr_matrix.max().max()
         abs_max = max(abs(vmin), abs(vmax))
-
         sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', vmin=-abs_max, vmax=abs_max, center=0)
-
-        # Affichage du titre
         plt.title('Matrice de Corrélation')
         plt.show()
 
     def boxplot_categorie(self, variable: str, few_obs: int = None):
+        """
+        Generates a boxplot for a specified variable grouped by product categories.
+        Optionally filters categories that have fewer than `few_obs` observations.
+
+        Parameters:
+        variable (str): The name of the variable to display in the boxplot.
+        few_obs (int, optional): The minimum number of observations required for each category. 
+                                  If provided, categories with fewer than this number of observations are excluded.
+        """
         if few_obs is not None:
             filtered_df = pd.DataFrame(columns=self.df.columns)
             category_counts = self.df['Categorie_clean'].value_counts()
@@ -103,7 +133,13 @@ class Statistiques:
         plt.show() 
 
 
-    def moy_par_categorie(self, variable : str = 'Ecoscore'):
+    def mean_by_category(self, variable : str = 'Ecoscore'):
+        """
+        Computes and visualizes the average of a specified variable for each category.
+
+        Parameters:
+        variable (str): The name of the variable to calculate the mean for each category (default is 'Ecoscore').
+        """
         moyennes = self.df.groupby("Categorie_clean")[variable].mean().dropna()
         # Creer le graphe
         plt.figure(figsize=(10, 6))
@@ -113,18 +149,4 @@ class Statistiques:
         plt.ylabel("Categories", fontsize=14)
         plt.grid(axis="x", linestyle="--", alpha=0.7)
         plt.tight_layout()
-
-        # Afficher le graphique
         plt.show()
-
-
-    
-
-    
-
-
-
-
-
-
-

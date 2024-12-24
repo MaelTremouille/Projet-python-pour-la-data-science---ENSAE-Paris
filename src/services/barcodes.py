@@ -5,8 +5,43 @@ import os
 
 
 class Barcodes:
-    def __init__(self, path='src/database/dataframe.csv'):
-        """Initialise l'objet avec le fichier où les codes-barres sont stockés."""
+    """
+    A class for managing a product database using barcodes.
+    Allows for adding, retrieving, and deleting products from a CSV database,
+    and interacts with an external API to fetch product details based on barcode.
+
+    Attributes:
+        path (str): The path to the CSV file storing the barcode database.
+        api (Api): An instance of the Api class to interact with the external API.
+        df (pd.DataFrame): The DataFrame holding the product database.
+        initialisation_path (str): The path to the initialization JSON file containing barcode data.
+
+    Methods:
+        __create_new_df():
+            Loads product data from a JSON file and creates a new DataFrame.
+        
+        dict_database_init():
+            Initializes the database by querying the API for product details based on barcodes.
+        
+        get_df():
+            Loads the DataFrame from the CSV file, or creates a new one if the file doesn't exist.
+        
+        __add_product(barcode: str):
+            Adds a new product to the database using the barcode.
+        
+        get_product(barcode: str):
+            Retrieves a product by its barcode from the database. Adds it if not present.
+        
+        delete_product(barcode: str):
+            Deletes a product from the database using its barcode.
+        
+        clear_database():
+            Clears all data in the database and resets the DataFrame.
+    """
+    def __init__(self):
+        """
+        Initializes the Barcodes object with the path to the barcode database file.
+        """
         self.path = os.getenv('DATABASE_PATH')
         self.api = Api()
         self.df = self.get_df()
@@ -15,10 +50,10 @@ class Barcodes:
     
     def __create_new_df(self):
         """
-        Charge les données depuis un fichier JSON.
-
-        Returns: 
-            df (pd.DataFrame) contenant les données.
+        Loads data from a JSON file and creates a new DataFrame.
+        
+        Returns:
+            pd.DataFrame: A DataFrame containing the product data.
         """
         self.barcodes_dict = self.dict_database_init()
         rows = []
@@ -33,16 +68,28 @@ class Barcodes:
         return df
     
     def dict_database_init(self):
+        """
+        Initializes the database by querying the API for product details based on barcodes.
+        
+        Returns:
+            dict: A dictionary mapping barcodes to product data.
+        """
         barcodes_dict = dict()
 
         with open(self.initialisation_path, "r") as file:
             barcodes = json.load(file)
         for barcode in barcodes:
-            produit = self.api.recherche(barcode)
-            barcodes_dict[barcode] = produit
+            product = self.api.research(barcode)
+            barcodes_dict[barcode] = product
         return barcodes_dict
 
     def get_df(self):
+        """
+        Loads the DataFrame from the CSV file or creates a new one if the file doesn't exist.
+        
+        Returns:
+            pd.DataFrame: The DataFrame containing product data.
+        """
         try:
             with open(self.path, 'r') as f:
                 df = pd.read_csv(self.path, index_col=0)
@@ -52,24 +99,47 @@ class Barcodes:
             df = self.__create_new_df()
         return df
         
-    def __add_produit(self, barcode):
-        produit = self.api.recherche(barcode)
-        self.df.loc[barcode] = produit
+    def __add_product(self, barcode):
+        """
+        Adds a new product to the database using the provided barcode.
+        
+        Args:
+            barcode (str): The barcode of the product to add.
+        """
+        product = self.api.research(barcode)
+        self.df.loc[barcode] = product
         self.df.to_csv(self.path, index=True)
 
-    def get_produit(self, barcode:str):
-        """Retourne la valeur associée à un barcode, ou None si il n'existe pas."""
+    def get_product(self, barcode:str):
+        """
+        Retrieves a product from the database using its barcode. If not present, adds it.
+        
+        Args:
+            barcode (str): The barcode of the product to retrieve.
+        
+        Returns:
+            pd.Series: The product data corresponding to the barcode.
+        """
         if barcode not in self.df.index:
-            self.__add_produit(barcode)
+            self.__add_product(barcode)
             print(f"Ce produit associé au code barre {barcode} \
                   vient d'être ajouté à la BDD")
         return self.df.loc[barcode]
     
-    def delete_produit(self, barcode: str):
+    def delete_product(self, barcode: str):
+        """
+        Deletes a product from the database using its barcode.
+        
+        Args:
+            barcode (str): The barcode of the product to delete.
+        """
         if barcode in self.df.index:
             self.df.drop(barcode, inplace=True)
         print(f"Suppression de {barcode} confirmée.")
 
-    def vider_database(self):
+    def clear_database(self):
+        """
+        Clears all data in the database and resets the DataFrame.
+        """
         self.df = pd.DataFrame()
         self.df.to_csv(self.path, index=True)

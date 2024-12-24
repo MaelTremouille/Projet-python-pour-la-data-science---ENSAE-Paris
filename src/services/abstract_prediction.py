@@ -4,19 +4,38 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 import matplotlib.pyplot as plt
-from src.services.traitement import Traitement
+from src.services.processing import Processing
 
 
 class AbstractModelPrediction(ABC):
+    """
+    Abstract base class for model predictions. Provides a framework for preprocessing data,
+    training a model, evaluating its performance, and making predictions. Must be subclassed
+    to define specific model behavior.
+    """
     def __init__(self):
-        self.df = Traitement().df
+        """
+        Initializes the class by loading and preprocessing the data from the Processing service.
+        Sets up train-test splits and establishes variables for model training and evaluation.
+        """
+        self.df = Processing().df
         if self.df.empty:
-            raise ValueError("Le DataFrame chargé depuis Traitement est vide.")
+            raise ValueError("Le DataFrame chargé depuis Processing est vide.")
         self.X, self.y = self.__create_pred_df()
         self.X_train, self.X_test, self.y_train, self.y_test = self.__create_train_test_df()
         self.model = None
 
     def __create_pred_df(self):
+        """
+        Prepares the feature matrix (X) and target vector (y) for the model.
+
+        - Filters data to include only specific columns and valid Nutriscore values.
+        - Uses forward fill to handle missing values.
+        - Encodes the target labels using a LabelEncoder.
+
+        Returns:
+            Tuple containing X (features) and y (target).
+        """
         # setting valid scores and variables
         valid_scores = ['a', 'b', 'c', 'd', 'e']
         self.required_cols = ['Ecoscore', 'Taux de sel (100g)', 'Taux de matieres grasses (100g)',
@@ -39,6 +58,12 @@ class AbstractModelPrediction(ABC):
         return X, y
 
     def __create_train_test_df(self):
+        """
+        Splits the data into training and testing sets. Applies standardization to the features.
+
+        Returns:
+            Tuple containing X_train, X_test, y_train, and y_test.
+        """
         X_train, X_test, y_train, y_test = train_test_split(self.X, self.y, test_size=0.2, random_state=42, stratify=self.y)
         scaler = StandardScaler()
         # Standardization
@@ -49,14 +74,15 @@ class AbstractModelPrediction(ABC):
     @abstractmethod
     def train_model(self):
         """
-        Méthode abstraite pour entraîner un modèle.
-        Cette méthode doit être implémentée dans les classes filles.
+        Abstract method to train a machine learning model.
+        Must be implemented in subclasses.
         """
         pass
 
     def evaluate_performance(self):
         """
-        Affiche les performances du modèle (matrice de confusion, rapport de classification, précision).
+        Evaluates the model's performance using metrics such as the confusion matrix,
+        classification report, and accuracy score.
         """
         if not self.model:
             print("Veuillez d'abord entraîner le modèle avec train_model()")
@@ -64,7 +90,8 @@ class AbstractModelPrediction(ABC):
         y_pred = self.model.predict(self.X_test)
         labels = self.label_encoder.classes_ 
         conf_mat = confusion_matrix(self.y_test, y_pred)
-        # Affichage de la matrice de confusion
+        
+        # Displaying the confusion matrix, classification report and precision
         print("Matrice de confusion :\n", )
         plt.figure(figsize=(6, 6))
         sns.heatmap(conf_mat, annot=True, fmt='d',
@@ -82,30 +109,27 @@ class AbstractModelPrediction(ABC):
     @abstractmethod
     def get_model_details(self):
         """
-        Méthode abstraite pour obtenir les détails du modèle (par exemple, coefficients ou importances des caractéristiques).
-        Cette méthode doit être implémentée dans les classes filles.
+        Abstract method to retrieve model details (e.g., coefficients, feature importances).
+        Must be implemented in subclasses.
         """
         pass
     
     def predict_nutriscore(self, new_data):
         """
-        Prédit le Nutriscore pour une ou plusieurs lignes de données.
+        Predicts the Nutriscore for new data.
 
-        new_data : DataFrame
-            Le DataFrame contenant les valeurs pour lesquelles on veut prédire le Nutriscore.
-        
-        return : Array
-            Un tableau contenant les prédictions de Nutriscore.
+        Args:
+            new_data (DataFrame): The input data for prediction.
+
+        Returns:
+            Array containing the predicted Nutriscore labels.
         """
         if not self.model:
             print("Veuillez d'abord entraîner le modèle avec train_model()")
             return
 
-        # Appliquer la même transformation aux nouvelles données
         scaler = StandardScaler()
         new_data_scaled = scaler.fit_transform(new_data)
-
-        # Faire les prédictions
         predictions = self.model.predict(new_data_scaled)
         true_pred = self.encoding_dict[predictions[0]]
         

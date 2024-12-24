@@ -4,16 +4,27 @@ import pandas as pd
 
 
 class LogisticRegressionPrediction(AbstractModelPrediction):
+    """
+    This class extends the AbstractModelPrediction class and implements the specific methods 
+    for training a Logistic Regression model and retrieving its details.
+
+    It uses the LogisticRegression from scikit-learn to perform classification tasks.
+    """
     def train_model(self):
         """
-        Entraîne un modèle de régression logistique.
+        Trains a Logistic Regression model with the given parameters.
         """
         self.model = LogisticRegression()
         self.model.fit(self.X_train, self.y_train)
 
     def get_model_details(self):
         """
-        Affiche les coefficients du modèle de régression logistique.
+        Displays the feature importances for the trained Logistic Regression model.
+
+        If the model is not trained yet, it prompts the user to train the model first using train_model().
+
+        Returns:
+        None
         """
         if not self.model:
             print("Veuillez d'abord entraîner le modèle avec train_model()")
