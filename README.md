@@ -10,8 +10,7 @@ Ce projet propose une exploration approfondie de données issues d’Open Food F
    - Bibliothèques : `pandas`, `numpy`, `requests`, `scikit-learn`, `matplotlib`, `seaborn`,`python-dotenv`.  
    - Cloner le dépôt :
 ```bash
-git clone https://gitlab.com/TheBestGroup1800735/projet-2a-info.git
-https://github.com/MaelTremouille/Projet-python-pour-la-data-science---ENSAE-Paris.git
+git clone https://github.com/MaelTremouille/Projet-python-pour-la-data-science---ENSAE-Paris.git
 ```
    - Installer les packages requis :
 ```bash
