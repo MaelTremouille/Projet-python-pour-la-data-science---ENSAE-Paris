@@ -6,10 +6,24 @@ Ce projet propose une exploration approfondie de données issues d’Open Food F
 ## 0. Instructions d’Utilisation 
 
 **Installation et Pré-requis**  
-   - Python 3.9+ (possibilité que ca fonctionne avec des versions antérieures)  
+   - Python 3.9+ (possibilité que cela fonctionne avec des versions antérieures)  
    - Bibliothèques : `pandas`, `numpy`, `requests`, `scikit-learn`, `matplotlib`, `seaborn`,`python-dotenv`.  
-   - Cloner ce dépôt https://github.com/MaelTremouille/Projet-python-pour-la-data-science---ENSAE-Paris.git et s’assurer que le répertoire de travail pointe sur **Projet-python-pour-la-data-science---ENSAE-Paris**.
-   - exécuter **pip install python-dotenv** si vous rencontrer une erreur lors de la deuxième exécution.
+   - Cloner le dépôt :
+```bash
+git clone https://gitlab.com/TheBestGroup1800735/projet-2a-info.git
+https://github.com/MaelTremouille/Projet-python-pour-la-data-science---ENSAE-Paris.git
+```
+   - Installer les packages requis :
+```bash
+pip install -r requirements.txt
+pip list
+```
+Disclaimer : il est possible d'avoir un problème en lien avec `dotenv` :
+```bash
+pip install python-dotenv
+```
+
+
 
 
 ---
