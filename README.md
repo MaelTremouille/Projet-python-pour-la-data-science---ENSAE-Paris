@@ -12,6 +12,8 @@ Ce projet propose une exploration approfondie de données issues d’Open Food F
 ```bash
 git clone https://github.com/MaelTremouille/Projet-python-pour-la-data-science---ENSAE-Paris.git
 ```
+Pour éviter tous les problèmes de chemins relatifs, il vaut mieux directement ouvrir le folder qui vient d'être créé (autrement, on s'expose à des problèmes de chemins relatifs avec le *.env* notamment.
+
    - Installer les packages requis :
 ```bash
 pip install -r requirements.txt
